@@ -979,14 +979,14 @@
    "title": "Agent Engineer"
   },
   "list_AAABn_yFPrR7jJezymFDFrAf": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yFPrR7jJezymFDFrAf",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:06:59",
    "rate_freq": "hourly",
    "rate_max": 84.0,
@@ -996,14 +996,14 @@
    "title": "Applied Computer Science Benchmark Specialist"
   },
   "list_AAABn_yH0eoAuKpvXORIdrGW": {
-   "active": true,
+   "active": false,
    "category": "Other Engineering",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yH0eoAuKpvXORIdrGW",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:09:47",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1013,14 +1013,14 @@
    "title": "Applied Engineering Benchmark Specialist"
   },
   "list_AAABn_yIA7lRhn_Aos9LS7jE": {
-   "active": true,
+   "active": false,
    "category": "Life, Physical, and Social Science",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yIA7lRhn_Aos9LS7jE",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:10:00",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1030,14 +1030,14 @@
    "title": "Applied Physics Benchmark Specialist"
   },
   "list_AAABn_yIPO_R7kHhw5VCS7aS": {
-   "active": true,
+   "active": false,
    "category": "Life, Physical, and Social Science",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yIPO_R7kHhw5VCS7aS",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:10:15",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1047,14 +1047,14 @@
    "title": "Applied Chemistry Benchmark Specialist"
   },
   "list_AAABn_yIZR1__lQF4UFJWK4b": {
-   "active": true,
+   "active": false,
    "category": "Life, Physical, and Social Science",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yIZR1__lQF4UFJWK4b",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:10:25",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1064,14 +1064,14 @@
    "title": "Applied Mathematics Benchmark Specialist"
   },
   "list_AAABn_yJDZQmJZCTxypEe6iy": {
-   "active": true,
+   "active": false,
    "category": "Business Operations",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yJDZQmJZCTxypEe6iy",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:11:08",
    "rate_freq": "hourly",
    "rate_max": 98.0,
@@ -1081,14 +1081,14 @@
    "title": "Applied Business & Commerce Benchmark Specialist"
   },
   "list_AAABn_yJR4hKB_2XSltNpq3n": {
-   "active": true,
+   "active": false,
    "category": "Medicine",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yJR4hKB_2XSltNpq3n",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-13T19:11:23",
    "rate_freq": "hourly",
    "rate_max": 119.0,
@@ -3518,14 +3518,14 @@
    "title": "General Physician"
   },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
-   "active": true,
+   "active": false,
    "category": "Other Engineering",
-   "closed_at": null,
+   "closed_at": "2026-11-13T22:08:52Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoSrPUxxXD7fJaeFCSrmf",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-10-11T11:53:13",
    "rate_freq": "hourly",
    "rate_max": 84.0,
@@ -4164,9 +4164,13 @@
     [
      "2026-11-13T21:24:27Z",
      2738
+    ],
+    [
+     "2026-11-13T22:08:52Z",
+     2723
     ]
    ],
-   "slots": 2738,
+   "slots": 2723,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4200,7 +4204,13 @@
    "rate_max": 150.0,
    "rate_min": 150.0,
    "reopen_count": 0,
-   "slots": 36,
+   "slot_hist": [
+    [
+     "2026-11-13T22:08:52Z",
+     35
+    ]
+   ],
+   "slots": 35,
    "title": "Geriatrician"
   },
   "list_AAABoWtv9pI6MJtsV35ELp_E": {
