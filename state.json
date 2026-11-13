@@ -1907,14 +1907,14 @@
    "title": "Bilingual Dutch (Netherlands) Generalist Expert — AI Safety"
   },
   "list_AAABoGon4PfvcmZO7_tO-Y2-": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-13T08:45:26Z",
    "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGon4PfvcmZO7_tO-Y2-",
    "location": "Remote — Eastern Europe preferred",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-04T02:03:14",
    "rate_freq": "hourly",
    "rate_max": 42.0,
@@ -1937,7 +1937,13 @@
    "rate_max": 44.0,
    "rate_min": 40.0,
    "reopen_count": 0,
-   "slots": 4,
+   "slot_hist": [
+    [
+     "2026-11-13T08:45:26Z",
+     3
+    ]
+   ],
+   "slots": 3,
    "title": "Bilingual Polish Generalist Expert — AI Safety"
   },
   "list_AAABoGopKr-AAiw_UztLz4Y7": {
@@ -4775,7 +4781,13 @@
    "rate_max": 90.0,
    "rate_min": 90.0,
    "reopen_count": 0,
-   "slots": 5,
+   "slot_hist": [
+    [
+     "2026-11-13T08:45:26Z",
+     4
+    ]
+   ],
+   "slots": 4,
    "title": "Electrical Engineer Reviewer"
   },
   "list_AAABoa1Jr97bxLyOdZtG0bN2": {
@@ -4962,7 +4974,13 @@
    "rate_max": 65.0,
    "rate_min": 65.0,
    "reopen_count": 0,
-   "slots": 14,
+   "slot_hist": [
+    [
+     "2026-11-13T08:45:26Z",
+     13
+    ]
+   ],
+   "slots": 13,
    "title": "Lifestyle & Travel Concierge Expert"
   },
   "list_AAABoakxrPXaSjQJyZVELrab": {
