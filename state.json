@@ -3939,9 +3939,13 @@
     [
      "2026-11-13T10:42:10Z",
      2879
+    ],
+    [
+     "2026-11-13T11:37:31Z",
+     2877
     ]
    ],
-   "slots": 2879,
+   "slots": 2877,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4751,13 +4755,20 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoa1JdtVScGh5y5ZBYqSo",
    "location": "Remote",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-05T19:57:15",
    "rate_freq": "hourly",
    "rate_max": 90.0,
    "rate_min": 90.0,
    "reopen_count": 0,
-   "slots": 6,
+   "slot_hist": [
+    [
+     "2026-11-13T11:37:31Z",
+     5
+    ]
+   ],
+   "slots": 5,
    "title": "Civil Engineer Reviewer"
   },
   "list_AAABoa1Jif2oV4hlV79P_5YJ": {
