@@ -1903,7 +1903,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGomRCpVclsLpaRJqp6m",
    "location": "Netherlands",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-04T02:01:28",
    "rate_freq": "hourly",
    "rate_max": 52.0,
@@ -3292,7 +3292,13 @@
    "rate_max": 160.0,
    "rate_min": 150.0,
    "reopen_count": 0,
-   "slots": 56,
+   "slot_hist": [
+    [
+     "2026-11-13T12:33:22Z",
+     55
+    ]
+   ],
+   "slots": 55,
    "title": "Economics Research Expert"
   },
   "list_AAABoP3B8SkA4VcfExhLrYa3": {
@@ -3943,9 +3949,13 @@
     [
      "2026-11-13T11:37:31Z",
      2877
+    ],
+    [
+     "2026-11-13T12:33:22Z",
+     2876
     ]
    ],
-   "slots": 2877,
+   "slots": 2876,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
