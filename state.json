@@ -5048,7 +5048,13 @@
    "rate_max": 100.0,
    "rate_min": 100.0,
    "reopen_count": 0,
-   "slots": 20,
+   "slot_hist": [
+    [
+     "2026-11-13T09:40:26Z",
+     19
+    ]
+   ],
+   "slots": 19,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
