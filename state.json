@@ -986,7 +986,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yFPrR7jJezymFDFrAf",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:06:59",
    "rate_freq": "hourly",
    "rate_max": 84.0,
@@ -1003,7 +1003,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yH0eoAuKpvXORIdrGW",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:09:47",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1020,7 +1020,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yIA7lRhn_Aos9LS7jE",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:10:00",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1037,7 +1037,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yIPO_R7kHhw5VCS7aS",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:10:15",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1054,7 +1054,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yIZR1__lQF4UFJWK4b",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:10:25",
    "rate_freq": "hourly",
    "rate_max": 77.0,
@@ -1071,7 +1071,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yJDZQmJZCTxypEe6iy",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:11:08",
    "rate_freq": "hourly",
    "rate_max": 98.0,
@@ -1088,7 +1088,7 @@
    "first_seen": "2026-11-13T17:12:40Z",
    "id": "list_AAABn_yJR4hKB_2XSltNpq3n",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-13T19:11:23",
    "rate_freq": "hourly",
    "rate_max": 119.0,
@@ -3457,9 +3457,13 @@
     [
      "2026-11-13T20:30:24Z",
      53
+    ],
+    [
+     "2026-11-13T21:24:27Z",
+     54
     ]
    ],
-   "slots": 53,
+   "slots": 54,
    "title": "Economics Research Expert"
   },
   "list_AAABoP3B8SkA4VcfExhLrYa3": {
@@ -3521,7 +3525,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoSrPUxxXD7fJaeFCSrmf",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-11T11:53:13",
    "rate_freq": "hourly",
    "rate_max": 84.0,
@@ -4156,9 +4160,13 @@
     [
      "2026-11-13T20:30:24Z",
      2750
+    ],
+    [
+     "2026-11-13T21:24:27Z",
+     2738
     ]
    ],
-   "slots": 2750,
+   "slots": 2738,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -5304,9 +5312,13 @@
     [
      "2026-11-13T09:40:26Z",
      19
+    ],
+    [
+     "2026-11-13T21:24:27Z",
+     18
     ]
    ],
-   "slots": 19,
+   "slots": 18,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
