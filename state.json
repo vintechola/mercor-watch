@@ -4181,9 +4181,13 @@
     [
      "2026-11-13T23:25:10Z",
      2730
+    ],
+    [
+     "2026-11-13T23:58:06Z",
+     2722
     ]
    ],
-   "slots": 2730,
+   "slots": 2722,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5683,9 +5687,13 @@
     [
      "2026-11-13T17:12:40Z",
      22
+    ],
+    [
+     "2026-11-13T23:58:06Z",
+     21
     ]
    ],
-   "slots": 22,
+   "slots": 21,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABodU-1biYNoQyWeFElIoT": {
