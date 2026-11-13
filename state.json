@@ -3965,9 +3965,13 @@
     [
      "2026-11-13T15:23:19Z",
      2868
+    ],
+    [
+     "2026-11-13T16:16:56Z",
+     2860
     ]
    ],
-   "slots": 2868,
+   "slots": 2860,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4205,7 +4209,13 @@
    "rate_max": 350.0,
    "rate_min": 350.0,
    "reopen_count": 0,
-   "slots": 31,
+   "slot_hist": [
+    [
+     "2026-11-13T16:16:56Z",
+     30
+    ]
+   ],
+   "slots": 30,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
