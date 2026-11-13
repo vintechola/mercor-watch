@@ -84,7 +84,13 @@
    "rate_max": 70.0,
    "rate_min": 60.0,
    "reopen_count": 0,
-   "slots": 39,
+   "slot_hist": [
+    [
+     "2026-11-13T10:42:10Z",
+     40
+    ]
+   ],
+   "slots": 40,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -3929,9 +3935,13 @@
     [
      "2026-11-13T07:52:04Z",
      2880
+    ],
+    [
+     "2026-11-13T10:42:10Z",
+     2879
     ]
    ],
-   "slots": 2880,
+   "slots": 2879,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
