@@ -54,9 +54,13 @@
     [
      "2026-11-13T17:12:40Z",
      31
+    ],
+    [
+     "2026-11-13T17:59:58Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -4104,9 +4108,13 @@
     [
      "2026-11-13T17:12:40Z",
      2850
+    ],
+    [
+     "2026-11-13T17:59:58Z",
+     2845
     ]
    ],
-   "slots": 2850,
+   "slots": 2845,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4998,7 +5006,13 @@
    "rate_max": 80.0,
    "rate_min": 80.0,
    "reopen_count": 0,
-   "slots": 34,
+   "slot_hist": [
+    [
+     "2026-11-13T17:59:58Z",
+     35
+    ]
+   ],
+   "slots": 35,
    "title": "Mechanical Engineering Writer"
   },
   "list_AAABoa1JzxXUAzyb5dJAnooH": {
