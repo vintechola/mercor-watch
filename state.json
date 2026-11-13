@@ -3909,7 +3909,13 @@
    "rate_max": 400.0,
    "rate_min": 400.0,
    "reopen_count": 0,
-   "slots": 2888,
+   "slot_hist": [
+    [
+     "2026-11-13T06:33:21Z",
+     2885
+    ]
+   ],
+   "slots": 2885,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
