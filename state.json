@@ -1896,14 +1896,14 @@
    "title": "Bilingual Spanish Generalist Expert — AI Safety"
   },
   "list_AAABoGomRCpVclsLpaRJqp6m": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-13T13:47:49Z",
    "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGomRCpVclsLpaRJqp6m",
    "location": "Netherlands",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-04T02:01:28",
    "rate_freq": "hourly",
    "rate_max": 52.0,
@@ -3953,9 +3953,13 @@
     [
      "2026-11-13T12:33:22Z",
      2876
+    ],
+    [
+     "2026-11-13T13:47:49Z",
+     2872
     ]
    ],
-   "slots": 2876,
+   "slots": 2872,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4227,7 +4231,13 @@
    "rate_max": 350.0,
    "rate_min": 350.0,
    "reopen_count": 0,
-   "slots": 23,
+   "slot_hist": [
+    [
+     "2026-11-13T13:47:49Z",
+     22
+    ]
+   ],
+   "slots": 22,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
