@@ -204,10 +204,15 @@ def load_state():
         return {"listings": {}, "initialized": False}
 
 
+SKIP_KEYS = {"desc", "last_seen"}
+
+
 def save_state(state):
+    slim = {**state, "listings": {k: {f: v for f, v in rec.items() if f not in SKIP_KEYS}
+                                  for k, rec in state["listings"].items()}}
     tmp = STATE_FILE + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(state, f, indent=1, sort_keys=True)
+        json.dump(slim, f, indent=1, sort_keys=True, ensure_ascii=False)
     os.replace(tmp, STATE_FILE)
 
 
@@ -515,10 +520,27 @@ def run_once():
     want = [(e, l) for e, l in events if e not in off and passes_filters(l)]
     for e, l in events:
         print(f"  {e:9} {l['id']}  {l['title']}")
+    if not state.get("hello_sent") and os.getenv("DISCORD_WEBHOOK_URL"):
+        send_hello(state, live)
+        state["hello_sent"] = True
     if want:
         notify(want)
     maybe_digest(state, live)
     save_state(state)
+
+
+def send_hello(state, live):
+    """One-time message confirming Discord works, with a real role as a sample card."""
+    known = state["listings"]
+    pool = [known[i] for i in live if i in known]
+    sample = max(pool, key=lambda v: (v.get("slots") is not None, v.get("rate_max") or 0), default=None)
+    payload = {"username": "Mercor Watch",
+               "content": f"✅ **Mercor Watch is live!** Tracking **{len(live)}** open roles. "
+                          "Checking about every 10 minutes. Here's what an alert looks like "
+                          "(this one is just a sample of a role that's open now):"}
+    if sample:
+        payload["embeds"] = [discord_embed("NEW", sample)]
+    post_json(os.getenv("DISCORD_WEBHOOK_URL"), payload)
 
 
 def maybe_digest(state, live):
