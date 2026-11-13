@@ -1914,7 +1914,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGon4PfvcmZO7_tO-Y2-",
    "location": "Remote — Eastern Europe preferred",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-04T02:03:14",
    "rate_freq": "hourly",
    "rate_max": 42.0,
@@ -3824,7 +3824,13 @@
    "rate_max": 120.0,
    "rate_min": 100.0,
    "reopen_count": 0,
-   "slots": 3,
+   "slot_hist": [
+    [
+     "2026-11-13T07:52:04Z",
+     2
+    ]
+   ],
+   "slots": 2,
    "title": "Software Engineer – Retail Investing Platforms (Paid Expert Interview)"
   },
   "list_AAABoWoHfr1BOfMq7LtFPbpS": {
@@ -3913,9 +3919,13 @@
     [
      "2026-11-13T06:33:21Z",
      2885
+    ],
+    [
+     "2026-11-13T07:52:04Z",
+     2880
     ]
    ],
-   "slots": 2885,
+   "slots": 2880,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
