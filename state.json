@@ -50,7 +50,13 @@
    "rate_max": 85.0,
    "rate_min": 85.0,
    "reopen_count": 0,
-   "slots": 32,
+   "slot_hist": [
+    [
+     "2026-11-13T17:12:40Z",
+     31
+    ]
+   ],
+   "slots": 31,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -960,6 +966,125 @@
    "slots": 1,
    "title": "Agent Engineer"
   },
+  "list_AAABn_yFPrR7jJezymFDFrAf": {
+   "active": true,
+   "category": "Miscellaneous",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yFPrR7jJezymFDFrAf",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:06:59",
+   "rate_freq": "hourly",
+   "rate_max": 84.0,
+   "rate_min": 66.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Applied Computer Science Benchmark Specialist"
+  },
+  "list_AAABn_yH0eoAuKpvXORIdrGW": {
+   "active": true,
+   "category": "Other Engineering",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yH0eoAuKpvXORIdrGW",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:09:47",
+   "rate_freq": "hourly",
+   "rate_max": 77.0,
+   "rate_min": 61.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Applied Engineering Benchmark Specialist"
+  },
+  "list_AAABn_yIA7lRhn_Aos9LS7jE": {
+   "active": true,
+   "category": "Life, Physical, and Social Science",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yIA7lRhn_Aos9LS7jE",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:10:00",
+   "rate_freq": "hourly",
+   "rate_max": 77.0,
+   "rate_min": 61.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Applied Physics Benchmark Specialist"
+  },
+  "list_AAABn_yIPO_R7kHhw5VCS7aS": {
+   "active": true,
+   "category": "Life, Physical, and Social Science",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yIPO_R7kHhw5VCS7aS",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:10:15",
+   "rate_freq": "hourly",
+   "rate_max": 77.0,
+   "rate_min": 61.0,
+   "reopen_count": 0,
+   "slots": 2,
+   "title": "Applied Chemistry Benchmark Specialist"
+  },
+  "list_AAABn_yIZR1__lQF4UFJWK4b": {
+   "active": true,
+   "category": "Life, Physical, and Social Science",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yIZR1__lQF4UFJWK4b",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:10:25",
+   "rate_freq": "hourly",
+   "rate_max": 77.0,
+   "rate_min": 61.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Applied Mathematics Benchmark Specialist"
+  },
+  "list_AAABn_yJDZQmJZCTxypEe6iy": {
+   "active": true,
+   "category": "Business Operations",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yJDZQmJZCTxypEe6iy",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:11:08",
+   "rate_freq": "hourly",
+   "rate_max": 98.0,
+   "rate_min": 77.0,
+   "reopen_count": 0,
+   "slots": 3,
+   "title": "Applied Business & Commerce Benchmark Specialist"
+  },
+  "list_AAABn_yJR4hKB_2XSltNpq3n": {
+   "active": true,
+   "category": "Medicine",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-13T17:12:40Z",
+   "id": "list_AAABn_yJR4hKB_2XSltNpq3n",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-13T19:11:23",
+   "rate_freq": "hourly",
+   "rate_max": 119.0,
+   "rate_min": 94.0,
+   "reopen_count": 0,
+   "slots": 4,
+   "title": "Applied Health & Medicine Benchmark Specialist"
+  },
   "list_AAABnfiedfZUWZxgc0lLT79a": {
    "active": true,
    "category": "Software Engineering",
@@ -1433,7 +1558,13 @@
    "rate_max": 110.0,
    "rate_min": 70.0,
    "reopen_count": 0,
-   "slots": 1,
+   "slot_hist": [
+    [
+     "2026-11-13T17:12:40Z",
+     2
+    ]
+   ],
+   "slots": 2,
    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
   },
   "list_AAABoCWSTbhgejc0oLZDmbSP": {
@@ -3969,9 +4100,13 @@
     [
      "2026-11-13T16:16:56Z",
      2860
+    ],
+    [
+     "2026-11-13T17:12:40Z",
+     2850
     ]
    ],
-   "slots": 2860,
+   "slots": 2850,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -5436,7 +5571,13 @@
    "rate_max": 85.0,
    "rate_min": 85.0,
    "reopen_count": 0,
-   "slots": 23,
+   "slot_hist": [
+    [
+     "2026-11-13T17:12:40Z",
+     22
+    ]
+   ],
+   "slots": 22,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABodU-1biYNoQyWeFElIoT": {
