@@ -4102,6 +4102,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWsjEohggV1F8gdLEoVO",
    "location": "United States (remote)",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-10-23T23:40:23",
    "rate_freq": "per-task",
@@ -4176,9 +4177,14 @@
     [
      "2026-11-13T22:48:52Z",
      2722
+    ],
+    [
+     "2026-11-13T23:25:10Z",
+     2730
     ]
    ],
-   "slots": 2722,
+   "slots": 2730,
+   "slots_before": 2722,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4995,7 +5001,13 @@
    "rate_max": 80.0,
    "rate_min": 80.0,
    "reopen_count": 0,
-   "slots": 28,
+   "slot_hist": [
+    [
+     "2026-11-13T23:25:10Z",
+     27
+    ]
+   ],
+   "slots": 27,
    "title": "Civil Engineering Writer"
   },
   "list_AAABoa1JdtVScGh5y5ZBYqSo": {
