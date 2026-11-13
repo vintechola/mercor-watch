@@ -62,9 +62,13 @@
     [
      "2026-11-13T19:38:46Z",
      29
+    ],
+    [
+     "2026-11-13T20:30:24Z",
+     30
     ]
    ],
-   "slots": 29,
+   "slots": 30,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -3449,9 +3453,13 @@
     [
      "2026-11-13T18:46:10Z",
      54
+    ],
+    [
+     "2026-11-13T20:30:24Z",
+     53
     ]
    ],
-   "slots": 54,
+   "slots": 53,
    "title": "Economics Research Expert"
   },
   "list_AAABoP3B8SkA4VcfExhLrYa3": {
@@ -4052,7 +4060,13 @@
    "rate_max": 120.0,
    "rate_min": 100.0,
    "reopen_count": 0,
-   "slots": 10,
+   "slot_hist": [
+    [
+     "2026-11-13T20:30:24Z",
+     9
+    ]
+   ],
+   "slots": 9,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4138,9 +4152,13 @@
     [
      "2026-11-13T19:38:46Z",
      2778
+    ],
+    [
+     "2026-11-13T20:30:24Z",
+     2750
     ]
    ],
-   "slots": 2778,
+   "slots": 2750,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
