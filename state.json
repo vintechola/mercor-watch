@@ -4121,10 +4121,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T06:33:21Z",
-     2885
-    ],
-    [
      "2026-11-13T07:52:04Z",
      2880
     ],
@@ -4199,9 +4195,13 @@
     [
      "2026-11-14T00:44:03Z",
      2719
+    ],
+    [
+     "2026-11-14T01:47:52Z",
+     2708
     ]
    ],
-   "slots": 2719,
+   "slots": 2708,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5665,6 +5665,23 @@
    "reopen_count": 0,
    "slots": 7,
    "title": "Customer Support & Success Domain Expert"
+  },
+  "list_AAABocrwuCVk3kRkqXVIm4Vy": {
+   "active": true,
+   "category": "Miscellaneous",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-14T01:47:52Z",
+   "id": "list_AAABocrwuCVk3kRkqXVIm4Vy",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-11T14:08:56",
+   "rate_freq": "per-task",
+   "rate_max": 80.0,
+   "rate_min": 20.0,
+   "reopen_count": 0,
+   "slots": 100,
+   "title": "Generalist"
   },
   "list_AAABocs4xIYqLBlbNtRKf6Mm": {
    "active": true,
