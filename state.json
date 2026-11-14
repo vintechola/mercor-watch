@@ -78,9 +78,13 @@
     [
      "2026-11-14T20:13:56Z",
      25
+    ],
+    [
+     "2026-11-14T20:51:22Z",
+     24
     ]
    ],
-   "slots": 25,
+   "slots": 24,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -896,6 +900,23 @@
    "slots": 3,
    "title": "Music & Lyrics Expert - Japanese"
   },
+  "list_AAABn_cfTzoWNDg2B7hOHpvU": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-14T20:51:22Z",
+   "id": "list_AAABn_cfTzoWNDg2B7hOHpvU",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-12T17:57:32",
+   "rate_freq": "hourly",
+   "rate_max": 19.0,
+   "rate_min": 11.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Music & Lyrics Expert - Telugu"
+  },
   "list_AAABn_cfZOxBLvxeFKdEW6Od": {
    "active": true,
    "category": "Arts & Design",
@@ -1352,7 +1373,13 @@
    "rate_max": 54.0,
    "rate_min": 17.0,
    "reopen_count": 0,
-   "slots": 5,
+   "slot_hist": [
+    [
+     "2026-11-14T20:51:22Z",
+     6
+    ]
+   ],
+   "slots": 6,
    "title": "Music Production Expert - French"
   },
   "list_AAABnzhzhwBMMeMWHlhEWL_h": {
@@ -4161,10 +4188,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T06:51:00Z",
-     2637
-    ],
-    [
      "2026-11-14T07:49:59Z",
      2628
     ],
@@ -4239,9 +4262,13 @@
     [
      "2026-11-14T20:13:56Z",
      2470
+    ],
+    [
+     "2026-11-14T20:51:22Z",
+     2463
     ]
    ],
-   "slots": 2470,
+   "slots": 2463,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5140,9 +5167,13 @@
     [
      "2026-11-14T20:13:56Z",
      32
+    ],
+    [
+     "2026-11-14T20:51:22Z",
+     31
     ]
    ],
-   "slots": 32,
+   "slots": 31,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -6606,7 +6637,13 @@
    "rate_max": 95.0,
    "rate_min": 95.0,
    "reopen_count": 0,
-   "slots": 63,
+   "slot_hist": [
+    [
+     "2026-11-14T20:51:22Z",
+     62
+    ]
+   ],
+   "slots": 62,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -6623,7 +6660,13 @@
    "rate_max": 120.0,
    "rate_min": 120.0,
    "reopen_count": 0,
-   "slots": 12,
+   "slot_hist": [
+    [
+     "2026-11-14T20:51:22Z",
+     11
+    ]
+   ],
+   "slots": 11,
    "title": "Law Expert"
   },
   "list_AAABoddartrKlmqr13pC7I-j": {
@@ -6640,7 +6683,13 @@
    "rate_max": 95.0,
    "rate_min": 95.0,
    "reopen_count": 0,
-   "slots": 55,
+   "slot_hist": [
+    [
+     "2026-11-14T20:51:22Z",
+     54
+    ]
+   ],
+   "slots": 54,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -6678,20 +6727,24 @@
     [
      "2026-11-14T20:13:56Z",
      65
+    ],
+    [
+     "2026-11-14T20:51:22Z",
+     64
     ]
    ],
-   "slots": 65,
+   "slots": 64,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-14T20:51:22Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddbbisYP56FZhpJV7as",
    "location": "Remote (US preferred, open worldwide)",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-14T00:00:56",
    "rate_freq": "hourly",
    "rate_max": 90.0,
