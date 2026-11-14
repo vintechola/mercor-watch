@@ -4200,10 +4200,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T10:54:58Z",
-     2595
-    ],
-    [
      "2026-11-14T11:24:48Z",
      2592
     ],
@@ -4278,9 +4274,13 @@
     [
      "2026-11-14T23:13:25Z",
      2439
+    ],
+    [
+     "2026-11-14T23:47:24Z",
+     2432
     ]
    ],
-   "slots": 2439,
+   "slots": 2432,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5525,9 +5525,13 @@
     [
      "2026-11-14T21:25:40Z",
      13
+    ],
+    [
+     "2026-11-14T23:47:24Z",
+     12
     ]
    ],
-   "slots": 13,
+   "slots": 12,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
@@ -6699,9 +6703,13 @@
     [
      "2026-11-14T22:39:23Z",
      8
+    ],
+    [
+     "2026-11-14T23:47:24Z",
+     7
     ]
    ],
-   "slots": 8,
+   "slots": 7,
    "title": "Law Expert"
   },
   "list_AAABoddartrKlmqr13pC7I-j": {
