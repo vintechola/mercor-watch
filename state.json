@@ -4127,10 +4127,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T17:12:40Z",
-     2850
-    ],
-    [
      "2026-11-13T17:59:58Z",
      2845
     ],
@@ -4205,9 +4201,13 @@
     [
      "2026-11-14T08:33:57Z",
      2621
+    ],
+    [
+     "2026-11-14T09:23:49Z",
+     2611
     ]
    ],
-   "slots": 2621,
+   "slots": 2611,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5715,14 +5715,14 @@
    "title": "Certified Financial Planner (CFP® / CFA)"
   },
   "list_AAABocvmQyKqYVaWnhNJlLpY": {
-   "active": true,
+   "active": false,
    "category": "Other Engineering",
-   "closed_at": null,
+   "closed_at": "2026-11-14T09:23:49Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-11T18:37:08",
    "rate_freq": "hourly",
    "rate_max": 85.0,
