@@ -1578,9 +1578,13 @@
     [
      "2026-11-13T17:12:40Z",
      2
+    ],
+    [
+     "2026-11-14T00:44:03Z",
+     3
     ]
    ],
-   "slots": 2,
+   "slots": 3,
    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
   },
   "list_AAABoCWSTbhgejc0oLZDmbSP": {
@@ -1614,7 +1618,13 @@
    "rate_max": 110.0,
    "rate_min": 70.0,
    "reopen_count": 0,
-   "slots": 19,
+   "slot_hist": [
+    [
+     "2026-11-14T00:44:03Z",
+     21
+    ]
+   ],
+   "slots": 21,
    "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
   },
   "list_AAABoCWZLgyS_XMeXVxE9pIU": {
@@ -4185,9 +4195,13 @@
     [
      "2026-11-13T23:58:06Z",
      2722
+    ],
+    [
+     "2026-11-14T00:44:03Z",
+     2719
     ]
    ],
-   "slots": 2722,
+   "slots": 2719,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5691,9 +5705,13 @@
     [
      "2026-11-13T23:58:06Z",
      21
+    ],
+    [
+     "2026-11-14T00:44:03Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABodU-1biYNoQyWeFElIoT": {
