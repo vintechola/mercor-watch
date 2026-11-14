@@ -74,9 +74,13 @@
     [
      "2026-11-14T19:36:44Z",
      28
+    ],
+    [
+     "2026-11-14T20:13:56Z",
+     25
     ]
    ],
-   "slots": 28,
+   "slots": 25,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -4157,10 +4161,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T05:59:51Z",
-     2648
-    ],
-    [
      "2026-11-14T06:51:00Z",
      2637
     ],
@@ -4235,9 +4235,13 @@
     [
      "2026-11-14T19:36:44Z",
      2477
+    ],
+    [
+     "2026-11-14T20:13:56Z",
+     2470
     ]
    ],
-   "slots": 2477,
+   "slots": 2470,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4407,7 +4411,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 40,
+   "slot_hist": [
+    [
+     "2026-11-14T20:13:56Z",
+     39
+    ]
+   ],
+   "slots": 39,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -4424,7 +4434,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 41,
+   "slot_hist": [
+    [
+     "2026-11-14T20:13:56Z",
+     40
+    ]
+   ],
+   "slots": 40,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -5120,7 +5136,13 @@
    "rate_max": 80.0,
    "rate_min": 80.0,
    "reopen_count": 0,
-   "slots": 33,
+   "slot_hist": [
+    [
+     "2026-11-14T20:13:56Z",
+     32
+    ]
+   ],
+   "slots": 32,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -6652,7 +6674,13 @@
    "rate_max": 110.0,
    "rate_min": 110.0,
    "reopen_count": 0,
-   "slots": 66,
+   "slot_hist": [
+    [
+     "2026-11-14T20:13:56Z",
+     65
+    ]
+   ],
+   "slots": 65,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -6663,7 +6691,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddbbisYP56FZhpJV7as",
    "location": "Remote (US preferred, open worldwide)",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-14T00:00:56",
    "rate_freq": "hourly",
    "rate_max": 90.0,
