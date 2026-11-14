@@ -114,9 +114,13 @@
     [
      "2026-11-13T22:48:52Z",
      41
+    ],
+    [
+     "2026-11-14T17:03:34Z",
+     38
     ]
    ],
-   "slots": 41,
+   "slots": 38,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -4137,10 +4141,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T01:47:52Z",
-     2708
-    ],
-    [
      "2026-11-14T02:32:13Z",
      2704
     ],
@@ -4215,9 +4215,13 @@
     [
      "2026-11-14T16:21:08Z",
      2525
+    ],
+    [
+     "2026-11-14T17:03:34Z",
+     2518
     ]
    ],
-   "slots": 2525,
+   "slots": 2518,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5404,9 +5408,13 @@
     [
      "2026-11-14T10:54:58Z",
      15
+    ],
+    [
+     "2026-11-14T17:03:34Z",
+     14
     ]
    ],
-   "slots": 15,
+   "slots": 14,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
