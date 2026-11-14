@@ -1913,7 +1913,13 @@
    "rate_max": 90.0,
    "rate_min": 60.0,
    "reopen_count": 0,
-   "slots": 17,
+   "slot_hist": [
+    [
+     "2026-11-14T03:25:07Z",
+     16
+    ]
+   ],
+   "slots": 16,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4121,10 +4127,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T10:42:10Z",
-     2879
-    ],
-    [
      "2026-11-13T11:37:31Z",
      2877
     ],
@@ -4199,9 +4201,13 @@
     [
      "2026-11-14T02:32:13Z",
      2704
+    ],
+    [
+     "2026-11-14T03:25:07Z",
+     2700
     ]
    ],
-   "slots": 2704,
+   "slots": 2700,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5114,9 +5120,13 @@
     [
      "2026-11-13T17:59:58Z",
      35
+    ],
+    [
+     "2026-11-14T03:25:07Z",
+     34
     ]
    ],
-   "slots": 35,
+   "slots": 34,
    "title": "Mechanical Engineering Writer"
   },
   "list_AAABoa1JzxXUAzyb5dJAnooH": {
