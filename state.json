@@ -4188,10 +4188,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T07:49:59Z",
-     2628
-    ],
-    [
      "2026-11-14T08:33:57Z",
      2621
     ],
@@ -4266,9 +4262,13 @@
     [
      "2026-11-14T20:51:22Z",
      2463
+    ],
+    [
+     "2026-11-14T21:25:40Z",
+     2460
     ]
    ],
-   "slots": 2463,
+   "slots": 2460,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4583,9 +4583,13 @@
     [
      "2026-11-13T13:47:49Z",
      22
+    ],
+    [
+     "2026-11-14T21:25:40Z",
+     21
     ]
    ],
-   "slots": 22,
+   "slots": 21,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -5499,9 +5503,13 @@
     [
      "2026-11-14T17:03:34Z",
      14
+    ],
+    [
+     "2026-11-14T21:25:40Z",
+     13
     ]
    ],
-   "slots": 14,
+   "slots": 13,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
@@ -6664,9 +6672,13 @@
     [
      "2026-11-14T20:51:22Z",
      11
+    ],
+    [
+     "2026-11-14T21:25:40Z",
+     9
     ]
    ],
-   "slots": 11,
+   "slots": 9,
    "title": "Law Expert"
   },
   "list_AAABoddartrKlmqr13pC7I-j": {
