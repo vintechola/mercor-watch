@@ -2052,7 +2052,13 @@
    "rate_max": 44.0,
    "rate_min": 40.0,
    "reopen_count": 0,
-   "slots": 2,
+   "slot_hist": [
+    [
+     "2026-11-14T18:58:22Z",
+     1
+    ]
+   ],
+   "slots": 1,
    "title": "Bilingual Portuguese Generalist Expert — AI Safety"
   },
   "list_AAABoGolujPeojikHWRLCaH-": {
@@ -4141,10 +4147,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T04:18:37Z",
-     2672
-    ],
-    [
      "2026-11-14T05:11:53Z",
      2656
     ],
@@ -4219,9 +4221,13 @@
     [
      "2026-11-14T18:12:15Z",
      2499
+    ],
+    [
+     "2026-11-14T18:58:22Z",
+     2484
     ]
    ],
-   "slots": 2499,
+   "slots": 2484,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4243,9 +4249,13 @@
     [
      "2026-11-14T18:12:15Z",
      41
+    ],
+    [
+     "2026-11-14T18:58:22Z",
+     40
     ]
    ],
-   "slots": 41,
+   "slots": 40,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -5152,9 +5162,13 @@
     [
      "2026-11-14T03:25:07Z",
      34
+    ],
+    [
+     "2026-11-14T18:58:22Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "title": "Mechanical Engineering Writer"
   },
   "list_AAABoa1JzxXUAzyb5dJAnooH": {
