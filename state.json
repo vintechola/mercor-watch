@@ -4127,10 +4127,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T15:23:19Z",
-     2868
-    ],
-    [
      "2026-11-13T16:16:56Z",
      2860
     ],
@@ -4205,9 +4201,13 @@
     [
      "2026-11-14T06:51:00Z",
      2637
+    ],
+    [
+     "2026-11-14T07:49:59Z",
+     2628
     ]
    ],
-   "slots": 2637,
+   "slots": 2628,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6509,6 +6509,40 @@
    "reopen_count": 0,
    "slots": null,
    "title": "Swahili Linguistic Expert"
+  },
+  "list_AAABodjkZ9uPRh5LQSxNUZtG": {
+   "active": true,
+   "category": null,
+   "closed_at": null,
+   "commitment": "part-time",
+   "first_seen": "2026-11-14T07:49:59Z",
+   "id": "list_AAABodjkZ9uPRh5LQSxNUZtG",
+   "location": "Remote (US)",
+   "misses": 0,
+   "posted": "2026-11-14T07:10:10",
+   "rate_freq": "hourly",
+   "rate_max": 105.0,
+   "rate_min": 85.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Enterprise Account Executive - AI Sales Expert"
+  },
+  "list_AAABodjkhcin__KeNFZHg54O": {
+   "active": true,
+   "category": null,
+   "closed_at": null,
+   "commitment": "part-time",
+   "first_seen": "2026-11-14T07:49:59Z",
+   "id": "list_AAABodjkhcin__KeNFZHg54O",
+   "location": "Remote (US)",
+   "misses": 0,
+   "posted": "2026-11-14T07:10:18",
+   "rate_freq": "hourly",
+   "rate_max": 125.0,
+   "rate_min": 100.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Enterprise Sales Manager – AI Training Specialist"
   }
  }
 }
