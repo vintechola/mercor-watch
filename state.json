@@ -102,9 +102,13 @@
     [
      "2026-11-15T02:28:05Z",
      11
+    ],
+    [
+     "2026-11-15T03:16:16Z",
+     10
     ]
    ],
-   "slots": 11,
+   "slots": 10,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -4212,10 +4216,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T13:41:02Z",
-     2560
-    ],
-    [
      "2026-11-14T14:26:50Z",
      2549
     ],
@@ -4290,9 +4290,13 @@
     [
      "2026-11-15T02:28:05Z",
      2406
+    ],
+    [
+     "2026-11-15T03:16:16Z",
+     2402
     ]
    ],
-   "slots": 2406,
+   "slots": 2402,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5545,9 +5549,13 @@
     [
      "2026-11-15T01:31:53Z",
      10
+    ],
+    [
+     "2026-11-15T03:16:16Z",
+     9
     ]
    ],
-   "slots": 10,
+   "slots": 9,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
@@ -5900,9 +5908,13 @@
     [
      "2026-11-14T00:44:03Z",
      20
+    ],
+    [
+     "2026-11-15T03:16:16Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABodU-1biYNoQyWeFElIoT": {
