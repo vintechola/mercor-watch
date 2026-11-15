@@ -2207,14 +2207,14 @@
    "title": "Bilingual Russian Generalist Expert — AI Safety"
   },
   "list_AAABoGonT1yabY1vTGNDT4i9": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-15T15:11:50Z",
    "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGonT1yabY1vTGNDT4i9",
    "location": "Remote — Eastern Europe preferred",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-04T02:02:36",
    "rate_freq": "hourly",
    "rate_max": 44.0,
@@ -4255,10 +4255,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T22:39:23Z",
-     2447
-    ],
-    [
      "2026-11-14T23:13:25Z",
      2439
     ],
@@ -4333,9 +4329,13 @@
     [
      "2026-11-15T14:29:02Z",
      2343
+    ],
+    [
+     "2026-11-15T15:11:50Z",
+     2342
     ]
    ],
-   "slots": 2343,
+   "slots": 2342,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6766,9 +6766,13 @@
     [
      "2026-11-15T07:45:16Z",
      60
+    ],
+    [
+     "2026-11-15T15:11:50Z",
+     59
     ]
    ],
-   "slots": 60,
+   "slots": 59,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -6933,9 +6937,13 @@
     [
      "2026-11-15T12:09:51Z",
      59
+    ],
+    [
+     "2026-11-15T15:11:50Z",
+     58
     ]
    ],
-   "slots": 59,
+   "slots": 58,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
