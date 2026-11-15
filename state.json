@@ -37,15 +37,15 @@
    "title": "SOC Investigation Specialist Talent Network"
   },
   "list_AAABn0MTnuGa6YO-AKFD_ah0": {
-   "active": true,
+   "active": false,
    "category": "Finance",
-   "closed_at": null,
+   "closed_at": "2026-11-15T17:41:41Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn0MTnuGa6YO-AKFD_ah0",
    "location": "Remote",
    "low_alerted": true,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-07-08T18:53:07",
    "rate_freq": "hourly",
    "rate_max": 85.0,
@@ -4255,10 +4255,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T01:31:53Z",
-     2416
-    ],
-    [
      "2026-11-15T02:28:05Z",
      2406
     ],
@@ -4333,9 +4329,13 @@
     [
      "2026-11-15T17:08:44Z",
      2329
+    ],
+    [
+     "2026-11-15T17:41:41Z",
+     2324
     ]
    ],
-   "slots": 2329,
+   "slots": 2324,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5613,9 +5613,13 @@
     [
      "2026-11-15T15:52:55Z",
      4
+    ],
+    [
+     "2026-11-15T17:41:41Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
