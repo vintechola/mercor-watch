@@ -236,7 +236,13 @@
    "rate_max": 110.0,
    "rate_min": 110.0,
    "reopen_count": 0,
-   "slots": 7892,
+   "slot_hist": [
+    [
+     "2026-11-15T19:46:08Z",
+     7893
+    ]
+   ],
+   "slots": 7893,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
   "list_AAABn6vGkxZngsMTe7xP7rqG": {
@@ -4255,10 +4261,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T03:16:16Z",
-     2402
-    ],
-    [
      "2026-11-15T04:09:03Z",
      2399
     ],
@@ -4333,9 +4335,13 @@
     [
      "2026-11-15T18:18:18Z",
      2318
+    ],
+    [
+     "2026-11-15T19:46:08Z",
+     2315
     ]
    ],
-   "slots": 2318,
+   "slots": 2315,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4542,9 +4548,13 @@
     [
      "2026-11-15T15:52:55Z",
      39
+    ],
+    [
+     "2026-11-15T19:46:08Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -6905,9 +6915,13 @@
     [
      "2026-11-15T15:11:50Z",
      59
+    ],
+    [
+     "2026-11-15T19:46:08Z",
+     60
     ]
    ],
-   "slots": 59,
+   "slots": 60,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7020,9 +7034,13 @@
     [
      "2026-11-15T17:08:44Z",
      46
+    ],
+    [
+     "2026-11-15T19:46:08Z",
+     47
     ]
    ],
-   "slots": 46,
+   "slots": 47,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7039,7 +7057,13 @@
    "rate_max": 100.0,
    "rate_min": 100.0,
    "reopen_count": 0,
-   "slots": 64,
+   "slot_hist": [
+    [
+     "2026-11-15T19:46:08Z",
+     65
+    ]
+   ],
+   "slots": 65,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7084,9 +7108,13 @@
     [
      "2026-11-15T15:11:50Z",
      58
+    ],
+    [
+     "2026-11-15T19:46:08Z",
+     59
     ]
    ],
-   "slots": 58,
+   "slots": 59,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
