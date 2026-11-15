@@ -94,9 +94,13 @@
     [
      "2026-11-14T23:13:25Z",
      17
+    ],
+    [
+     "2026-11-15T01:31:53Z",
+     14
     ]
    ],
-   "slots": 17,
+   "slots": 14,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -142,9 +146,13 @@
     [
      "2026-11-14T17:03:34Z",
      38
+    ],
+    [
+     "2026-11-15T01:31:53Z",
+     36
     ]
    ],
-   "slots": 38,
+   "slots": 36,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -4200,10 +4208,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T12:01:58Z",
-     2584
-    ],
-    [
      "2026-11-14T12:50:39Z",
      2577
     ],
@@ -4278,9 +4282,13 @@
     [
      "2026-11-15T00:19:18Z",
      2424
+    ],
+    [
+     "2026-11-15T01:31:53Z",
+     2416
     ]
    ],
-   "slots": 2424,
+   "slots": 2416,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5529,9 +5537,13 @@
     [
      "2026-11-14T23:47:24Z",
      12
+    ],
+    [
+     "2026-11-15T01:31:53Z",
+     10
     ]
    ],
-   "slots": 12,
+   "slots": 10,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
@@ -6689,6 +6701,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABodda7rBOuu8-efdMp5zh",
    "location": "Remote (US preferred, open worldwide)",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-14T00:00:23",
    "rate_freq": "hourly",
@@ -6715,9 +6728,13 @@
     [
      "2026-11-15T00:19:18Z",
      6
+    ],
+    [
+     "2026-11-15T01:31:53Z",
+     5
     ]
    ],
-   "slots": 6,
+   "slots": 5,
    "title": "Law Expert"
   },
   "list_AAABoddartrKlmqr13pC7I-j": {
