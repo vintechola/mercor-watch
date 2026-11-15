@@ -4261,10 +4261,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T06:37:59Z",
-     2382
-    ],
-    [
      "2026-11-15T07:45:16Z",
      2377
     ],
@@ -4339,9 +4335,13 @@
     [
      "2026-11-15T22:16:00Z",
      2298
+    ],
+    [
+     "2026-11-15T22:52:39Z",
+     2293
     ]
    ],
-   "slots": 2298,
+   "slots": 2293,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6000,9 +6000,13 @@
     [
      "2026-11-15T03:16:16Z",
      17
+    ],
+    [
+     "2026-11-15T22:52:39Z",
+     16
     ]
    ],
-   "slots": 17,
+   "slots": 16,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-cG2BzHQBcUBVBZ73W": {
@@ -6923,9 +6927,13 @@
     [
      "2026-11-15T19:46:08Z",
      60
+    ],
+    [
+     "2026-11-15T22:52:39Z",
+     59
     ]
    ],
-   "slots": 60,
+   "slots": 59,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
