@@ -2246,9 +2246,13 @@
     [
      "2026-11-13T19:38:46Z",
      2
+    ],
+    [
+     "2026-11-15T11:28:55Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Bilingual Danish Generalist Expert — AI Safety"
   },
   "list_AAABoGvWRUT2estOlP9J4o1I": {
@@ -4242,10 +4246,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T19:36:44Z",
-     2477
-    ],
-    [
      "2026-11-14T20:13:56Z",
      2470
     ],
@@ -4320,9 +4320,13 @@
     [
      "2026-11-15T10:56:25Z",
      2364
+    ],
+    [
+     "2026-11-15T11:28:55Z",
+     2357
     ]
    ],
-   "slots": 2364,
+   "slots": 2357,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6912,9 +6916,13 @@
     [
      "2026-11-15T07:45:16Z",
      61
+    ],
+    [
+     "2026-11-15T11:28:55Z",
+     60
     ]
    ],
-   "slots": 61,
+   "slots": 60,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
