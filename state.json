@@ -4261,10 +4261,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T07:45:16Z",
-     2377
-    ],
-    [
      "2026-11-15T08:31:15Z",
      2376
     ],
@@ -4339,9 +4335,13 @@
     [
      "2026-11-15T22:52:39Z",
      2293
+    ],
+    [
+     "2026-11-15T23:32:36Z",
+     2292
     ]
    ],
-   "slots": 2293,
+   "slots": 2292,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4674,9 +4674,13 @@
     [
      "2026-11-14T21:25:40Z",
      21
+    ],
+    [
+     "2026-11-15T23:32:36Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7050,9 +7054,13 @@
     [
      "2026-11-15T19:46:08Z",
      47
+    ],
+    [
+     "2026-11-15T23:32:36Z",
+     46
     ]
    ],
-   "slots": 47,
+   "slots": 46,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7124,9 +7132,13 @@
     [
      "2026-11-15T19:46:08Z",
      59
+    ],
+    [
+     "2026-11-15T23:32:36Z",
+     58
     ]
    ],
-   "slots": 59,
+   "slots": 58,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
