@@ -5525,6 +5525,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoc1YpFIYUktJmyxFc5mB",
    "location": "Remote",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-12T01:21:41",
    "rate_freq": "hourly",
@@ -5579,9 +5580,13 @@
     [
      "2026-11-15T05:44:57Z",
      7
+    ],
+    [
+     "2026-11-15T09:22:01Z",
+     5
     ]
    ],
-   "slots": 7,
+   "slots": 5,
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
