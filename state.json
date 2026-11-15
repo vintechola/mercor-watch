@@ -916,7 +916,13 @@
    "rate_max": 12.15,
    "rate_min": 12.15,
    "reopen_count": 0,
-   "slots": 4,
+   "slot_hist": [
+    [
+     "2026-11-15T06:37:59Z",
+     3
+    ]
+   ],
+   "slots": 3,
    "title": "Music & Lyrics Expert - Korean"
   },
   "list_AAABn_cdvrBRkjvHEvhJqboA": {
@@ -4224,10 +4230,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T16:21:08Z",
-     2525
-    ],
-    [
      "2026-11-14T17:03:34Z",
      2518
     ],
@@ -4302,9 +4304,13 @@
     [
      "2026-11-15T05:44:57Z",
      2387
+    ],
+    [
+     "2026-11-15T06:37:59Z",
+     2382
     ]
    ],
-   "slots": 2387,
+   "slots": 2382,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5605,7 +5611,13 @@
    "rate_max": 85.0,
    "rate_min": 85.0,
    "reopen_count": 0,
-   "slots": 19,
+   "slot_hist": [
+    [
+     "2026-11-15T06:37:59Z",
+     18
+    ]
+   ],
+   "slots": 18,
    "title": "Fab Safety and Emergency Response Expert (Japanese)"
   },
   "list_AAABocI-OkrOixS81NNDVrWt": {
@@ -6768,9 +6780,13 @@
     [
      "2026-11-15T04:09:03Z",
      4
+    ],
+    [
+     "2026-11-15T06:37:59Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "title": "Law Expert"
   },
   "list_AAABoddartrKlmqr13pC7I-j": {
