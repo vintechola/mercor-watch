@@ -118,9 +118,13 @@
     [
      "2026-11-15T07:45:16Z",
      7
+    ],
+    [
+     "2026-11-15T10:56:25Z",
+     6
     ]
    ],
-   "slots": 7,
+   "slots": 6,
    "title": "Accounting Expert"
   },
   "list_AAABn2445JJgOdUpk4dC65kk": {
@@ -2215,9 +2219,13 @@
     [
      "2026-11-13T19:38:46Z",
      2
+    ],
+    [
+     "2026-11-15T10:56:25Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Bilingual Polish Generalist Expert — AI Safety"
   },
   "list_AAABoGopKr-AAiw_UztLz4Y7": {
@@ -4234,10 +4242,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T18:58:22Z",
-     2484
-    ],
-    [
      "2026-11-14T19:36:44Z",
      2477
     ],
@@ -4312,9 +4316,13 @@
     [
      "2026-11-15T10:11:52Z",
      2366
+    ],
+    [
+     "2026-11-15T10:56:25Z",
+     2364
     ]
    ],
-   "slots": 2366,
+   "slots": 2364,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
