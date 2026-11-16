@@ -1749,13 +1749,21 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoCWZLgyS_XMeXVxE9pIU",
    "location": "Remote",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-08-21T18:33:10",
    "rate_freq": "hourly",
    "rate_max": 150.0,
    "rate_min": 120.0,
    "reopen_count": 0,
-   "slots": 8,
+   "slot_hist": [
+    [
+     "2026-11-16T16:26:17Z",
+     12
+    ]
+   ],
+   "slots": 12,
+   "slots_before": 8,
    "title": "Clinicians"
   },
   "list_AAABoCl905TW9jWTfs9Oh44S": {
@@ -2031,9 +2039,13 @@
     [
      "2026-11-14T03:25:07Z",
      16
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     17
     ]
    ],
-   "slots": 16,
+   "slots": 17,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -3615,9 +3627,13 @@
     [
      "2026-11-13T21:24:27Z",
      54
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     53
     ]
    ],
-   "slots": 54,
+   "slots": 53,
    "title": "Economics Research Expert"
   },
   "list_AAABoP3B8SkA4VcfExhLrYa3": {
@@ -4226,6 +4242,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWoHuWaDFZD8pR9DzbZ7",
    "location": "Remote",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-10-23T18:30:54",
    "rate_freq": "hourly",
@@ -4244,9 +4261,13 @@
     [
      "2026-11-16T14:43:27Z",
      6
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     5
     ]
    ],
-   "slots": 6,
+   "slots": 5,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4282,10 +4303,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T16:27:22Z",
-     2331
-    ],
     [
      "2026-11-15T17:08:44Z",
      2329
@@ -4361,9 +4378,13 @@
     [
      "2026-11-16T14:43:27Z",
      2222
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     2210
     ]
    ],
-   "slots": 2222,
+   "slots": 2210,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6006,7 +6027,13 @@
    "rate_max": 140.0,
    "rate_min": 130.0,
    "reopen_count": 0,
-   "slots": 10,
+   "slot_hist": [
+    [
+     "2026-11-16T16:26:17Z",
+     9
+    ]
+   ],
+   "slots": 9,
    "title": "Certified Financial Planner (CFP® / CFA)"
   },
   "list_AAABocvmQyKqYVaWnhNJlLpY": {
@@ -7004,9 +7031,13 @@
     [
      "2026-11-16T14:43:27Z",
      59
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     58
     ]
    ],
-   "slots": 59,
+   "slots": 58,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7139,9 +7170,13 @@
     [
      "2026-11-16T14:43:27Z",
      42
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     41
     ]
    ],
-   "slots": 42,
+   "slots": 41,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7162,9 +7197,13 @@
     [
      "2026-11-15T19:46:08Z",
      65
+    ],
+    [
+     "2026-11-16T16:26:17Z",
+     67
     ]
    ],
-   "slots": 65,
+   "slots": 67,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
