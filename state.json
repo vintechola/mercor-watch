@@ -1700,9 +1700,13 @@
     [
      "2026-11-16T17:38:42Z",
      5
+    ],
+    [
+     "2026-11-16T20:17:59Z",
+     6
     ]
    ],
-   "slots": 5,
+   "slots": 6,
    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
   },
   "list_AAABoCWSTbhgejc0oLZDmbSP": {
@@ -4308,10 +4312,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T19:46:08Z",
-     2315
-    ],
-    [
      "2026-11-15T21:02:22Z",
      2307
     ],
@@ -4386,9 +4386,13 @@
     [
      "2026-11-16T19:29:11Z",
      2182
+    ],
+    [
+     "2026-11-16T20:17:59Z",
+     2179
     ]
    ],
-   "slots": 2182,
+   "slots": 2179,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5335,9 +5339,13 @@
     [
      "2026-11-16T18:29:26Z",
      30
+    ],
+    [
+     "2026-11-16T20:17:59Z",
+     29
     ]
    ],
-   "slots": 30,
+   "slots": 29,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
