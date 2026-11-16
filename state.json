@@ -4312,10 +4312,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T21:02:22Z",
-     2307
-    ],
-    [
      "2026-11-15T21:40:04Z",
      2302
     ],
@@ -4390,10 +4386,14 @@
     [
      "2026-11-16T20:17:59Z",
      2179
+    ],
+    [
+     "2026-11-16T21:06:36Z",
+     2189
     ]
    ],
-   "slots": 2179,
-   "slots_before": 2722,
+   "slots": 2189,
+   "slots_before": 2179,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -5343,9 +5343,13 @@
     [
      "2026-11-16T20:17:59Z",
      29
+    ],
+    [
+     "2026-11-16T21:06:36Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -7210,9 +7214,13 @@
     [
      "2026-11-16T16:26:17Z",
      41
+    ],
+    [
+     "2026-11-16T21:06:36Z",
+     43
     ]
    ],
-   "slots": 41,
+   "slots": 43,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
