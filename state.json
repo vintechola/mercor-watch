@@ -909,14 +909,14 @@
    "title": "Preclinical R&D Expert – ADC & Bispecifics"
   },
   "list_AAABn_cc6cSiGnX7SqNI7arz": {
-   "active": true,
+   "active": false,
    "category": "Arts & Design",
-   "closed_at": null,
+   "closed_at": "2026-11-16T18:29:26Z",
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cc6cSiGnX7SqNI7arz",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-12T17:54:55",
    "rate_freq": "per-task",
    "rate_max": 11.37,
@@ -949,14 +949,14 @@
    "title": "Music & Lyrics Expert - Korean"
   },
   "list_AAABn_cdvrBRkjvHEvhJqboA": {
-   "active": true,
+   "active": false,
    "category": "Arts & Design",
-   "closed_at": null,
+   "closed_at": "2026-11-16T18:29:26Z",
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cdvrBRkjvHEvhJqboA",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-12T17:55:49",
    "rate_freq": "per-task",
    "rate_max": 12.15,
@@ -983,14 +983,14 @@
    "title": "Music & Lyrics Expert - Telugu"
   },
   "list_AAABn_cfZOxBLvxeFKdEW6Od": {
-   "active": true,
+   "active": false,
    "category": "Arts & Design",
-   "closed_at": null,
+   "closed_at": "2026-11-16T18:29:26Z",
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cfZOxBLvxeFKdEW6Od",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-12T17:57:37",
    "rate_freq": "per-task",
    "rate_max": 4.56,
@@ -4308,10 +4308,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T17:41:41Z",
-     2324
-    ],
-    [
      "2026-11-15T18:18:18Z",
      2318
     ],
@@ -4386,9 +4382,13 @@
     [
      "2026-11-16T17:38:42Z",
      2198
+    ],
+    [
+     "2026-11-16T18:29:26Z",
+     2192
     ]
    ],
-   "slots": 2198,
+   "slots": 2192,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4729,9 +4729,13 @@
     [
      "2026-11-16T14:43:27Z",
      21
+    ],
+    [
+     "2026-11-16T18:29:26Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -5296,9 +5300,13 @@
     [
      "2026-11-13T11:37:31Z",
      5
+    ],
+    [
+     "2026-11-16T18:29:26Z",
+     4
     ]
    ],
-   "slots": 5,
+   "slots": 4,
    "title": "Civil Engineer Reviewer"
   },
   "list_AAABoa1Jif2oV4hlV79P_5YJ": {
@@ -5323,9 +5331,13 @@
     [
      "2026-11-14T20:51:22Z",
      31
+    ],
+    [
+     "2026-11-16T18:29:26Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
