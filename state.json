@@ -2250,14 +2250,14 @@
    "title": "Bilingual Polish Generalist Expert — AI Safety"
   },
   "list_AAABoGopKr-AAiw_UztLz4Y7": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-16T14:43:27Z",
    "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGopKr-AAiw_UztLz4Y7",
    "location": "Remote — Western Europe preferred",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-04T02:04:38",
    "rate_freq": "hourly",
    "rate_max": 52.0,
@@ -3676,9 +3676,13 @@
     [
      "2026-11-16T03:47:21Z",
      28
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     29
     ]
    ],
-   "slots": 28,
+   "slots": 29,
    "title": "General Physician"
   },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
@@ -4236,9 +4240,13 @@
     [
      "2026-11-16T05:10:54Z",
      7
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     6
     ]
    ],
-   "slots": 7,
+   "slots": 6,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4274,10 +4282,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T15:52:55Z",
-     2337
-    ],
     [
      "2026-11-15T16:27:22Z",
      2331
@@ -4353,9 +4357,13 @@
     [
      "2026-11-16T11:54:47Z",
      2234
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     2222
     ]
    ],
-   "slots": 2234,
+   "slots": 2222,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -4692,9 +4700,13 @@
     [
      "2026-11-15T23:32:36Z",
      20
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     21
     ]
    ],
-   "slots": 20,
+   "slots": 21,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -4711,7 +4723,13 @@
    "rate_max": 350.0,
    "rate_min": 350.0,
    "reopen_count": 0,
-   "slots": 42,
+   "slot_hist": [
+    [
+     "2026-11-16T14:43:27Z",
+     41
+    ]
+   ],
+   "slots": 41,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -6035,6 +6053,23 @@
    "slots": 15,
    "title": "Fab Safety and Emergency Response Expert"
   },
+  "list_AAABod-XpCFXW1KhVe9F8pnR": {
+   "active": true,
+   "category": "Software Engineering",
+   "closed_at": null,
+   "commitment": "task-based",
+   "first_seen": "2026-11-16T14:43:27Z",
+   "id": "list_AAABod-XpCFXW1KhVe9F8pnR",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-15T14:23:40",
+   "rate_freq": "per-task",
+   "rate_max": 400.0,
+   "rate_min": 400.0,
+   "reopen_count": 0,
+   "slots": 4,
+   "title": "Cyber Engineer (3+ Years Experience)"
+  },
   "list_AAABod-cG2BzHQBcUBVBZ73W": {
    "active": true,
    "category": "Business Operations",
@@ -6965,9 +7000,13 @@
     [
      "2026-11-16T10:52:03Z",
      58
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     59
     ]
    ],
-   "slots": 58,
+   "slots": 59,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7096,9 +7135,13 @@
     [
      "2026-11-16T09:23:58Z",
      43
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     42
     ]
    ],
-   "slots": 43,
+   "slots": 42,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7190,9 +7233,13 @@
     [
      "2026-11-16T11:54:47Z",
      56
+    ],
+    [
+     "2026-11-16T14:43:27Z",
+     54
     ]
    ],
-   "slots": 56,
+   "slots": 54,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
