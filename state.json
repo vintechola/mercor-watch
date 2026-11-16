@@ -916,7 +916,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cc6cSiGnX7SqNI7arz",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-12T17:54:55",
    "rate_freq": "per-task",
    "rate_max": 11.37,
@@ -956,7 +956,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cdvrBRkjvHEvhJqboA",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-12T17:55:49",
    "rate_freq": "per-task",
    "rate_max": 12.15,
@@ -990,7 +990,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cfZOxBLvxeFKdEW6Od",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-12T17:57:37",
    "rate_freq": "per-task",
    "rate_max": 4.56,
@@ -1696,9 +1696,13 @@
     [
      "2026-11-14T00:44:03Z",
      3
+    ],
+    [
+     "2026-11-16T17:38:42Z",
+     5
     ]
    ],
-   "slots": 3,
+   "slots": 5,
    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
   },
   "list_AAABoCWSTbhgejc0oLZDmbSP": {
@@ -4304,10 +4308,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T17:08:44Z",
-     2329
-    ],
-    [
      "2026-11-15T17:41:41Z",
      2324
     ],
@@ -4382,9 +4382,13 @@
     [
      "2026-11-16T16:26:17Z",
      2210
+    ],
+    [
+     "2026-11-16T17:38:42Z",
+     2198
     ]
    ],
-   "slots": 2210,
+   "slots": 2198,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6031,9 +6035,13 @@
     [
      "2026-11-16T16:26:17Z",
      9
+    ],
+    [
+     "2026-11-16T17:38:42Z",
+     8
     ]
    ],
-   "slots": 9,
+   "slots": 8,
    "title": "Certified Financial Planner (CFP® / CFA)"
   },
   "list_AAABocvmQyKqYVaWnhNJlLpY": {
@@ -7035,9 +7043,13 @@
     [
      "2026-11-16T16:26:17Z",
      58
+    ],
+    [
+     "2026-11-16T17:38:42Z",
+     57
     ]
    ],
-   "slots": 58,
+   "slots": 57,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
