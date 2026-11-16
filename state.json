@@ -4261,10 +4261,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T10:11:52Z",
-     2366
-    ],
-    [
      "2026-11-15T10:56:25Z",
      2364
     ],
@@ -4339,9 +4335,13 @@
     [
      "2026-11-16T00:25:37Z",
      2284
+    ],
+    [
+     "2026-11-16T01:52:10Z",
+     2278
     ]
    ],
-   "slots": 2284,
+   "slots": 2278,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5565,7 +5565,7 @@
    "id": "list_AAABoc1YpFIYUktJmyxFc5mB",
    "location": "Remote",
    "low_alerted": true,
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-12T01:21:41",
    "rate_freq": "hourly",
    "rate_max": 100.0,
