@@ -973,7 +973,7 @@
    "first_seen": "2026-11-14T20:51:22Z",
    "id": "list_AAABn_cfTzoWNDg2B7hOHpvU",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-12T17:57:32",
    "rate_freq": "hourly",
    "rate_max": 19.0,
@@ -1472,7 +1472,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzhzpTRykCmGaJ9Nta1s",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-06T17:22:10",
    "rate_freq": "hourly",
    "rate_max": 42.0,
@@ -4275,10 +4275,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T13:43:24Z",
-     2345
-    ],
-    [
      "2026-11-15T14:29:02Z",
      2343
     ],
@@ -4353,9 +4349,13 @@
     [
      "2026-11-16T06:39:21Z",
      2250
+    ],
+    [
+     "2026-11-16T09:23:58Z",
+     2238
     ]
    ],
-   "slots": 2250,
+   "slots": 2238,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5307,9 +5307,13 @@
     [
      "2026-11-13T22:48:52Z",
      3
+    ],
+    [
+     "2026-11-16T09:23:58Z",
+     2
     ]
    ],
-   "slots": 3,
+   "slots": 2,
    "title": "Electrical Engineer Reviewer"
   },
   "list_AAABoa1Jr97bxLyOdZtG0bN2": {
@@ -5961,7 +5965,7 @@
    "first_seen": "2026-11-14T01:47:52Z",
    "id": "list_AAABocrwuCVk3kRkqXVIm4Vy",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-11T14:08:56",
    "rate_freq": "per-task",
    "rate_max": 80.0,
@@ -6953,9 +6957,13 @@
     [
      "2026-11-15T22:52:39Z",
      59
+    ],
+    [
+     "2026-11-16T09:23:58Z",
+     61
     ]
    ],
-   "slots": 59,
+   "slots": 61,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7080,9 +7088,13 @@
     [
      "2026-11-16T06:39:21Z",
      45
+    ],
+    [
+     "2026-11-16T09:23:58Z",
+     43
     ]
    ],
-   "slots": 45,
+   "slots": 43,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7323,6 +7335,23 @@
    "reopen_count": 0,
    "slots": 10,
    "title": "Drug Discovery & Translational Science Expert"
+  },
+  "list_AAABoeIksoinQkS__UxOZ7G1": {
+   "active": true,
+   "category": "Data Analysis",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-16T09:23:58Z",
+   "id": "list_AAABoeIksoinQkS__UxOZ7G1",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-16T02:16:58",
+   "rate_freq": "hourly",
+   "rate_max": 75.0,
+   "rate_min": 40.0,
+   "reopen_count": 0,
+   "slots": 10,
+   "title": "AI Evaluation Rubric Reviewer"
   }
  }
 }
