@@ -4273,9 +4273,13 @@
     [
      "2026-11-16T16:26:17Z",
      5
+    ],
+    [
+     "2026-11-16T21:51:27Z",
+     4
     ]
    ],
-   "slots": 5,
+   "slots": 4,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4311,10 +4315,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T21:40:04Z",
-     2302
-    ],
     [
      "2026-11-15T22:16:00Z",
      2298
@@ -4390,9 +4390,13 @@
     [
      "2026-11-16T21:06:36Z",
      2189
+    ],
+    [
+     "2026-11-16T21:51:27Z",
+     2181
     ]
    ],
-   "slots": 2189,
+   "slots": 2181,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -7021,6 +7025,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABodda2HesKOKwf2BBqavC",
    "location": "Remote (US preferred, open worldwide)",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-11-14T00:00:18",
    "rate_freq": "hourly",
@@ -7075,9 +7080,14 @@
     [
      "2026-11-16T19:29:11Z",
      55
+    ],
+    [
+     "2026-11-16T21:51:27Z",
+     61
     ]
    ],
-   "slots": 55,
+   "slots": 61,
+   "slots_before": 55,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7218,9 +7228,13 @@
     [
      "2026-11-16T21:06:36Z",
      43
+    ],
+    [
+     "2026-11-16T21:51:27Z",
+     42
     ]
    ],
-   "slots": 43,
+   "slots": 42,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7324,9 +7338,13 @@
     [
      "2026-11-16T19:29:11Z",
      53
+    ],
+    [
+     "2026-11-16T21:51:27Z",
+     52
     ]
    ],
-   "slots": 53,
+   "slots": 52,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
