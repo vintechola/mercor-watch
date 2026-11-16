@@ -966,14 +966,14 @@
    "title": "Music & Lyrics Expert - Japanese"
   },
   "list_AAABn_cfTzoWNDg2B7hOHpvU": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-16T10:52:03Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T20:51:22Z",
    "id": "list_AAABn_cfTzoWNDg2B7hOHpvU",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-12T17:57:32",
    "rate_freq": "hourly",
    "rate_max": 19.0,
@@ -1465,14 +1465,14 @@
    "title": "Music Production Expert - German"
   },
   "list_AAABnzhzpTRykCmGaJ9Nta1s": {
-   "active": true,
+   "active": false,
    "category": "Arts & Design",
-   "closed_at": null,
+   "closed_at": "2026-11-16T10:52:03Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzhzpTRykCmGaJ9Nta1s",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-07-06T17:22:10",
    "rate_freq": "hourly",
    "rate_max": 42.0,
@@ -4275,10 +4275,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T14:29:02Z",
-     2343
-    ],
-    [
      "2026-11-15T15:11:50Z",
      2342
     ],
@@ -4353,9 +4349,13 @@
     [
      "2026-11-16T09:23:58Z",
      2238
+    ],
+    [
+     "2026-11-16T10:52:03Z",
+     2235
     ]
    ],
-   "slots": 2238,
+   "slots": 2235,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -5958,14 +5958,14 @@
    "title": "Customer Support & Success Domain Expert"
   },
   "list_AAABocrwuCVk3kRkqXVIm4Vy": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-16T10:52:03Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T01:47:52Z",
    "id": "list_AAABocrwuCVk3kRkqXVIm4Vy",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-11T14:08:56",
    "rate_freq": "per-task",
    "rate_max": 80.0,
@@ -6961,9 +6961,13 @@
     [
      "2026-11-16T09:23:58Z",
      61
+    ],
+    [
+     "2026-11-16T10:52:03Z",
+     58
     ]
    ],
-   "slots": 61,
+   "slots": 58,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7178,9 +7182,13 @@
     [
      "2026-11-16T06:39:21Z",
      56
+    ],
+    [
+     "2026-11-16T10:52:03Z",
+     57
     ]
    ],
-   "slots": 56,
+   "slots": 57,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
