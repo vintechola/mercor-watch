@@ -4275,10 +4275,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T12:56:29Z",
-     2348
-    ],
-    [
      "2026-11-15T13:43:24Z",
      2345
     ],
@@ -4353,9 +4349,13 @@
     [
      "2026-11-16T05:10:54Z",
      2258
+    ],
+    [
+     "2026-11-16T06:39:21Z",
+     2250
     ]
    ],
-   "slots": 2258,
+   "slots": 2250,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -7076,9 +7076,13 @@
     [
      "2026-11-15T23:32:36Z",
      46
+    ],
+    [
+     "2026-11-16T06:39:21Z",
+     45
     ]
    ],
-   "slots": 46,
+   "slots": 45,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7158,9 +7162,13 @@
     [
      "2026-11-16T00:25:37Z",
      57
+    ],
+    [
+     "2026-11-16T06:39:21Z",
+     56
     ]
    ],
-   "slots": 57,
+   "slots": 56,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
