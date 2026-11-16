@@ -3666,9 +3666,13 @@
     [
      "2026-11-14T19:36:44Z",
      29
+    ],
+    [
+     "2026-11-16T03:47:21Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "General Physician"
   },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
@@ -4261,10 +4265,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T11:28:55Z",
-     2357
-    ],
-    [
      "2026-11-15T12:09:51Z",
      2352
     ],
@@ -4339,9 +4339,13 @@
     [
      "2026-11-16T02:44:30Z",
      2273
+    ],
+    [
+     "2026-11-16T03:47:21Z",
+     2268
     ]
    ],
-   "slots": 2273,
+   "slots": 2268,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
@@ -6008,9 +6012,13 @@
     [
      "2026-11-15T22:52:39Z",
      16
+    ],
+    [
+     "2026-11-16T03:47:21Z",
+     15
     ]
    ],
-   "slots": 16,
+   "slots": 15,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-cG2BzHQBcUBVBZ73W": {
