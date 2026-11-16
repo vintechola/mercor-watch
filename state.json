@@ -1665,7 +1665,13 @@
    "rate_max": 110.0,
    "rate_min": 70.0,
    "reopen_count": 0,
-   "slots": 16,
+   "slot_hist": [
+    [
+     "2026-11-16T05:10:54Z",
+     17
+    ]
+   ],
+   "slots": 17,
    "title": "Project Management Specialists"
   },
   "list_AAABoCVpVbx3Il0MJIpLTKHA": {
@@ -4226,9 +4232,13 @@
     [
      "2026-11-13T20:30:24Z",
      9
+    ],
+    [
+     "2026-11-16T05:10:54Z",
+     7
     ]
    ],
-   "slots": 9,
+   "slots": 7,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4264,10 +4274,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T12:09:51Z",
-     2352
-    ],
     [
      "2026-11-15T12:56:29Z",
      2348
@@ -4343,9 +4349,13 @@
     [
      "2026-11-16T03:47:21Z",
      2268
+    ],
+    [
+     "2026-11-16T05:10:54Z",
+     2258
     ]
    ],
-   "slots": 2268,
+   "slots": 2258,
    "slots_before": 2722,
    "title": "Retail Trader"
   },
