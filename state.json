@@ -1465,7 +1465,13 @@
    "rate_max": 11.37,
    "rate_min": 11.37,
    "reopen_count": 0,
-   "slots": 5,
+   "slot_hist": [
+    [
+     "2026-11-17T16:39:16Z",
+     4
+    ]
+   ],
+   "slots": 4,
    "title": "Music Production Expert - German"
   },
   "list_AAABnzhzpTRykCmGaJ9Nta1s": {
@@ -4346,10 +4352,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T21:06:36Z",
-     2189
-    ],
-    [
      "2026-11-16T21:51:27Z",
      2181
     ],
@@ -4424,9 +4426,13 @@
     [
      "2026-11-17T15:38:56Z",
      2052
+    ],
+    [
+     "2026-11-17T16:39:16Z",
+     2035
     ]
    ],
-   "slots": 2052,
+   "slots": 2035,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4662,7 +4668,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 39,
+   "slot_hist": [
+    [
+     "2026-11-17T16:39:16Z",
+     38
+    ]
+   ],
+   "slots": 38,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -6193,9 +6205,13 @@
     [
      "2026-11-17T14:49:56Z",
      10
+    ],
+    [
+     "2026-11-17T16:39:16Z",
+     9
     ]
    ],
-   "slots": 10,
+   "slots": 9,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-XpCFXW1KhVe9F8pnR": {
@@ -7116,10 +7132,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T09:23:58Z",
-     61
-    ],
-    [
      "2026-11-16T10:52:03Z",
      58
     ],
@@ -7194,9 +7206,13 @@
     [
      "2026-11-17T15:38:56Z",
      38
+    ],
+    [
+     "2026-11-17T16:39:16Z",
+     36
     ]
    ],
-   "slots": 38,
+   "slots": 36,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7276,10 +7292,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T05:44:57Z",
-     50
-    ],
-    [
      "2026-11-15T07:45:16Z",
      49
     ],
@@ -7354,9 +7366,13 @@
     [
      "2026-11-17T15:38:56Z",
      37
+    ],
+    [
+     "2026-11-17T16:39:16Z",
+     35
     ]
    ],
-   "slots": 37,
+   "slots": 35,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7413,10 +7429,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T00:25:37Z",
-     57
-    ],
     [
      "2026-11-16T06:39:21Z",
      56
@@ -7492,9 +7504,13 @@
     [
      "2026-11-17T15:38:56Z",
      35
+    ],
+    [
+     "2026-11-17T16:39:16Z",
+     32
     ]
    ],
-   "slots": 35,
+   "slots": 32,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
