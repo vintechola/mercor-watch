@@ -1733,7 +1733,13 @@
    "rate_max": 110.0,
    "rate_min": 70.0,
    "reopen_count": 0,
-   "slots": 29,
+   "slot_hist": [
+    [
+     "2026-11-17T17:39:38Z",
+     30
+    ]
+   ],
+   "slots": 30,
    "title": "Financial Managers"
   },
   "list_AAABoCWVcMofSHRAcwdM2LBU": {
@@ -3629,6 +3635,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoOppU3x5v3XMbLRHP4rK",
    "location": "Remote",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-09-28T23:46:06",
    "rate_freq": "hourly",
@@ -3663,9 +3670,14 @@
     [
      "2026-11-17T13:57:52Z",
      53
+    ],
+    [
+     "2026-11-17T17:39:38Z",
+     57
     ]
    ],
-   "slots": 53,
+   "slots": 57,
+   "slots_before": 53,
    "title": "Economics Research Expert"
   },
   "list_AAABoP3B8SkA4VcfExhLrYa3": {
@@ -4352,10 +4364,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T21:51:27Z",
-     2181
-    ],
-    [
      "2026-11-16T22:37:01Z",
      2172
     ],
@@ -4430,9 +4438,13 @@
     [
      "2026-11-17T16:39:16Z",
      2035
+    ],
+    [
+     "2026-11-17T17:39:38Z",
+     2017
     ]
    ],
-   "slots": 2035,
+   "slots": 2017,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -7132,10 +7144,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T10:52:03Z",
-     58
-    ],
-    [
      "2026-11-16T14:43:27Z",
      59
     ],
@@ -7210,9 +7218,13 @@
     [
      "2026-11-17T16:39:16Z",
      36
+    ],
+    [
+     "2026-11-17T17:39:38Z",
+     35
     ]
    ],
-   "slots": 36,
+   "slots": 35,
    "slots_before": 61,
    "title": "HR Expert"
   },
