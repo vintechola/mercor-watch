@@ -4364,10 +4364,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T03:55:14Z",
-     2146
-    ],
-    [
      "2026-11-17T04:46:28Z",
      2140
     ],
@@ -4442,9 +4438,13 @@
     [
      "2026-11-17T22:19:33Z",
      1894
+    ],
+    [
+     "2026-11-17T23:13:36Z",
+     1878
     ]
    ],
-   "slots": 1894,
+   "slots": 1878,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4754,9 +4754,13 @@
     [
      "2026-11-17T20:28:24Z",
      38
+    ],
+    [
+     "2026-11-17T23:13:36Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -4875,9 +4879,13 @@
     [
      "2026-11-17T20:28:24Z",
      17
+    ],
+    [
+     "2026-11-17T23:13:36Z",
+     14
     ]
    ],
-   "slots": 17,
+   "slots": 14,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7396,10 +7404,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T16:27:22Z",
-     47
-    ],
-    [
      "2026-11-15T17:08:44Z",
      46
     ],
@@ -7474,9 +7478,13 @@
     [
      "2026-11-17T22:19:33Z",
      33
+    ],
+    [
+     "2026-11-17T23:13:36Z",
+     34
     ]
    ],
-   "slots": 33,
+   "slots": 34,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7529,9 +7537,13 @@
     [
      "2026-11-17T22:19:33Z",
      57
+    ],
+    [
+     "2026-11-17T23:13:36Z",
+     58
     ]
    ],
-   "slots": 57,
+   "slots": 58,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
