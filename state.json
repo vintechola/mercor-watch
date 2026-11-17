@@ -4289,9 +4289,13 @@
     [
      "2026-11-17T01:06:35Z",
      2
+    ],
+    [
+     "2026-11-17T05:43:30Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4327,10 +4331,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T05:10:54Z",
-     2258
-    ],
     [
      "2026-11-16T06:39:21Z",
      2250
@@ -4406,9 +4406,13 @@
     [
      "2026-11-17T04:46:28Z",
      2140
+    ],
+    [
+     "2026-11-17T05:43:30Z",
+     2139
     ]
    ],
-   "slots": 2140,
+   "slots": 2139,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -5066,14 +5070,14 @@
    "title": "Vietnamese Linguistic Experts"
   },
   "list_AAABoXq9t0y0EaX_MQROQ69T": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-17T05:43:30Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoXq9t0y0EaX_MQROQ69T",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-10-27T00:23:36",
    "rate_freq": "hourly",
    "rate_max": 40.0,
@@ -7234,10 +7238,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T20:51:22Z",
-     54
-    ],
-    [
      "2026-11-14T22:01:00Z",
      53
     ],
@@ -7312,9 +7312,13 @@
     [
      "2026-11-17T04:46:28Z",
      39
+    ],
+    [
+     "2026-11-17T05:43:30Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7367,10 +7371,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-14T20:13:56Z",
-     65
-    ],
     [
      "2026-11-14T20:51:22Z",
      64
@@ -7446,9 +7446,13 @@
     [
      "2026-11-17T04:46:28Z",
      42
+    ],
+    [
+     "2026-11-17T05:43:30Z",
+     41
     ]
    ],
-   "slots": 42,
+   "slots": 41,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
