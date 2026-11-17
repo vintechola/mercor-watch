@@ -4285,9 +4285,13 @@
     [
      "2026-11-17T00:04:17Z",
      3
+    ],
+    [
+     "2026-11-17T01:06:35Z",
+     2
     ]
    ],
-   "slots": 3,
+   "slots": 2,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4323,10 +4327,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T23:32:36Z",
-     2292
-    ],
     [
      "2026-11-16T00:25:37Z",
      2284
@@ -4402,9 +4402,13 @@
     [
      "2026-11-17T00:04:17Z",
      2164
+    ],
+    [
+     "2026-11-17T01:06:35Z",
+     2159
     ]
    ],
-   "slots": 2164,
+   "slots": 2159,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -6081,9 +6085,13 @@
     [
      "2026-11-16T17:38:42Z",
      8
+    ],
+    [
+     "2026-11-17T01:06:35Z",
+     7
     ]
    ],
-   "slots": 8,
+   "slots": 7,
    "title": "Certified Financial Planner (CFP® / CFA)"
   },
   "list_AAABocvmQyKqYVaWnhNJlLpY": {
@@ -7106,9 +7114,13 @@
     [
      "2026-11-17T00:04:17Z",
      60
+    ],
+    [
+     "2026-11-17T01:06:35Z",
+     56
     ]
    ],
-   "slots": 60,
+   "slots": 56,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7281,9 +7293,13 @@
     [
      "2026-11-16T16:26:17Z",
      67
+    ],
+    [
+     "2026-11-17T01:06:35Z",
+     64
     ]
    ],
-   "slots": 67,
+   "slots": 64,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7364,9 +7380,13 @@
     [
      "2026-11-16T21:51:27Z",
      52
+    ],
+    [
+     "2026-11-17T01:06:35Z",
+     49
     ]
    ],
-   "slots": 52,
+   "slots": 49,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
