@@ -4346,10 +4346,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T20:17:59Z",
-     2179
-    ],
-    [
      "2026-11-16T21:06:36Z",
      2189
     ],
@@ -4424,9 +4420,13 @@
     [
      "2026-11-17T14:49:56Z",
      2069
+    ],
+    [
+     "2026-11-17T15:38:56Z",
+     2052
     ]
    ],
-   "slots": 2069,
+   "slots": 2052,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -7116,10 +7116,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T22:52:39Z",
-     59
-    ],
-    [
      "2026-11-16T09:23:58Z",
      61
     ],
@@ -7194,9 +7190,13 @@
     [
      "2026-11-17T14:49:56Z",
      39
+    ],
+    [
+     "2026-11-17T15:38:56Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7276,10 +7276,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-14T23:13:25Z",
-     51
-    ],
-    [
      "2026-11-15T05:44:57Z",
      50
     ],
@@ -7354,9 +7350,13 @@
     [
      "2026-11-17T13:57:52Z",
      38
+    ],
+    [
+     "2026-11-17T15:38:56Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7389,9 +7389,13 @@
     [
      "2026-11-17T03:05:02Z",
      62
+    ],
+    [
+     "2026-11-17T15:38:56Z",
+     61
     ]
    ],
-   "slots": 62,
+   "slots": 61,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7409,10 +7413,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T23:32:36Z",
-     58
-    ],
     [
      "2026-11-16T00:25:37Z",
      57
@@ -7488,9 +7488,13 @@
     [
      "2026-11-17T14:49:56Z",
      36
+    ],
+    [
+     "2026-11-17T15:38:56Z",
+     35
     ]
    ],
-   "slots": 36,
+   "slots": 35,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7668,9 +7672,13 @@
     [
      "2026-11-17T10:05:20Z",
      7
+    ],
+    [
+     "2026-11-17T15:38:56Z",
+     6
     ]
    ],
-   "slots": 7,
+   "slots": 6,
    "title": "AI Evaluation Rubric Reviewer"
   },
   "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
