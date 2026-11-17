@@ -2172,7 +2172,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGolO9gcnQ8YmYtCO4rY",
    "location": "Remote — Western Europe preferred",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-04T02:00:20",
    "rate_freq": "hourly",
    "rate_max": 44.0,
@@ -4328,10 +4328,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T00:25:37Z",
-     2284
-    ],
-    [
      "2026-11-16T01:52:10Z",
      2278
     ],
@@ -4406,9 +4402,13 @@
     [
      "2026-11-17T01:06:35Z",
      2159
+    ],
+    [
+     "2026-11-17T02:17:07Z",
+     2155
     ]
    ],
-   "slots": 2159,
+   "slots": 2155,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -4527,7 +4527,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 32,
+   "slot_hist": [
+    [
+     "2026-11-17T02:17:07Z",
+     31
+    ]
+   ],
+   "slots": 31,
    "title": "Infectious Disease Physician"
   },
   "list_AAABoWtwOLHV8_xCHd5M26Cl": {
@@ -5369,9 +5375,13 @@
     [
      "2026-11-16T21:06:36Z",
      28
+    ],
+    [
+     "2026-11-17T02:17:07Z",
+     27
     ]
    ],
-   "slots": 28,
+   "slots": 27,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -6133,9 +6143,13 @@
     [
      "2026-11-16T03:47:21Z",
      15
+    ],
+    [
+     "2026-11-17T02:17:07Z",
+     14
     ]
    ],
-   "slots": 15,
+   "slots": 14,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-XpCFXW1KhVe9F8pnR": {
@@ -7118,9 +7132,13 @@
     [
      "2026-11-17T01:06:35Z",
      56
+    ],
+    [
+     "2026-11-17T02:17:07Z",
+     51
     ]
    ],
-   "slots": 56,
+   "slots": 51,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7266,9 +7284,13 @@
     [
      "2026-11-16T21:51:27Z",
      42
+    ],
+    [
+     "2026-11-17T02:17:07Z",
+     41
     ]
    ],
-   "slots": 42,
+   "slots": 41,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7384,9 +7406,13 @@
     [
      "2026-11-17T01:06:35Z",
      49
+    ],
+    [
+     "2026-11-17T02:17:07Z",
+     45
     ]
    ],
-   "slots": 49,
+   "slots": 45,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
