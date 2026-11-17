@@ -4281,9 +4281,13 @@
     [
      "2026-11-16T21:51:27Z",
      4
+    ],
+    [
+     "2026-11-17T00:04:17Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "title": "US Contract Attorney — In-House Counsel"
   },
   "list_AAABoWoZmUZ_SLUqJNtCkJsp": {
@@ -4319,10 +4323,6 @@
    "rate_min": 400.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-15T22:52:39Z",
-     2293
-    ],
     [
      "2026-11-15T23:32:36Z",
      2292
@@ -4398,9 +4398,13 @@
     [
      "2026-11-16T22:37:01Z",
      2172
+    ],
+    [
+     "2026-11-17T00:04:17Z",
+     2164
     ]
    ],
-   "slots": 2172,
+   "slots": 2164,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -7098,9 +7102,13 @@
     [
      "2026-11-16T22:37:01Z",
      64
+    ],
+    [
+     "2026-11-17T00:04:17Z",
+     60
     ]
    ],
-   "slots": 64,
+   "slots": 60,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7530,6 +7538,23 @@
    "reopen_count": 0,
    "slots": 10,
    "title": "AI Evaluation Rubric Reviewer"
+  },
+  "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
+   "active": true,
+   "category": "Miscellaneous",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-17T00:04:17Z",
+   "id": "list_AAABoeaZZ5aPp9cXNF9DVrUb",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-16T23:02:55",
+   "rate_freq": "hourly",
+   "rate_max": 85.0,
+   "rate_min": 60.0,
+   "reopen_count": 0,
+   "slots": 10,
+   "title": "AI Evaluation Rubric Auditor"
   }
  }
 }
