@@ -4364,10 +4364,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T01:06:35Z",
-     2159
-    ],
-    [
      "2026-11-17T02:17:07Z",
      2155
     ],
@@ -4442,9 +4438,13 @@
     [
      "2026-11-17T19:39:29Z",
      1975
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     1947
     ]
    ],
-   "slots": 1975,
+   "slots": 1947,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4677,9 +4677,13 @@
     [
      "2026-11-17T19:39:29Z",
      37
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -4742,7 +4746,13 @@
    "rate_max": 275.0,
    "rate_min": 275.0,
    "reopen_count": 0,
-   "slots": 40,
+   "slot_hist": [
+    [
+     "2026-11-17T20:28:24Z",
+     38
+    ]
+   ],
+   "slots": 38,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -4767,9 +4777,13 @@
     [
      "2026-11-14T17:38:04Z",
      29
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -4798,9 +4812,13 @@
     [
      "2026-11-17T19:39:29Z",
      23
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     22
     ]
    ],
-   "slots": 23,
+   "slots": 22,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -4841,9 +4859,13 @@
     [
      "2026-11-17T19:39:29Z",
      18
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7186,10 +7208,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T17:38:42Z",
-     57
-    ],
-    [
      "2026-11-16T19:29:11Z",
      55
     ],
@@ -7264,10 +7282,14 @@
     [
      "2026-11-17T19:39:29Z",
      33
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     36
     ]
    ],
-   "slots": 33,
-   "slots_before": 61,
+   "slots": 36,
+   "slots_before": 33,
    "title": "HR Expert"
   },
   "list_AAABodda7rBOuu8-efdMp5zh": {
@@ -7471,9 +7493,13 @@
     [
      "2026-11-17T19:39:29Z",
      59
+    ],
+    [
+     "2026-11-17T20:28:24Z",
+     58
     ]
    ],
-   "slots": 59,
+   "slots": 58,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
