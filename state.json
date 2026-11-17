@@ -3423,14 +3423,14 @@
    "title": "Generalist Expert"
   },
   "list_AAABoKver4zykD33JeRD2YDT": {
-   "active": true,
+   "active": false,
    "category": "Other Engineering",
-   "closed_at": null,
+   "closed_at": "2026-11-17T10:05:20Z",
    "commitment": "full-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoKver4zykD33JeRD2YDT",
    "location": "United States",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-16T20:18:13",
    "rate_freq": "hourly",
    "rate_max": 90.0,
@@ -4336,10 +4336,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T11:54:47Z",
-     2234
-    ],
-    [
      "2026-11-16T14:43:27Z",
      2222
     ],
@@ -4414,10 +4410,14 @@
     [
      "2026-11-17T09:00:27Z",
      2127
+    ],
+    [
+     "2026-11-17T10:05:20Z",
+     2144
     ]
    ],
-   "slots": 2127,
-   "slots_before": 2179,
+   "slots": 2144,
+   "slots_before": 2127,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -5812,9 +5812,13 @@
     [
      "2026-11-17T06:46:48Z",
      17
+    ],
+    [
+     "2026-11-17T10:05:20Z",
+     16
     ]
    ],
-   "slots": 17,
+   "slots": 16,
    "title": "Fab Safety and Emergency Response Expert (Japanese)"
   },
   "list_AAABocI-OkrOixS81NNDVrWt": {
@@ -7384,10 +7388,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T07:45:16Z",
-     61
-    ],
-    [
      "2026-11-15T11:28:55Z",
      60
     ],
@@ -7462,9 +7462,13 @@
     [
      "2026-11-17T09:00:27Z",
      38
+    ],
+    [
+     "2026-11-17T10:05:20Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7638,9 +7642,13 @@
     [
      "2026-11-17T09:00:27Z",
      9
+    ],
+    [
+     "2026-11-17T10:05:20Z",
+     7
     ]
    ],
-   "slots": 9,
+   "slots": 7,
    "title": "AI Evaluation Rubric Reviewer"
   },
   "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
