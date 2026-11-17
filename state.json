@@ -933,7 +933,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cd2Y4M1Abj0JJFqaY-",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-12T17:55:56",
    "rate_freq": "per-task",
    "rate_max": 12.15,
@@ -1398,7 +1398,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzh0-n7dhIrcl7ZCpq5r",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-06T17:23:38",
    "rate_freq": "per-task",
    "rate_max": 4.56,
@@ -1415,7 +1415,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzh0CO9UhmGtnTRMz50Y",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-06T17:22:36",
    "rate_freq": "per-task",
    "rate_max": 12.15,
@@ -1432,7 +1432,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzhzfDIFHoCRDwJJYYes",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-06T17:22:00",
    "rate_freq": "hourly",
    "rate_max": 54.0,
@@ -2165,14 +2165,14 @@
    "title": "Bilingual Hindi Generalist Expert — AI Safety"
   },
   "list_AAABoGolO9gcnQ8YmYtCO4rY": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-17T03:05:02Z",
    "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoGolO9gcnQ8YmYtCO4rY",
    "location": "Remote — Western Europe preferred",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-04T02:00:20",
    "rate_freq": "hourly",
    "rate_max": 44.0,
@@ -4328,10 +4328,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T01:52:10Z",
-     2278
-    ],
-    [
      "2026-11-16T02:44:30Z",
      2273
     ],
@@ -4406,9 +4402,13 @@
     [
      "2026-11-17T02:17:07Z",
      2155
+    ],
+    [
+     "2026-11-17T03:05:02Z",
+     2151
     ]
    ],
-   "slots": 2155,
+   "slots": 2151,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -7136,9 +7136,13 @@
     [
      "2026-11-17T02:17:07Z",
      51
+    ],
+    [
+     "2026-11-17T03:05:02Z",
+     49
     ]
    ],
-   "slots": 51,
+   "slots": 49,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7319,9 +7323,13 @@
     [
      "2026-11-17T01:06:35Z",
      64
+    ],
+    [
+     "2026-11-17T03:05:02Z",
+     62
     ]
    ],
-   "slots": 64,
+   "slots": 62,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7410,9 +7418,13 @@
     [
      "2026-11-17T02:17:07Z",
      45
+    ],
+    [
+     "2026-11-17T03:05:02Z",
+     43
     ]
    ],
-   "slots": 45,
+   "slots": 43,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
