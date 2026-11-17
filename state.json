@@ -4364,10 +4364,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T03:05:02Z",
-     2151
-    ],
-    [
      "2026-11-17T03:55:14Z",
      2146
     ],
@@ -4442,9 +4438,13 @@
     [
      "2026-11-17T21:20:21Z",
      1916
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     1894
     ]
    ],
-   "slots": 1916,
+   "slots": 1894,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4727,9 +4727,13 @@
     [
      "2026-11-17T19:39:29Z",
      35
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     33
     ]
    ],
-   "slots": 35,
+   "slots": 33,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -4781,9 +4785,13 @@
     [
      "2026-11-17T20:28:24Z",
      28
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     27
     ]
    ],
-   "slots": 28,
+   "slots": 27,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -4816,9 +4824,13 @@
     [
      "2026-11-17T20:28:24Z",
      22
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     21
     ]
    ],
-   "slots": 22,
+   "slots": 21,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -5501,9 +5513,13 @@
     [
      "2026-11-17T21:20:21Z",
      26
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     27
     ]
    ],
-   "slots": 26,
+   "slots": 27,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -7220,10 +7236,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T21:51:27Z",
-     61
-    ],
-    [
      "2026-11-16T22:37:01Z",
      64
     ],
@@ -7298,9 +7310,13 @@
     [
      "2026-11-17T21:20:21Z",
      33
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     32
     ]
    ],
-   "slots": 33,
+   "slots": 32,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7380,10 +7396,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T08:31:15Z",
-     48
-    ],
-    [
      "2026-11-15T16:27:22Z",
      47
     ],
@@ -7458,9 +7470,13 @@
     [
      "2026-11-17T18:30:31Z",
      34
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7509,9 +7525,13 @@
     [
      "2026-11-17T20:28:24Z",
      58
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     57
     ]
    ],
-   "slots": 58,
+   "slots": 57,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7529,10 +7549,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T11:54:47Z",
-     56
-    ],
     [
      "2026-11-16T14:43:27Z",
      54
@@ -7608,9 +7624,13 @@
     [
      "2026-11-17T21:20:21Z",
      30
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     29
     ]
    ],
-   "slots": 30,
+   "slots": 29,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7774,6 +7794,7 @@
    "first_seen": "2026-11-16T09:23:58Z",
    "id": "list_AAABoeIksoinQkS__UxOZ7G1",
    "location": "Remote",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-16T02:16:58",
    "rate_freq": "hourly",
@@ -7800,9 +7821,13 @@
     [
      "2026-11-17T21:20:21Z",
      6
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     5
     ]
    ],
-   "slots": 6,
+   "slots": 5,
    "title": "AI Evaluation Rubric Reviewer"
   },
   "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
@@ -7823,9 +7848,13 @@
     [
      "2026-11-17T18:30:31Z",
      9
+    ],
+    [
+     "2026-11-17T22:19:33Z",
+     10
     ]
    ],
-   "slots": 9,
+   "slots": 10,
    "title": "AI Evaluation Rubric Auditor"
   },
   "list_AAABoeeVJDIM_xNOuG9KNotk": {
