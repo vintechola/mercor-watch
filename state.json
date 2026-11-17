@@ -4336,10 +4336,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T14:43:27Z",
-     2222
-    ],
-    [
      "2026-11-16T16:26:17Z",
      2210
     ],
@@ -4414,9 +4410,13 @@
     [
      "2026-11-17T10:05:20Z",
      2144
+    ],
+    [
+     "2026-11-17T11:03:56Z",
+     2128
     ]
    ],
-   "slots": 2144,
+   "slots": 2128,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -5816,9 +5816,13 @@
     [
      "2026-11-17T10:05:20Z",
      16
+    ],
+    [
+     "2026-11-17T11:03:56Z",
+     15
     ]
    ],
-   "slots": 16,
+   "slots": 15,
    "title": "Fab Safety and Emergency Response Expert (Japanese)"
   },
   "list_AAABocI-OkrOixS81NNDVrWt": {
@@ -7094,10 +7098,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T00:19:18Z",
-     61
-    ],
-    [
      "2026-11-15T07:45:16Z",
      60
     ],
@@ -7172,9 +7172,13 @@
     [
      "2026-11-17T09:00:27Z",
      47
+    ],
+    [
+     "2026-11-17T11:03:56Z",
+     44
     ]
    ],
-   "slots": 47,
+   "slots": 44,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7388,10 +7392,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T11:28:55Z",
-     60
-    ],
-    [
      "2026-11-15T12:09:51Z",
      59
     ],
@@ -7466,9 +7466,13 @@
     [
      "2026-11-17T10:05:20Z",
      37
+    ],
+    [
+     "2026-11-17T11:03:56Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
