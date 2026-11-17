@@ -926,14 +926,14 @@
    "title": "Music & Lyrics Expert - German"
   },
   "list_AAABn_cd2Y4M1Abj0JJFqaY-": {
-   "active": true,
+   "active": false,
    "category": "Arts & Design",
-   "closed_at": null,
+   "closed_at": "2026-11-17T03:55:14Z",
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn_cd2Y4M1Abj0JJFqaY-",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-12T17:55:56",
    "rate_freq": "per-task",
    "rate_max": 12.15,
@@ -1391,14 +1391,14 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Southern USA)"
   },
   "list_AAABnzh0-n7dhIrcl7ZCpq5r": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-17T03:55:14Z",
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzh0-n7dhIrcl7ZCpq5r",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-07-06T17:23:38",
    "rate_freq": "per-task",
    "rate_max": 4.56,
@@ -1408,14 +1408,14 @@
    "title": "Music Production Expert - Thai"
   },
   "list_AAABnzh0CO9UhmGtnTRMz50Y": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-17T03:55:14Z",
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzh0CO9UhmGtnTRMz50Y",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-07-06T17:22:36",
    "rate_freq": "per-task",
    "rate_max": 12.15,
@@ -1425,14 +1425,14 @@
    "title": "Music Production Expert - Korean"
   },
   "list_AAABnzhzfDIFHoCRDwJJYYes": {
-   "active": true,
+   "active": false,
    "category": "Arts & Design",
-   "closed_at": null,
+   "closed_at": "2026-11-17T03:55:14Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzhzfDIFHoCRDwJJYYes",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-07-06T17:22:00",
    "rate_freq": "hourly",
    "rate_max": 54.0,
@@ -4328,10 +4328,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T02:44:30Z",
-     2273
-    ],
-    [
      "2026-11-16T03:47:21Z",
      2268
     ],
@@ -4406,9 +4402,13 @@
     [
      "2026-11-17T03:05:02Z",
      2151
+    ],
+    [
+     "2026-11-17T03:55:14Z",
+     2146
     ]
    ],
-   "slots": 2151,
+   "slots": 2146,
    "slots_before": 2179,
    "title": "Retail Trader"
   },
@@ -5379,9 +5379,13 @@
     [
      "2026-11-17T02:17:07Z",
      27
+    ],
+    [
+     "2026-11-17T03:55:14Z",
+     26
     ]
    ],
-   "slots": 27,
+   "slots": 26,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -7140,9 +7144,13 @@
     [
      "2026-11-17T03:05:02Z",
      49
+    ],
+    [
+     "2026-11-17T03:55:14Z",
+     46
     ]
    ],
-   "slots": 49,
+   "slots": 46,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7292,9 +7300,13 @@
     [
      "2026-11-17T02:17:07Z",
      41
+    ],
+    [
+     "2026-11-17T03:55:14Z",
+     40
     ]
    ],
-   "slots": 41,
+   "slots": 40,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
