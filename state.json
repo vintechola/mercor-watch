@@ -4364,10 +4364,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T00:04:17Z",
-     2164
-    ],
-    [
      "2026-11-17T01:06:35Z",
      2159
     ],
@@ -4442,9 +4438,13 @@
     [
      "2026-11-17T18:30:31Z",
      2004
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     1975
     ]
    ],
-   "slots": 2004,
+   "slots": 1975,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4512,7 +4512,13 @@
    "rate_max": 150.0,
    "rate_min": 150.0,
    "reopen_count": 0,
-   "slots": 43,
+   "slot_hist": [
+    [
+     "2026-11-17T19:39:29Z",
+     42
+    ]
+   ],
+   "slots": 42,
    "title": "Otolaryngologist (ENT)"
   },
   "list_AAABoWtwCj4E5CDOjQ1KxL5m": {
@@ -4529,7 +4535,13 @@
    "rate_max": 175.0,
    "rate_min": 175.0,
    "reopen_count": 0,
-   "slots": 43,
+   "slot_hist": [
+    [
+     "2026-11-17T19:39:29Z",
+     42
+    ]
+   ],
+   "slots": 42,
    "title": "Ophthalmologist"
   },
   "list_AAABoWtwGWHBJHEIwBFOP4OG": {
@@ -4661,9 +4673,13 @@
     [
      "2026-11-15T19:46:08Z",
      38
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -4703,7 +4719,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 36,
+   "slot_hist": [
+    [
+     "2026-11-17T19:39:29Z",
+     35
+    ]
+   ],
+   "slots": 35,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -4772,9 +4794,13 @@
     [
      "2026-11-17T18:30:31Z",
      24
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     23
     ]
    ],
-   "slots": 24,
+   "slots": 23,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -4811,9 +4837,13 @@
     [
      "2026-11-16T18:29:26Z",
      20
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     18
     ]
    ],
-   "slots": 20,
+   "slots": 18,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -5354,9 +5384,13 @@
     [
      "2026-11-14T05:59:51Z",
      26
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     27
     ]
    ],
-   "slots": 26,
+   "slots": 27,
    "title": "Civil Engineering Writer"
   },
   "list_AAABoa1JdtVScGh5y5ZBYqSo": {
@@ -5429,9 +5463,13 @@
     [
      "2026-11-17T03:55:14Z",
      26
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     25
     ]
    ],
-   "slots": 26,
+   "slots": 25,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -7148,10 +7186,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T16:26:17Z",
-     58
-    ],
-    [
      "2026-11-16T17:38:42Z",
      57
     ],
@@ -7226,9 +7260,13 @@
     [
      "2026-11-17T18:30:31Z",
      34
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "slots_before": 61,
    "title": "HR Expert"
   },
@@ -7429,9 +7467,13 @@
     [
      "2026-11-17T18:30:31Z",
      60
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     59
     ]
    ],
-   "slots": 60,
+   "slots": 59,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7449,10 +7491,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T06:39:21Z",
-     56
-    ],
     [
      "2026-11-16T10:52:03Z",
      57
@@ -7528,9 +7566,13 @@
     [
      "2026-11-17T16:39:16Z",
      32
+    ],
+    [
+     "2026-11-17T19:39:29Z",
+     31
     ]
    ],
-   "slots": 32,
+   "slots": 31,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
