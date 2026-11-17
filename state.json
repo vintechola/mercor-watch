@@ -4364,10 +4364,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T02:17:07Z",
-     2155
-    ],
-    [
      "2026-11-17T03:05:02Z",
      2151
     ],
@@ -4442,9 +4438,13 @@
     [
      "2026-11-17T20:28:24Z",
      1947
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     1916
     ]
    ],
-   "slots": 1947,
+   "slots": 1916,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4886,9 +4886,13 @@
     [
      "2026-11-16T14:43:27Z",
      41
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     40
     ]
    ],
-   "slots": 41,
+   "slots": 40,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -5410,9 +5414,13 @@
     [
      "2026-11-17T19:39:29Z",
      27
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     28
     ]
    ],
-   "slots": 27,
+   "slots": 28,
    "title": "Civil Engineering Writer"
   },
   "list_AAABoa1JdtVScGh5y5ZBYqSo": {
@@ -5489,9 +5497,13 @@
     [
      "2026-11-17T19:39:29Z",
      25
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     26
     ]
    ],
-   "slots": 25,
+   "slots": 26,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -7208,10 +7220,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T19:29:11Z",
-     55
-    ],
-    [
      "2026-11-16T21:51:27Z",
      61
     ],
@@ -7286,9 +7294,13 @@
     [
      "2026-11-17T20:28:24Z",
      36
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     33
     ]
    ],
-   "slots": 36,
+   "slots": 33,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7518,10 +7530,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T10:52:03Z",
-     57
-    ],
-    [
      "2026-11-16T11:54:47Z",
      56
     ],
@@ -7596,9 +7604,13 @@
     [
      "2026-11-17T19:39:29Z",
      31
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7784,9 +7796,13 @@
     [
      "2026-11-17T18:30:31Z",
      7
+    ],
+    [
+     "2026-11-17T21:20:21Z",
+     6
     ]
    ],
-   "slots": 7,
+   "slots": 6,
    "title": "AI Evaluation Rubric Reviewer"
   },
   "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
