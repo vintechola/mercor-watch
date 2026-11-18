@@ -1718,9 +1718,13 @@
     [
      "2026-11-16T20:17:59Z",
      6
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     7
     ]
    ],
-   "slots": 6,
+   "slots": 7,
    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
   },
   "list_AAABoCWSTbhgejc0oLZDmbSP": {
@@ -3678,9 +3682,13 @@
     [
      "2026-11-17T17:39:38Z",
      57
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     58
     ]
    ],
-   "slots": 57,
+   "slots": 58,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -3744,9 +3752,13 @@
     [
      "2026-11-16T14:43:27Z",
      29
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "General Physician"
   },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
@@ -4368,10 +4380,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T06:46:48Z",
-     2140
-    ],
-    [
      "2026-11-17T08:01:31Z",
      2137
     ],
@@ -4446,9 +4454,13 @@
     [
      "2026-11-18T00:59:12Z",
      1852
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     1847
     ]
    ],
-   "slots": 1852,
+   "slots": 1847,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4543,9 +4555,13 @@
     [
      "2026-11-17T19:39:29Z",
      42
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     41
     ]
    ],
-   "slots": 42,
+   "slots": 41,
    "title": "Ophthalmologist"
   },
   "list_AAABoWtwGWHBJHEIwBFOP4OG": {
@@ -4602,7 +4618,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 35,
+   "slot_hist": [
+    [
+     "2026-11-18T02:12:47Z",
+     34
+    ]
+   ],
+   "slots": 34,
    "title": "Nephrologist"
   },
   "list_AAABoWtwTAuXPK49ZE5BY6j1": {
@@ -4623,9 +4645,13 @@
     [
      "2026-11-14T23:13:25Z",
      39
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Rheumatologist"
   },
   "list_AAABoWtwVok0kLHc4h5Gp7qo": {
@@ -7260,10 +7286,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T00:04:17Z",
-     60
-    ],
-    [
      "2026-11-17T01:06:35Z",
      56
     ],
@@ -7338,9 +7360,13 @@
     [
      "2026-11-18T00:59:12Z",
      34
+    ],
+    [
+     "2026-11-18T02:12:47Z",
+     32
     ]
    ],
-   "slots": 34,
+   "slots": 32,
    "slots_before": 33,
    "title": "HR Expert"
   },
