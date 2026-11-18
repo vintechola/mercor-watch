@@ -1687,9 +1687,13 @@
     [
      "2026-11-16T05:10:54Z",
      17
+    ],
+    [
+     "2026-11-18T20:12:44Z",
+     16
     ]
    ],
-   "slots": 17,
+   "slots": 16,
    "title": "Project Management Specialists"
   },
   "list_AAABoCVpVbx3Il0MJIpLTKHA": {
@@ -3726,9 +3730,13 @@
     [
      "2026-11-18T17:27:50Z",
      56
+    ],
+    [
+     "2026-11-18T20:12:44Z",
+     57
     ]
    ],
-   "slots": 56,
+   "slots": 57,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -4426,10 +4434,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T23:59:26Z",
-     1866
-    ],
-    [
      "2026-11-18T00:59:12Z",
      1852
     ],
@@ -4504,9 +4508,13 @@
     [
      "2026-11-18T19:15:35Z",
      1774
+    ],
+    [
+     "2026-11-18T20:12:44Z",
+     1763
     ]
    ],
-   "slots": 1774,
+   "slots": 1763,
    "slots_before": 1824,
    "title": "Retail Trader"
   },
@@ -4800,9 +4808,13 @@
     [
      "2026-11-18T03:56:30Z",
      36
+    ],
+    [
+     "2026-11-18T20:12:44Z",
+     35
     ]
    ],
-   "slots": 36,
+   "slots": 35,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -5715,9 +5727,13 @@
     [
      "2026-11-14T18:58:22Z",
      33
+    ],
+    [
+     "2026-11-18T20:12:44Z",
+     32
     ]
    ],
-   "slots": 33,
+   "slots": 32,
    "title": "Mechanical Engineering Writer"
   },
   "list_AAABoa1JzxXUAzyb5dJAnooH": {
