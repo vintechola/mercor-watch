@@ -4388,10 +4388,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T11:52:34Z",
-     2105
-    ],
-    [
      "2026-11-17T12:45:13Z",
      2093
     ],
@@ -4466,10 +4462,14 @@
     [
      "2026-11-18T05:52:25Z",
      1824
+    ],
+    [
+     "2026-11-18T06:54:15Z",
+     1846
     ]
    ],
-   "slots": 1824,
-   "slots_before": 2127,
+   "slots": 1846,
+   "slots_before": 1824,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4494,9 +4494,13 @@
     [
      "2026-11-14T18:58:22Z",
      40
+    ],
+    [
+     "2026-11-18T06:54:15Z",
+     39
     ]
    ],
-   "slots": 40,
+   "slots": 39,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -7470,10 +7474,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T17:08:44Z",
-     46
-    ],
-    [
      "2026-11-15T19:46:08Z",
      47
     ],
@@ -7548,9 +7548,13 @@
     [
      "2026-11-17T23:13:36Z",
      34
+    ],
+    [
+     "2026-11-18T06:54:15Z",
+     35
     ]
    ],
-   "slots": 34,
+   "slots": 35,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
