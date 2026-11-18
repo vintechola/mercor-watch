@@ -183,9 +183,13 @@
     [
      "2026-11-15T01:31:53Z",
      36
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     33
     ]
    ],
-   "slots": 36,
+   "slots": 33,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -4364,10 +4368,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T05:43:30Z",
-     2139
-    ],
-    [
      "2026-11-17T06:46:48Z",
      2140
     ],
@@ -4442,9 +4442,13 @@
     [
      "2026-11-17T23:59:26Z",
      1866
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     1852
     ]
    ],
-   "slots": 1866,
+   "slots": 1852,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4704,9 +4708,13 @@
     [
      "2026-11-17T16:39:16Z",
      38
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -4758,9 +4766,13 @@
     [
      "2026-11-17T23:13:36Z",
      37
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -4832,9 +4844,13 @@
     [
      "2026-11-17T22:19:33Z",
      21
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -7244,10 +7260,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T22:37:01Z",
-     64
-    ],
-    [
      "2026-11-17T00:04:17Z",
      60
     ],
@@ -7322,9 +7334,13 @@
     [
      "2026-11-17T22:19:33Z",
      32
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     34
     ]
    ],
-   "slots": 32,
+   "slots": 34,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7541,9 +7557,13 @@
     [
      "2026-11-17T23:13:36Z",
      58
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     60
     ]
    ],
-   "slots": 58,
+   "slots": 60,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7561,10 +7581,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T14:43:27Z",
-     54
-    ],
     [
      "2026-11-16T19:29:11Z",
      53
@@ -7640,9 +7656,13 @@
     [
      "2026-11-17T22:19:33Z",
      29
+    ],
+    [
+     "2026-11-18T00:59:12Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
