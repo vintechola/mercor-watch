@@ -4380,10 +4380,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T08:01:31Z",
-     2137
-    ],
-    [
      "2026-11-17T09:00:27Z",
      2127
     ],
@@ -4458,9 +4454,13 @@
     [
      "2026-11-18T02:12:47Z",
      1847
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     1839
     ]
    ],
-   "slots": 1847,
+   "slots": 1839,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4559,9 +4559,13 @@
     [
      "2026-11-18T02:12:47Z",
      41
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     40
     ]
    ],
-   "slots": 41,
+   "slots": 40,
    "title": "Ophthalmologist"
   },
   "list_AAABoWtwGWHBJHEIwBFOP4OG": {
@@ -5480,9 +5484,13 @@
     [
      "2026-11-17T21:20:21Z",
      28
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     29
     ]
    ],
-   "slots": 28,
+   "slots": 29,
    "title": "Civil Engineering Writer"
   },
   "list_AAABoa1JdtVScGh5y5ZBYqSo": {
@@ -7286,10 +7294,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T01:06:35Z",
-     56
-    ],
-    [
      "2026-11-17T02:17:07Z",
      51
     ],
@@ -7364,9 +7368,13 @@
     [
      "2026-11-18T02:12:47Z",
      32
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     31
     ]
    ],
-   "slots": 32,
+   "slots": 31,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7587,9 +7595,13 @@
     [
      "2026-11-18T00:59:12Z",
      60
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     58
     ]
    ],
-   "slots": 60,
+   "slots": 58,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7607,10 +7619,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T19:29:11Z",
-     53
-    ],
     [
      "2026-11-16T21:51:27Z",
      52
@@ -7686,9 +7694,13 @@
     [
      "2026-11-18T00:59:12Z",
      28
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     27
     ]
    ],
-   "slots": 28,
+   "slots": 27,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7883,9 +7895,13 @@
     [
      "2026-11-17T22:19:33Z",
      5
+    ],
+    [
+     "2026-11-18T03:04:00Z",
+     2
     ]
    ],
-   "slots": 5,
+   "slots": 2,
    "title": "AI Evaluation Rubric Reviewer"
   },
   "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
