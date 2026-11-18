@@ -4442,10 +4442,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T03:56:30Z",
-     1835
-    ],
-    [
      "2026-11-18T04:50:44Z",
      1827
     ],
@@ -4520,9 +4516,13 @@
     [
      "2026-11-18T22:40:49Z",
      1746
+    ],
+    [
+     "2026-11-18T23:34:03Z",
+     1738
     ]
    ],
-   "slots": 1746,
+   "slots": 1738,
    "slots_before": 1824,
    "title": "Retail Trader"
   },
@@ -4652,7 +4652,13 @@
    "rate_max": 200.0,
    "rate_min": 200.0,
    "reopen_count": 0,
-   "slots": 40,
+   "slot_hist": [
+    [
+     "2026-11-18T23:34:03Z",
+     39
+    ]
+   ],
+   "slots": 39,
    "title": "Endocrinologist"
   },
   "list_AAABoWtwJGwIgnnW9BdOwaZX": {
@@ -4894,9 +4900,13 @@
     [
      "2026-11-18T16:27:14Z",
      33
+    ],
+    [
+     "2026-11-18T23:34:03Z",
+     32
     ]
    ],
-   "slots": 33,
+   "slots": 32,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -6493,9 +6503,13 @@
     [
      "2026-11-18T09:06:40Z",
      7
+    ],
+    [
+     "2026-11-18T23:34:03Z",
+     6
     ]
    ],
-   "slots": 7,
+   "slots": 6,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-XpCFXW1KhVe9F8pnR": {
@@ -7416,10 +7430,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T16:39:16Z",
-     36
-    ],
-    [
      "2026-11-17T17:39:38Z",
      35
     ],
@@ -7494,9 +7504,13 @@
     [
      "2026-11-18T22:40:49Z",
      20
+    ],
+    [
+     "2026-11-18T23:34:03Z",
+     19
     ]
    ],
-   "slots": 20,
+   "slots": 19,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7758,10 +7772,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T05:43:30Z",
-     41
-    ],
-    [
      "2026-11-17T06:46:48Z",
      39
     ],
@@ -7836,9 +7846,13 @@
     [
      "2026-11-18T21:07:00Z",
      21
+    ],
+    [
+     "2026-11-18T23:34:03Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
