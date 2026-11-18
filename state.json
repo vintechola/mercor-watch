@@ -3686,9 +3686,13 @@
     [
      "2026-11-18T02:12:47Z",
      58
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     57
     ]
    ],
-   "slots": 58,
+   "slots": 57,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -4380,10 +4384,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T09:00:27Z",
-     2127
-    ],
-    [
      "2026-11-17T10:05:20Z",
      2144
     ],
@@ -4458,9 +4458,13 @@
     [
      "2026-11-18T03:04:00Z",
      1839
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     1835
     ]
    ],
-   "slots": 1839,
+   "slots": 1835,
    "slots_before": 2127,
    "title": "Retail Trader"
   },
@@ -4742,9 +4746,13 @@
     [
      "2026-11-18T00:59:12Z",
      37
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -6371,9 +6379,13 @@
     [
      "2026-11-17T16:39:16Z",
      9
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     8
     ]
    ],
-   "slots": 9,
+   "slots": 8,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-XpCFXW1KhVe9F8pnR": {
@@ -7599,9 +7611,13 @@
     [
      "2026-11-18T03:04:00Z",
      58
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     57
     ]
    ],
-   "slots": 58,
+   "slots": 57,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7619,10 +7635,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-16T21:51:27Z",
-     52
-    ],
     [
      "2026-11-17T01:06:35Z",
      49
@@ -7698,9 +7710,13 @@
     [
      "2026-11-18T03:04:00Z",
      27
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     26
     ]
    ],
-   "slots": 27,
+   "slots": 26,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7899,9 +7915,13 @@
     [
      "2026-11-18T03:04:00Z",
      2
+    ],
+    [
+     "2026-11-18T03:56:30Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "AI Evaluation Rubric Reviewer"
   },
   "list_AAABoeaZZ5aPp9cXNF9DVrUb": {
