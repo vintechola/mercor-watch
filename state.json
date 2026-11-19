@@ -4494,10 +4494,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T18:16:43Z",
-     1787
-    ],
-    [
      "2026-11-18T19:15:35Z",
      1774
     ],
@@ -4572,9 +4568,13 @@
     [
      "2026-11-19T14:00:16Z",
      1695
+    ],
+    [
+     "2026-11-19T14:56:38Z",
+     1694
     ]
    ],
-   "slots": 1695,
+   "slots": 1694,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -6682,7 +6682,13 @@
    "rate_max": 450.0,
    "rate_min": 450.0,
    "reopen_count": 0,
-   "slots": 7,
+   "slot_hist": [
+    [
+     "2026-11-19T14:56:38Z",
+     6
+    ]
+   ],
+   "slots": 6,
    "title": "Independent Insurance Agency Owner / Principal – Paid Research Interview"
   },
   "list_AAABod-dMPPOOMe1VJBKc7YT": {
@@ -7518,10 +7524,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T02:12:47Z",
-     32
-    ],
-    [
      "2026-11-18T03:04:00Z",
      31
     ],
@@ -7596,9 +7598,13 @@
     [
      "2026-11-19T14:00:16Z",
      4
+    ],
+    [
+     "2026-11-19T14:56:38Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7678,10 +7684,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T05:43:30Z",
-     38
-    ],
-    [
      "2026-11-17T09:00:27Z",
      39
     ],
@@ -7756,9 +7758,13 @@
     [
      "2026-11-19T14:00:16Z",
      27
+    ],
+    [
+     "2026-11-19T14:56:38Z",
+     25
     ]
    ],
-   "slots": 27,
+   "slots": 25,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -8424,9 +8430,13 @@
     [
      "2026-11-19T14:00:16Z",
      260
+    ],
+    [
+     "2026-11-19T14:56:38Z",
+     150
     ]
    ],
-   "slots": 260,
+   "slots": 150,
    "title": "Generalist for Queries Testing Vision"
   }
  }
