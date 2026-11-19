@@ -4478,10 +4478,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T10:05:51Z",
-     1834
-    ],
-    [
      "2026-11-18T11:05:55Z",
      1830
     ],
@@ -4556,9 +4552,13 @@
     [
      "2026-11-19T04:32:23Z",
      1725
+    ],
+    [
+     "2026-11-19T05:36:01Z",
+     1720
     ]
    ],
-   "slots": 1725,
+   "slots": 1720,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -7844,10 +7844,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T09:00:27Z",
-     38
-    ],
-    [
      "2026-11-17T10:05:20Z",
      37
     ],
@@ -7922,9 +7918,13 @@
     [
      "2026-11-19T01:45:25Z",
      19
+    ],
+    [
+     "2026-11-19T05:36:01Z",
+     18
     ]
    ],
-   "slots": 19,
+   "slots": 18,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7966,9 +7966,13 @@
     [
      "2026-11-19T04:32:23Z",
      2
+    ],
+    [
+     "2026-11-19T05:36:01Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Enterprise Account Executive - AI Sales Expert"
   },
   "list_AAABodjkhcin__KeNFZHg54O": {
