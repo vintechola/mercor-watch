@@ -2112,15 +2112,15 @@
    "title": "Pediatric Inpatient Nurses (RN)"
   },
   "list_AAABoFcXq-GdBUxvUuBByYMp": {
-   "active": true,
+   "active": false,
    "category": "Life, Physical, and Social Science",
-   "closed_at": null,
+   "closed_at": "2026-11-19T22:15:22Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoFcXq-GdBUxvUuBByYMp",
    "location": "Remote",
    "low_alerted": true,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-31T09:12:44",
    "rate_freq": "hourly",
    "rate_max": 90.0,
@@ -7727,10 +7727,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T23:13:36Z",
-     34
-    ],
-    [
      "2026-11-18T06:54:15Z",
      35
     ],
@@ -7805,9 +7801,13 @@
     [
      "2026-11-19T21:25:44Z",
      10
+    ],
+    [
+     "2026-11-19T22:15:22Z",
+     8
     ]
    ],
-   "slots": 10,
+   "slots": 8,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
