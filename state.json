@@ -1812,9 +1812,13 @@
     [
      "2026-11-18T15:21:26Z",
      13
+    ],
+    [
+     "2026-11-19T02:36:42Z",
+     14
     ]
    ],
-   "slots": 13,
+   "slots": 14,
    "slots_before": 8,
    "title": "Clinicians"
   },
@@ -2115,9 +2119,13 @@
     [
      "2026-11-19T00:26:34Z",
      11
+    ],
+    [
+     "2026-11-19T02:36:42Z",
+     10
     ]
    ],
-   "slots": 11,
+   "slots": 10,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4446,10 +4454,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T06:54:15Z",
-     1846
-    ],
-    [
      "2026-11-18T08:07:17Z",
      1840
     ],
@@ -4524,10 +4528,14 @@
     [
      "2026-11-19T01:45:25Z",
      1723
+    ],
+    [
+     "2026-11-19T02:36:42Z",
+     1734
     ]
    ],
-   "slots": 1723,
-   "slots_before": 1824,
+   "slots": 1734,
+   "slots_before": 1723,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -4579,9 +4587,13 @@
     [
      "2026-11-13T22:08:52Z",
      35
+    ],
+    [
+     "2026-11-19T02:36:42Z",
+     34
     ]
    ],
-   "slots": 35,
+   "slots": 34,
    "title": "Geriatrician"
   },
   "list_AAABoWtv9pI6MJtsV35ELp_E": {
@@ -4908,9 +4920,13 @@
     [
      "2026-11-18T23:34:03Z",
      32
+    ],
+    [
+     "2026-11-19T02:36:42Z",
+     31
     ]
    ],
-   "slots": 32,
+   "slots": 31,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
