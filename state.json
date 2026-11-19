@@ -6631,7 +6631,13 @@
    "rate_max": 380.0,
    "rate_min": 380.0,
    "reopen_count": 0,
-   "slots": 10,
+   "slot_hist": [
+    [
+     "2026-11-19T17:42:27Z",
+     9
+    ]
+   ],
+   "slots": 9,
    "title": "Insurance Agency Operations & Finance Leader – Paid Research Interview"
   },
   "list_AAABod-ca4v5KkTthCZGF5LM": {
@@ -7508,15 +7514,15 @@
    "title": "Swahili Linguistic Expert"
   },
   "list_AAABodda2HesKOKwf2BBqavC": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-19T17:42:27Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABodda2HesKOKwf2BBqavC",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": true,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-14T00:00:18",
    "rate_freq": "hourly",
    "rate_max": 95.0,
@@ -7684,10 +7690,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T15:38:56Z",
-     37
-    ],
-    [
      "2026-11-17T16:39:16Z",
      35
     ],
@@ -7762,9 +7764,13 @@
     [
      "2026-11-19T16:49:25Z",
      18
+    ],
+    [
+     "2026-11-19T17:42:27Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -8442,9 +8448,13 @@
     [
      "2026-11-19T16:49:25Z",
      49
+    ],
+    [
+     "2026-11-19T17:42:27Z",
+     29
     ]
    ],
-   "slots": 49,
+   "slots": 29,
    "title": "Generalist for Queries Testing Vision"
   }
  }
