@@ -2155,9 +2155,13 @@
     [
      "2026-11-19T03:30:05Z",
      9
+    ],
+    [
+     "2026-11-19T10:49:12Z",
+     8
     ]
    ],
-   "slots": 9,
+   "slots": 8,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4486,10 +4490,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T14:24:36Z",
-     1814
-    ],
-    [
      "2026-11-18T15:21:26Z",
      1809
     ],
@@ -4564,9 +4564,13 @@
     [
      "2026-11-19T08:52:13Z",
      1710
+    ],
+    [
+     "2026-11-19T10:49:12Z",
+     1706
     ]
    ],
-   "slots": 1710,
+   "slots": 1706,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -7506,10 +7510,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T21:20:21Z",
-     33
-    ],
-    [
      "2026-11-17T22:19:33Z",
      32
     ],
@@ -7584,9 +7584,13 @@
     [
      "2026-11-19T09:51:11Z",
      17
+    ],
+    [
+     "2026-11-19T10:49:12Z",
+     16
     ]
    ],
-   "slots": 17,
+   "slots": 16,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7666,10 +7670,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T02:17:07Z",
-     41
-    ],
-    [
      "2026-11-17T03:55:14Z",
      40
     ],
@@ -7744,9 +7744,13 @@
     [
      "2026-11-19T09:51:11Z",
      35
+    ],
+    [
+     "2026-11-19T10:49:12Z",
+     34
     ]
    ],
-   "slots": 35,
+   "slots": 34,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7848,6 +7852,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddbQUy7LCQO6PFLPLqP",
    "location": "Remote (US preferred, open worldwide)",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-14T00:00:44",
    "rate_freq": "hourly",
@@ -7855,10 +7860,6 @@
    "rate_min": 110.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-17T12:45:13Z",
-     37
-    ],
     [
      "2026-11-17T14:49:56Z",
      36
@@ -7934,9 +7935,13 @@
     [
      "2026-11-19T09:51:11Z",
      7
+    ],
+    [
+     "2026-11-19T10:49:12Z",
+     2
     ]
    ],
-   "slots": 7,
+   "slots": 2,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
