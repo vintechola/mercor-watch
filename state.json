@@ -256,9 +256,13 @@
     [
      "2026-11-18T21:07:00Z",
      7896
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     7897
     ]
    ],
-   "slots": 7896,
+   "slots": 7897,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
   "list_AAABn6vGkxZngsMTe7xP7rqG": {
@@ -1712,6 +1716,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoCVpVbx3Il0MJIpLTKHA",
    "location": "Remote",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-08-21T17:40:55",
    "rate_freq": "hourly",
@@ -1738,9 +1743,14 @@
     [
      "2026-11-18T02:12:47Z",
      7
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     16
     ]
    ],
-   "slots": 7,
+   "slots": 16,
+   "slots_before": 7,
    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
   },
   "list_AAABoCWSTbhgejc0oLZDmbSP": {
@@ -1774,6 +1784,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoCWVcMofSHRAcwdM2LBU",
    "location": "Remote",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-08-21T18:29:05",
    "rate_freq": "hourly",
@@ -1784,9 +1795,14 @@
     [
      "2026-11-14T00:44:03Z",
      21
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     25
     ]
    ],
-   "slots": 21,
+   "slots": 25,
+   "slots_before": 21,
    "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
   },
   "list_AAABoCWZLgyS_XMeXVxE9pIU": {
@@ -2123,9 +2139,13 @@
     [
      "2026-11-19T02:36:42Z",
      10
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     9
     ]
    ],
-   "slots": 10,
+   "slots": 9,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4454,10 +4474,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T08:07:17Z",
-     1840
-    ],
-    [
      "2026-11-18T09:06:40Z",
      1838
     ],
@@ -4532,9 +4548,13 @@
     [
      "2026-11-19T02:36:42Z",
      1734
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     1729
     ]
    ],
-   "slots": 1734,
+   "slots": 1729,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -5069,9 +5089,13 @@
     [
      "2026-11-19T01:45:25Z",
      12
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     11
     ]
    ],
-   "slots": 12,
+   "slots": 11,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7458,10 +7482,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T18:30:31Z",
-     34
-    ],
-    [
      "2026-11-17T19:39:29Z",
      33
     ],
@@ -7536,9 +7556,13 @@
     [
      "2026-11-19T00:26:34Z",
      18
+    ],
+    [
+     "2026-11-19T03:30:05Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7918,7 +7942,13 @@
    "rate_max": 105.0,
    "rate_min": 85.0,
    "reopen_count": 0,
-   "slots": 5,
+   "slot_hist": [
+    [
+     "2026-11-19T03:30:05Z",
+     4
+    ]
+   ],
+   "slots": 4,
    "title": "Enterprise Account Executive - AI Sales Expert"
   },
   "list_AAABodjkhcin__KeNFZHg54O": {
@@ -8241,6 +8271,23 @@
    "reopen_count": 0,
    "slots": 10,
    "title": "Healthcare Payer Landscape & Reimbursement Analyst (RCM)"
+  },
+  "list_AAABofHGD07UlwjpJg5AyIFY": {
+   "active": true,
+   "category": "Law",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-19T03:30:05Z",
+   "id": "list_AAABofHGD07UlwjpJg5AyIFY",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-19T03:07:32",
+   "rate_freq": "hourly",
+   "rate_max": 150.0,
+   "rate_min": 120.0,
+   "reopen_count": 0,
+   "slots": 50,
+   "title": "Practising Lawyer (Korea, Spain, Germany, France, Japan) — AI Legal Writing Survey"
   }
  }
 }
