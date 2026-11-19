@@ -273,9 +273,13 @@
     [
      "2026-11-19T19:41:28Z",
      7903
+    ],
+    [
+     "2026-11-19T23:00:00Z",
+     7904
     ]
    ],
-   "slots": 7903,
+   "slots": 7904,
    "slots_before": 7898,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
@@ -4509,10 +4513,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T23:34:03Z",
-     1738
-    ],
-    [
      "2026-11-19T00:26:34Z",
      1731
     ],
@@ -4587,9 +4587,13 @@
     [
      "2026-11-19T21:25:44Z",
      1701
+    ],
+    [
+     "2026-11-19T23:00:00Z",
+     1698
     ]
    ],
-   "slots": 1701,
+   "slots": 1698,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5030,9 +5034,13 @@
     [
      "2026-11-17T22:19:33Z",
      27
+    ],
+    [
+     "2026-11-19T23:00:00Z",
+     26
     ]
    ],
-   "slots": 27,
+   "slots": 26,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -7727,10 +7735,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T06:54:15Z",
-     35
-    ],
-    [
      "2026-11-18T11:05:55Z",
      36
     ],
@@ -7805,9 +7809,13 @@
     [
      "2026-11-19T22:15:22Z",
      8
+    ],
+    [
+     "2026-11-19T23:00:00Z",
+     7
     ]
    ],
-   "slots": 8,
+   "slots": 7,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
