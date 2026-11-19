@@ -2159,9 +2159,13 @@
     [
      "2026-11-19T10:49:12Z",
      8
+    ],
+    [
+     "2026-11-19T11:41:38Z",
+     7
     ]
    ],
-   "slots": 8,
+   "slots": 7,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4490,10 +4494,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T15:21:26Z",
-     1809
-    ],
-    [
      "2026-11-18T16:27:14Z",
      1800
     ],
@@ -4568,9 +4568,13 @@
     [
      "2026-11-19T10:49:12Z",
      1706
+    ],
+    [
+     "2026-11-19T11:41:38Z",
+     1704
     ]
    ],
-   "slots": 1706,
+   "slots": 1704,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -7853,7 +7857,7 @@
    "id": "list_AAABoddbQUy7LCQO6PFLPLqP",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": true,
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-14T00:00:44",
    "rate_freq": "hourly",
    "rate_max": 110.0,
