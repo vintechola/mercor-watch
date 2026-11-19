@@ -2174,9 +2174,13 @@
     [
      "2026-11-19T19:41:28Z",
      4
+    ],
+    [
+     "2026-11-19T20:35:59Z",
+     1
     ]
    ],
-   "slots": 4,
+   "slots": 1,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4505,10 +4509,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T21:55:16Z",
-     1752
-    ],
-    [
      "2026-11-18T22:40:49Z",
      1746
     ],
@@ -4583,9 +4583,13 @@
     [
      "2026-11-19T19:41:28Z",
      1707
+    ],
+    [
+     "2026-11-19T20:35:59Z",
+     1705
     ]
    ],
-   "slots": 1707,
+   "slots": 1705,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5136,9 +5140,13 @@
     [
      "2026-11-19T03:30:05Z",
      11
+    ],
+    [
+     "2026-11-19T20:35:59Z",
+     10
     ]
    ],
-   "slots": 11,
+   "slots": 10,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
