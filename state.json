@@ -1711,9 +1711,13 @@
     [
      "2026-11-18T22:40:49Z",
      17
+    ],
+    [
+     "2026-11-19T09:51:11Z",
+     18
     ]
    ],
-   "slots": 17,
+   "slots": 18,
    "title": "Project Management Specialists"
   },
   "list_AAABoCVpVbx3Il0MJIpLTKHA": {
@@ -7502,10 +7506,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T20:28:24Z",
-     36
-    ],
-    [
      "2026-11-17T21:20:21Z",
      33
     ],
@@ -7580,9 +7580,13 @@
     [
      "2026-11-19T04:32:23Z",
      18
+    ],
+    [
+     "2026-11-19T09:51:11Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7662,10 +7666,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T21:51:27Z",
-     42
-    ],
-    [
      "2026-11-17T02:17:07Z",
      41
     ],
@@ -7740,9 +7740,13 @@
     [
      "2026-11-19T06:32:59Z",
      36
+    ],
+    [
+     "2026-11-19T09:51:11Z",
+     35
     ]
    ],
-   "slots": 36,
+   "slots": 35,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7852,10 +7856,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T11:52:34Z",
-     35
-    ],
-    [
      "2026-11-17T12:45:13Z",
      37
     ],
@@ -7930,9 +7930,13 @@
     [
      "2026-11-19T08:52:13Z",
      15
+    ],
+    [
+     "2026-11-19T09:51:11Z",
+     7
     ]
    ],
-   "slots": 15,
+   "slots": 7,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -8184,6 +8188,74 @@
    ],
    "slots": 11,
    "title": "AI Evaluation Rubric Auditor"
+  },
+  "list_AAABoeb5OZKJV5XRwMBNPbUW": {
+   "active": true,
+   "category": "Finance",
+   "closed_at": null,
+   "commitment": "full-time",
+   "first_seen": "2026-11-19T09:51:11Z",
+   "id": "list_AAABoeb5OZKJV5XRwMBNPbUW",
+   "location": "United Kingdom, Ireland, Germany, Spain, Switzerland",
+   "misses": 0,
+   "posted": "2026-11-17T00:47:35",
+   "rate_freq": "hourly",
+   "rate_max": 100.0,
+   "rate_min": 70.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Finance Expert (FP&A) – EMEA"
+  },
+  "list_AAABoeb5W6iV0vheSypOfY29": {
+   "active": true,
+   "category": "Finance",
+   "closed_at": null,
+   "commitment": "full-time",
+   "first_seen": "2026-11-19T09:51:11Z",
+   "id": "list_AAABoeb5W6iV0vheSypOfY29",
+   "location": "Singapore, Australia, Japan",
+   "misses": 0,
+   "posted": "2026-11-17T00:47:44",
+   "rate_freq": "hourly",
+   "rate_max": 100.0,
+   "rate_min": 70.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Finance Expert (FP&A) – APAC"
+  },
+  "list_AAABoeb5gi0161znu3hD_64v": {
+   "active": true,
+   "category": "Business Operations",
+   "closed_at": null,
+   "commitment": "full-time",
+   "first_seen": "2026-11-19T09:51:11Z",
+   "id": "list_AAABoeb5gi0161znu3hD_64v",
+   "location": "United Kingdom, Ireland, Germany, Spain, Switzerland",
+   "misses": 0,
+   "posted": "2026-11-17T00:47:54",
+   "rate_freq": "hourly",
+   "rate_max": 85.0,
+   "rate_min": 60.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Marketing Expert – EMEA"
+  },
+  "list_AAABoeb5ocGOoiT0eb1Pcr5I": {
+   "active": true,
+   "category": "Business Operations",
+   "closed_at": null,
+   "commitment": "full-time",
+   "first_seen": "2026-11-19T09:51:11Z",
+   "id": "list_AAABoeb5ocGOoiT0eb1Pcr5I",
+   "location": "Singapore, Australia, Japan",
+   "misses": 0,
+   "posted": "2026-11-17T00:48:02",
+   "rate_freq": "hourly",
+   "rate_max": 85.0,
+   "rate_min": 60.0,
+   "reopen_count": 0,
+   "slots": 5,
+   "title": "Marketing Expert – APAC"
   },
   "list_AAABoeeVJDIM_xNOuG9KNotk": {
    "active": true,
