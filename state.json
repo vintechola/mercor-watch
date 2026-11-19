@@ -264,9 +264,13 @@
     [
      "2026-11-19T03:30:05Z",
      7897
+    ],
+    [
+     "2026-11-19T06:32:59Z",
+     7898
     ]
    ],
-   "slots": 7897,
+   "slots": 7898,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
   "list_AAABn6vGkxZngsMTe7xP7rqG": {
@@ -4478,10 +4482,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T11:05:55Z",
-     1830
-    ],
-    [
      "2026-11-18T12:00:36Z",
      1828
     ],
@@ -4556,9 +4556,13 @@
     [
      "2026-11-19T05:36:01Z",
      1720
+    ],
+    [
+     "2026-11-19T06:32:59Z",
+     1718
     ]
    ],
-   "slots": 1720,
+   "slots": 1718,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -7654,10 +7658,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T21:06:36Z",
-     43
-    ],
-    [
      "2026-11-16T21:51:27Z",
      42
     ],
@@ -7732,9 +7732,13 @@
     [
      "2026-11-19T04:32:23Z",
      37
+    ],
+    [
+     "2026-11-19T06:32:59Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7844,10 +7848,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T10:05:20Z",
-     37
-    ],
-    [
      "2026-11-17T11:03:56Z",
      36
     ],
@@ -7922,9 +7922,13 @@
     [
      "2026-11-19T05:36:01Z",
      18
+    ],
+    [
+     "2026-11-19T06:32:59Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "title": "Investment Banking Expert"
   },
   "list_AAABoddbbisYP56FZhpJV7as": {
@@ -7952,7 +7956,7 @@
    "first_seen": "2026-11-14T07:49:59Z",
    "id": "list_AAABodjkZ9uPRh5LQSxNUZtG",
    "location": "Remote (US)",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-14T07:10:10",
    "rate_freq": "hourly",
    "rate_max": 105.0,
