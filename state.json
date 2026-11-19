@@ -4494,10 +4494,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T17:27:50Z",
-     1794
-    ],
-    [
      "2026-11-18T18:16:43Z",
      1787
     ],
@@ -4572,9 +4568,13 @@
     [
      "2026-11-19T12:46:34Z",
      1701
+    ],
+    [
+     "2026-11-19T14:00:16Z",
+     1695
     ]
    ],
-   "slots": 1701,
+   "slots": 1695,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -7509,7 +7509,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABodda2HesKOKwf2BBqavC",
    "location": "Remote (US preferred, open worldwide)",
-   "low_alerted": false,
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-14T00:00:18",
    "rate_freq": "hourly",
@@ -7517,10 +7517,6 @@
    "rate_min": 95.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-18T00:59:12Z",
-     34
-    ],
     [
      "2026-11-18T02:12:47Z",
      32
@@ -7596,9 +7592,13 @@
     [
      "2026-11-19T12:46:34Z",
      12
+    ],
+    [
+     "2026-11-19T14:00:16Z",
+     4
     ]
    ],
-   "slots": 12,
+   "slots": 4,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7678,10 +7678,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T04:46:28Z",
-     39
-    ],
-    [
      "2026-11-17T05:43:30Z",
      38
     ],
@@ -7756,9 +7752,13 @@
     [
      "2026-11-19T12:46:34Z",
      32
+    ],
+    [
+     "2026-11-19T14:00:16Z",
+     27
     ]
    ],
-   "slots": 32,
+   "slots": 27,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -8420,7 +8420,13 @@
    "rate_max": 35.0,
    "rate_min": 35.0,
    "reopen_count": 0,
-   "slots": 273,
+   "slot_hist": [
+    [
+     "2026-11-19T14:00:16Z",
+     260
+    ]
+   ],
+   "slots": 260,
    "title": "Generalist for Queries Testing Vision"
   }
  }
