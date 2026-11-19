@@ -187,9 +187,13 @@
     [
      "2026-11-18T00:59:12Z",
      33
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     29
     ]
    ],
-   "slots": 33,
+   "slots": 29,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -4474,10 +4478,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T09:06:40Z",
-     1838
-    ],
-    [
      "2026-11-18T10:05:51Z",
      1834
     ],
@@ -4552,9 +4552,13 @@
     [
      "2026-11-19T03:30:05Z",
      1729
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     1725
     ]
    ],
-   "slots": 1729,
+   "slots": 1725,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -4584,9 +4588,13 @@
     [
      "2026-11-18T06:54:15Z",
      39
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     40
     ]
    ],
-   "slots": 39,
+   "slots": 40,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -4788,9 +4796,13 @@
     [
      "2026-11-14T20:13:56Z",
      39
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     40
     ]
    ],
-   "slots": 39,
+   "slots": 40,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -7482,10 +7494,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T19:39:29Z",
-     33
-    ],
-    [
      "2026-11-17T20:28:24Z",
      36
     ],
@@ -7560,9 +7568,13 @@
     [
      "2026-11-19T03:30:05Z",
      17
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     18
     ]
    ],
-   "slots": 17,
+   "slots": 18,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7642,10 +7654,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T16:26:17Z",
-     41
-    ],
-    [
      "2026-11-16T21:06:36Z",
      43
     ],
@@ -7720,9 +7728,13 @@
     [
      "2026-11-18T22:40:49Z",
      35
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     37
     ]
    ],
-   "slots": 35,
+   "slots": 37,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7807,9 +7819,13 @@
     [
      "2026-11-19T01:45:25Z",
      55
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     56
     ]
    ],
-   "slots": 55,
+   "slots": 56,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -7946,9 +7962,13 @@
     [
      "2026-11-19T03:30:05Z",
      4
+    ],
+    [
+     "2026-11-19T04:32:23Z",
+     2
     ]
    ],
-   "slots": 4,
+   "slots": 2,
    "title": "Enterprise Account Executive - AI Sales Expert"
   },
   "list_AAABodjkhcin__KeNFZHg54O": {
