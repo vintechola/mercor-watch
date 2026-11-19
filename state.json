@@ -238,6 +238,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn6i483EoSNpFPh1PSKFO",
    "location": "Remote (United States)",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-07-28T12:35:21",
    "rate_freq": "hourly",
@@ -268,9 +269,14 @@
     [
      "2026-11-19T06:32:59Z",
      7898
+    ],
+    [
+     "2026-11-19T19:41:28Z",
+     7903
     ]
    ],
-   "slots": 7898,
+   "slots": 7903,
+   "slots_before": 7898,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
   "list_AAABn6vGkxZngsMTe7xP7rqG": {
@@ -2113,6 +2119,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoFcXq-GdBUxvUuBByYMp",
    "location": "Remote",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-08-31T09:12:44",
    "rate_freq": "hourly",
@@ -2163,9 +2170,13 @@
     [
      "2026-11-19T11:41:38Z",
      7
+    ],
+    [
+     "2026-11-19T19:41:28Z",
+     4
     ]
    ],
-   "slots": 7,
+   "slots": 4,
    "title": "Drug Discovery Scientist"
   },
   "list_AAABoGQSNXPZAh8oJJFO-Z0n": {
@@ -4494,10 +4505,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T21:07:00Z",
-     1759
-    ],
-    [
      "2026-11-18T21:55:16Z",
      1752
     ],
@@ -4572,9 +4579,13 @@
     [
      "2026-11-19T16:49:25Z",
      1710
+    ],
+    [
+     "2026-11-19T19:41:28Z",
+     1707
     ]
    ],
-   "slots": 1710,
+   "slots": 1707,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -6662,7 +6673,13 @@
    "rate_max": 380.0,
    "rate_min": 380.0,
    "reopen_count": 0,
-   "slots": 2,
+   "slot_hist": [
+    [
+     "2026-11-19T19:41:28Z",
+     1
+    ]
+   ],
+   "slots": 1,
    "title": "Insurance Agency Service / Account Management Lead – Paid Research Interview"
   },
   "list_AAABod-cr6QtycCt_RVO8K85": {
@@ -7698,10 +7715,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T18:30:31Z",
-     34
-    ],
-    [
      "2026-11-17T22:19:33Z",
      33
     ],
@@ -7776,9 +7789,13 @@
     [
      "2026-11-19T18:38:58Z",
      15
+    ],
+    [
+     "2026-11-19T19:41:28Z",
+     13
     ]
    ],
-   "slots": 15,
+   "slots": 13,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -8427,14 +8444,14 @@
    "title": "Practising Lawyer (Korea, Spain, Germany, France, Japan) — AI Legal Writing Survey"
   },
   "list_AAABofNxJ_IwaVsIsCJL0pyn": {
-   "active": true,
+   "active": false,
    "category": "Miscellaneous",
-   "closed_at": null,
+   "closed_at": "2026-11-19T19:41:28Z",
    "commitment": "hourly",
    "first_seen": "2026-11-19T12:46:34Z",
    "id": "list_AAABofNxJ_IwaVsIsCJL0pyn",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-19T10:54:02",
    "rate_freq": "hourly",
    "rate_max": 35.0,
