@@ -4494,10 +4494,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T16:27:14Z",
-     1800
-    ],
-    [
      "2026-11-18T17:27:50Z",
      1794
     ],
@@ -4572,9 +4568,13 @@
     [
      "2026-11-19T11:41:38Z",
      1704
+    ],
+    [
+     "2026-11-19T12:46:34Z",
+     1701
     ]
    ],
-   "slots": 1704,
+   "slots": 1701,
    "slots_before": 1723,
    "title": "Retail Trader"
   },
@@ -4972,9 +4972,13 @@
     [
      "2026-11-19T02:36:42Z",
      31
+    ],
+    [
+     "2026-11-19T12:46:34Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -7514,10 +7518,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T22:19:33Z",
-     32
-    ],
-    [
      "2026-11-18T00:59:12Z",
      34
     ],
@@ -7592,9 +7592,13 @@
     [
      "2026-11-19T10:49:12Z",
      16
+    ],
+    [
+     "2026-11-19T12:46:34Z",
+     12
     ]
    ],
-   "slots": 16,
+   "slots": 12,
    "slots_before": 33,
    "title": "HR Expert"
   },
@@ -7674,10 +7678,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T03:55:14Z",
-     40
-    ],
-    [
      "2026-11-17T04:46:28Z",
      39
     ],
@@ -7752,9 +7752,13 @@
     [
      "2026-11-19T10:49:12Z",
      34
+    ],
+    [
+     "2026-11-19T12:46:34Z",
+     32
     ]
    ],
-   "slots": 34,
+   "slots": 32,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
@@ -7849,15 +7853,15 @@
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:46:34Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddbQUy7LCQO6PFLPLqP",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": true,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-14T00:00:44",
    "rate_freq": "hourly",
    "rate_max": 110.0,
@@ -8401,6 +8405,23 @@
    "reopen_count": 0,
    "slots": 50,
    "title": "Practising Lawyer (Korea, Spain, Germany, France, Japan) — AI Legal Writing Survey"
+  },
+  "list_AAABofNxJ_IwaVsIsCJL0pyn": {
+   "active": true,
+   "category": "Miscellaneous",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-19T12:46:34Z",
+   "id": "list_AAABofNxJ_IwaVsIsCJL0pyn",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-19T10:54:02",
+   "rate_freq": "hourly",
+   "rate_max": 35.0,
+   "rate_min": 35.0,
+   "reopen_count": 0,
+   "slots": 273,
+   "title": "Generalist for Queries Testing Vision"
   }
  }
 }
