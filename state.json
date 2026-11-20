@@ -1737,9 +1737,13 @@
     [
      "2026-11-19T09:51:11Z",
      18
+    ],
+    [
+     "2026-11-20T20:24:50Z",
+     19
     ]
    ],
-   "slots": 18,
+   "slots": 19,
    "title": "Project Management Specialists"
   },
   "list_AAABoCVpVbx3Il0MJIpLTKHA": {
@@ -4533,10 +4537,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T19:41:28Z",
-     1707
-    ],
-    [
      "2026-11-19T20:35:59Z",
      1705
     ],
@@ -4611,9 +4611,13 @@
     [
      "2026-11-20T19:37:26Z",
      1660
+    ],
+    [
+     "2026-11-20T20:24:50Z",
+     1654
     ]
    ],
-   "slots": 1660,
+   "slots": 1654,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -4841,9 +4845,13 @@
     [
      "2026-11-18T02:12:47Z",
      34
+    ],
+    [
+     "2026-11-20T20:24:50Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "title": "Nephrologist"
   },
   "list_AAABoWtwTAuXPK49ZE5BY6j1": {
@@ -5122,9 +5130,13 @@
     [
      "2026-11-20T01:39:09Z",
      24
+    ],
+    [
+     "2026-11-20T20:24:50Z",
+     23
     ]
    ],
-   "slots": 24,
+   "slots": 23,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -6871,7 +6883,13 @@
    "rate_max": 380.0,
    "rate_min": 380.0,
    "reopen_count": 0,
-   "slots": 3,
+   "slot_hist": [
+    [
+     "2026-11-20T20:24:50Z",
+     2
+    ]
+   ],
+   "slots": 2,
    "title": "Agency Management System Administrator / Technology Lead – Paid Research Interview"
   },
   "list_AAABod-dVhq8uhqw5KVE3ZQJ": {
