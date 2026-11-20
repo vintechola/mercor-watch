@@ -5260,9 +5260,13 @@
     [
      "2026-11-19T20:35:59Z",
      10
+    ],
+    [
+     "2026-11-20T23:30:08Z",
+     9
     ]
    ],
-   "slots": 10,
+   "slots": 9,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7980,10 +7984,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-16T16:26:17Z",
-     67
-    ],
-    [
      "2026-11-17T01:06:35Z",
      64
     ],
@@ -8058,9 +8058,13 @@
     [
      "2026-11-20T22:48:52Z",
      52
+    ],
+    [
+     "2026-11-20T23:30:08Z",
+     51
     ]
    ],
-   "slots": 52,
+   "slots": 51,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
