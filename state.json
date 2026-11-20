@@ -4541,10 +4541,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T23:00:00Z",
-     1698
-    ],
-    [
      "2026-11-19T23:39:44Z",
      1697
     ],
@@ -4619,9 +4615,13 @@
     [
      "2026-11-20T22:00:43Z",
      1652
+    ],
+    [
+     "2026-11-20T22:48:52Z",
+     1650
     ]
    ],
-   "slots": 1652,
+   "slots": 1650,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -4962,9 +4962,13 @@
     [
      "2026-11-20T19:37:26Z",
      34
+    ],
+    [
+     "2026-11-20T22:48:52Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -6806,14 +6810,14 @@
    "title": "Insurance Agency Operations & Finance Leader – Paid Research Interview"
   },
   "list_AAABod-ca4v5KkTthCZGF5LM": {
-   "active": true,
+   "active": false,
    "category": "Business Operations",
-   "closed_at": null,
+   "closed_at": "2026-11-20T22:48:52Z",
    "commitment": "task-based",
    "first_seen": "2026-11-15T16:27:22Z",
    "id": "list_AAABod-ca4v5KkTthCZGF5LM",
    "location": "United States",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-15T14:28:53",
    "rate_freq": "per-task",
    "rate_max": 380.0,
@@ -7976,10 +7980,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-15T19:46:08Z",
-     65
-    ],
-    [
      "2026-11-16T16:26:17Z",
      67
     ],
@@ -8054,9 +8054,13 @@
     [
      "2026-11-20T22:00:43Z",
      53
+    ],
+    [
+     "2026-11-20T22:48:52Z",
+     52
     ]
    ],
-   "slots": 53,
+   "slots": 52,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
