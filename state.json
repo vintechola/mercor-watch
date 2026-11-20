@@ -4525,10 +4525,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T12:46:34Z",
-     1701
-    ],
-    [
      "2026-11-19T14:00:16Z",
      1695
     ],
@@ -4603,9 +4599,13 @@
     [
      "2026-11-20T13:51:46Z",
      1674
+    ],
+    [
+     "2026-11-20T14:43:49Z",
+     1670
     ]
    ],
-   "slots": 1674,
+   "slots": 1670,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5247,9 +5247,13 @@
     [
      "2026-11-20T02:33:35Z",
      39
+    ],
+    [
+     "2026-11-20T14:43:49Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -6542,9 +6546,13 @@
     [
      "2026-11-20T07:48:33Z",
      4
+    ],
+    [
+     "2026-11-20T14:43:49Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "title": "Individual Tax Professional (CPA / EA)"
   },
   "list_AAABocYnLzYgfj-BoRdL-rIt": {
