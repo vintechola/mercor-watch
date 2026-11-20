@@ -4631,9 +4631,13 @@
     [
      "2026-11-19T04:32:23Z",
      40
+    ],
+    [
+     "2026-11-20T03:23:59Z",
+     39
     ]
    ],
-   "slots": 40,
+   "slots": 39,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -4759,9 +4763,13 @@
     [
      "2026-11-20T01:39:09Z",
      37
+    ],
+    [
+     "2026-11-20T03:23:59Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Endocrinologist"
   },
   "list_AAABoWtwJGwIgnnW9BdOwaZX": {
@@ -7768,7 +7776,7 @@
    "id": "list_AAABoddartrKlmqr13pC7I-j",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": true,
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-14T00:00:07",
    "rate_freq": "hourly",
    "rate_max": 95.0,
