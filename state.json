@@ -6534,7 +6534,13 @@
    "rate_max": 130.0,
    "rate_min": 110.0,
    "reopen_count": 0,
-   "slots": 5,
+   "slot_hist": [
+    [
+     "2026-11-20T07:48:33Z",
+     4
+    ]
+   ],
+   "slots": 4,
    "title": "Individual Tax Professional (CPA / EA)"
   },
   "list_AAABocYnLzYgfj-BoRdL-rIt": {
