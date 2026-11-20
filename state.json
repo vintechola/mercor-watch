@@ -4525,10 +4525,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T11:41:38Z",
-     1704
-    ],
-    [
      "2026-11-19T12:46:34Z",
      1701
     ],
@@ -4603,9 +4599,13 @@
     [
      "2026-11-20T12:37:12Z",
      1675
+    ],
+    [
+     "2026-11-20T13:51:46Z",
+     1674
     ]
    ],
-   "slots": 1675,
+   "slots": 1674,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -6708,9 +6708,13 @@
     [
      "2026-11-20T05:28:39Z",
      3
+    ],
+    [
+     "2026-11-20T13:51:46Z",
+     2
     ]
    ],
-   "slots": 3,
+   "slots": 2,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-XpCFXW1KhVe9F8pnR": {
@@ -8146,7 +8150,13 @@
    "rate_max": 125.0,
    "rate_min": 100.0,
    "reopen_count": 0,
-   "slots": 5,
+   "slot_hist": [
+    [
+     "2026-11-20T13:51:46Z",
+     4
+    ]
+   ],
+   "slots": 4,
    "title": "Enterprise Sales Manager – AI Training Specialist"
   },
   "list_AAABodwhFg-ByligFaNMTbdJ": {
