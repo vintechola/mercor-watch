@@ -277,9 +277,13 @@
     [
      "2026-11-19T23:00:00Z",
      7904
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     7905
     ]
    ],
-   "slots": 7904,
+   "slots": 7905,
    "slots_before": 7898,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
@@ -4513,10 +4517,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T02:36:42Z",
-     1734
-    ],
-    [
      "2026-11-19T03:30:05Z",
      1729
     ],
@@ -4591,9 +4591,13 @@
     [
      "2026-11-20T00:24:55Z",
      1695
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     1691
     ]
    ],
-   "slots": 1695,
+   "slots": 1691,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -4716,9 +4720,13 @@
     [
      "2026-11-18T03:04:00Z",
      40
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     39
     ]
    ],
-   "slots": 40,
+   "slots": 39,
    "title": "Ophthalmologist"
   },
   "list_AAABoWtwGWHBJHEIwBFOP4OG": {
@@ -4743,9 +4751,13 @@
     [
      "2026-11-20T00:24:55Z",
      38
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Endocrinologist"
   },
   "list_AAABoWtwJGwIgnnW9BdOwaZX": {
@@ -4816,9 +4828,13 @@
     [
      "2026-11-18T02:12:47Z",
      38
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Rheumatologist"
   },
   "list_AAABoWtwVok0kLHc4h5Gp7qo": {
@@ -5046,9 +5062,13 @@
     [
      "2026-11-20T00:24:55Z",
      25
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     24
     ]
    ],
-   "slots": 25,
+   "slots": 24,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -7744,10 +7764,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T14:24:36Z",
-     35
-    ],
-    [
      "2026-11-18T16:27:14Z",
      34
     ],
@@ -7822,9 +7838,13 @@
     [
      "2026-11-20T00:24:55Z",
      4
+    ],
+    [
+     "2026-11-20T01:39:09Z",
+     1
     ]
    ],
-   "slots": 4,
+   "slots": 1,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
