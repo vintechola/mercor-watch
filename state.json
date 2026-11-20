@@ -4533,10 +4533,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T16:49:25Z",
-     1710
-    ],
-    [
      "2026-11-19T19:41:28Z",
      1707
     ],
@@ -4611,9 +4607,13 @@
     [
      "2026-11-20T18:32:32Z",
      1661
+    ],
+    [
+     "2026-11-20T19:37:26Z",
+     1660
     ]
    ],
-   "slots": 1661,
+   "slots": 1660,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -4946,9 +4946,13 @@
     [
      "2026-11-18T21:07:00Z",
      35
+    ],
+    [
+     "2026-11-20T19:37:26Z",
+     34
     ]
    ],
-   "slots": 35,
+   "slots": 34,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
