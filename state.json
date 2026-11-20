@@ -4513,10 +4513,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T01:45:25Z",
-     1723
-    ],
-    [
      "2026-11-19T02:36:42Z",
      1734
     ],
@@ -4591,9 +4587,13 @@
     [
      "2026-11-19T23:39:44Z",
      1697
+    ],
+    [
+     "2026-11-20T00:24:55Z",
+     1695
     ]
    ],
-   "slots": 1697,
+   "slots": 1695,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -4739,9 +4739,13 @@
     [
      "2026-11-18T23:34:03Z",
      39
+    ],
+    [
+     "2026-11-20T00:24:55Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Endocrinologist"
   },
   "list_AAABoWtwJGwIgnnW9BdOwaZX": {
@@ -5038,9 +5042,13 @@
     [
      "2026-11-19T23:00:00Z",
      26
+    ],
+    [
+     "2026-11-20T00:24:55Z",
+     25
     ]
    ],
-   "slots": 26,
+   "slots": 25,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -7727,6 +7735,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddartrKlmqr13pC7I-j",
    "location": "Remote (US preferred, open worldwide)",
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-11-14T00:00:07",
    "rate_freq": "hourly",
@@ -7734,10 +7743,6 @@
    "rate_min": 95.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-18T11:05:55Z",
-     36
-    ],
     [
      "2026-11-18T14:24:36Z",
      35
@@ -7813,9 +7818,13 @@
     [
      "2026-11-19T23:00:00Z",
      7
+    ],
+    [
+     "2026-11-20T00:24:55Z",
+     4
     ]
    ],
-   "slots": 7,
+   "slots": 4,
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
