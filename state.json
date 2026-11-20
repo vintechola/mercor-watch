@@ -3887,9 +3887,13 @@
     [
      "2026-11-18T02:12:47Z",
      28
+    ],
+    [
+     "2026-11-20T04:22:47Z",
+     27
     ]
    ],
-   "slots": 28,
+   "slots": 27,
    "title": "General Physician"
   },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
@@ -4517,10 +4521,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T04:32:23Z",
-     1725
-    ],
-    [
      "2026-11-19T05:36:01Z",
      1720
     ],
@@ -4595,9 +4595,13 @@
     [
      "2026-11-20T02:33:35Z",
      1688
+    ],
+    [
+     "2026-11-20T04:22:47Z",
+     1682
     ]
    ],
-   "slots": 1688,
+   "slots": 1682,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -4635,9 +4639,13 @@
     [
      "2026-11-20T03:23:59Z",
      39
+    ],
+    [
+     "2026-11-20T04:22:47Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -7768,15 +7776,15 @@
    "title": "Law Expert"
   },
   "list_AAABoddartrKlmqr13pC7I-j": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-20T04:22:47Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddartrKlmqr13pC7I-j",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": true,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-14T00:00:07",
    "rate_freq": "hourly",
    "rate_max": 95.0,
