@@ -8032,10 +8032,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T18:30:31Z",
-     60
-    ],
-    [
      "2026-11-17T19:39:29Z",
      59
     ],
@@ -8110,9 +8106,13 @@
     [
      "2026-11-21T13:13:53Z",
      48
+    ],
+    [
+     "2026-11-21T16:28:01Z",
+     47
     ]
    ],
-   "slots": 48,
+   "slots": 47,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
@@ -8391,6 +8391,23 @@
    "reopen_count": 0,
    "slots": 10,
    "title": "Drug Discovery & Translational Science Expert"
+  },
+  "list_AAABoe5-EDcz8NJf_69EcIgl": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-21T16:28:01Z",
+   "id": "list_AAABoe5-EDcz8NJf_69EcIgl",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-18T11:50:01",
+   "rate_freq": "hourly",
+   "rate_max": 50.0,
+   "rate_min": 50.0,
+   "reopen_count": 0,
+   "slots": 50,
+   "title": "Voice Actor: CX Agent Voice Cloning (Dutch)"
   },
   "list_AAABoeIksoinQkS__UxOZ7G1": {
    "active": false,
