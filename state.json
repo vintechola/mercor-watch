@@ -1973,7 +1973,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoEkE3Fx5nN65LndAloi6",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-28T15:37:30",
    "rate_freq": "hourly",
    "rate_max": 65.0,
@@ -4537,7 +4537,7 @@
    "id": "list_AAABoWsjEohggV1F8gdLEoVO",
    "location": "United States (remote)",
    "low_alerted": false,
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-23T23:40:23",
    "rate_freq": "per-task",
    "rate_max": 400.0,
@@ -6348,7 +6348,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
    "location": "Remote (US)",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-12T03:52:37",
    "rate_freq": "hourly",
    "rate_max": 70.0,
@@ -8012,10 +8012,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T01:06:35Z",
-     64
-    ],
-    [
      "2026-11-17T03:05:02Z",
      62
     ],
@@ -8090,9 +8086,13 @@
     [
      "2026-11-20T23:30:08Z",
      51
+    ],
+    [
+     "2026-11-21T08:25:26Z",
+     50
     ]
    ],
-   "slots": 51,
+   "slots": 50,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
