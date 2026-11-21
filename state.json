@@ -4541,10 +4541,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-19T23:39:44Z",
-     1697
-    ],
-    [
      "2026-11-20T00:24:55Z",
      1695
     ],
@@ -4619,9 +4615,13 @@
     [
      "2026-11-20T22:48:52Z",
      1650
+    ],
+    [
+     "2026-11-21T00:24:08Z",
+     1648
     ]
    ],
-   "slots": 1650,
+   "slots": 1648,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5193,9 +5193,13 @@
     [
      "2026-11-19T01:45:25Z",
      18
+    ],
+    [
+     "2026-11-21T00:24:08Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -6768,9 +6772,13 @@
     [
      "2026-11-20T13:51:46Z",
      2
+    ],
+    [
+     "2026-11-21T00:24:08Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Fab Safety and Emergency Response Expert"
   },
   "list_AAABod-XpCFXW1KhVe9F8pnR": {
