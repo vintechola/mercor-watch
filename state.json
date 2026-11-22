@@ -3845,9 +3845,13 @@
     [
      "2026-11-22T16:28:28Z",
      56
+    ],
+    [
+     "2026-11-22T20:17:09Z",
+     55
     ]
    ],
-   "slots": 56,
+   "slots": 55,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -5389,9 +5393,13 @@
     [
      "2026-11-20T23:30:08Z",
      9
+    ],
+    [
+     "2026-11-22T20:17:09Z",
+     8
     ]
    ],
-   "slots": 9,
+   "slots": 8,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
