@@ -3932,6 +3932,23 @@
    "slots": 23,
    "title": "General Physician"
   },
+  "list_AAABoSaogGy2NBr71LpJgrqO": {
+   "active": true,
+   "category": "Medicine",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-22T07:47:48Z",
+   "id": "list_AAABoSaogGy2NBr71LpJgrqO",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-10-10T16:32:20",
+   "rate_freq": "hourly",
+   "rate_max": 170.0,
+   "rate_min": 170.0,
+   "reopen_count": 0,
+   "slots": 2,
+   "title": "Primary Care Physician (MD) -  Clinical Documentation & AI Evaluation"
+  },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
    "active": false,
    "category": "Other Engineering",
