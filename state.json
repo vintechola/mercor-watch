@@ -7006,7 +7006,13 @@
    "rate_max": 450.0,
    "rate_min": 450.0,
    "reopen_count": 0,
-   "slots": 3,
+   "slot_hist": [
+    [
+     "2026-11-22T02:46:27Z",
+     2
+    ]
+   ],
+   "slots": 2,
    "title": "Insurance Agency Group / PE Integration & Systems Lead – Paid Research Interview"
   },
   "list_AAABod-ddE8TIdVeFnNC-5qt": {
