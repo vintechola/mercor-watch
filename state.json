@@ -4300,14 +4300,14 @@
    "title": "Computer Power Users & Automation Builders (Must own MacBook)"
   },
   "list_AAABoVRd9P1zaUo4VyVMfZES": {
-   "active": true,
+   "active": false,
    "category": "Business Operations",
-   "closed_at": null,
+   "closed_at": "2026-11-23T17:17:02Z",
    "commitment": "full-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVRd9P1zaUo4VyVMfZES",
    "location": "India",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-10-19T13:33:26",
    "rate_freq": "yearly",
    "rate_max": 50000.0,
