@@ -1311,7 +1311,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoQC-dC2MUckZJBC9oHw",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-06-01T16:27:28",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -1328,7 +1328,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoQC2bLQ9YaeK3JHzIPK",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-06-01T16:27:20",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -1345,7 +1345,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoQDCpLznP-zEwhOsZTH",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-06-01T16:27:32",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -1430,7 +1430,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnuqXOR2GIV_EIudP54sj",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-06-21T14:30:40",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -8226,6 +8226,7 @@
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddaxN8U-VxGZ5BD-Y_n",
    "location": "Remote (US preferred, open worldwide)",
+   "low_alerted": false,
    "misses": 0,
    "posted": "2026-11-14T00:00:13",
    "rate_freq": "hourly",
@@ -8233,10 +8234,6 @@
    "rate_min": 100.0,
    "reopen_count": 0,
    "slot_hist": [
-    [
-     "2026-11-18T00:59:12Z",
-     60
-    ],
     [
      "2026-11-18T03:04:00Z",
      58
@@ -8312,9 +8309,14 @@
     [
      "2026-11-23T01:51:30Z",
      42
+    ],
+    [
+     "2026-11-23T20:14:12Z",
+     46
     ]
    ],
-   "slots": 42,
+   "slots": 46,
+   "slots_before": 42,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
