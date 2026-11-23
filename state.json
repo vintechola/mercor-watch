@@ -328,6 +328,23 @@
    "slots": 10,
    "title": "Data Scientist Talent Network"
   },
+  "list_AAABn7QE-IGAlH7zJwpKN6uM": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-23T21:54:11Z",
+   "id": "list_AAABn7QE-IGAlH7zJwpKN6uM",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-30T17:14:12",
+   "rate_freq": "hourly",
+   "rate_max": 100.0,
+   "rate_min": 50.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Voice Actor: CX Agent Voice Cloning (Australian English)"
+  },
   "list_AAABn7QFFl-KZetwbZ5BB6R1": {
    "active": true,
    "category": "Language and Audio",
@@ -529,7 +546,13 @@
    "rate_max": 100.0,
    "rate_min": 50.0,
    "reopen_count": 0,
-   "slots": 8,
+   "slot_hist": [
+    [
+     "2026-11-23T21:54:11Z",
+     10
+    ]
+   ],
+   "slots": 10,
    "title": "Voice Actor: CX Agent Voice Cloning (UK English)"
   },
   "list_AAABn9frMRn_uyjbOmxIjp8i": {
@@ -1436,7 +1459,13 @@
    "rate_max": 100.0,
    "rate_min": 50.0,
    "reopen_count": 0,
-   "slots": 11,
+   "slot_hist": [
+    [
+     "2026-11-23T21:54:11Z",
+     13
+    ]
+   ],
+   "slots": 13,
    "title": "Voice Actor: CX Agent Voice Cloning (Standard French)"
   },
   "list_AAABnuqXOR2GIV_EIudP54sj": {
@@ -1912,6 +1941,23 @@
    "slots": 14,
    "slots_before": 8,
    "title": "Clinicians"
+  },
+  "list_AAABoCWaT-Nn5YtIt9tNC7Hh": {
+   "active": true,
+   "category": "Business Operations",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-23T21:54:11Z",
+   "id": "list_AAABoCWaT-Nn5YtIt9tNC7Hh",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-21T18:34:25",
+   "rate_freq": "hourly",
+   "rate_max": 120.0,
+   "rate_min": 100.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Medical and Health Services Managers"
   },
   "list_AAABoCl905TW9jWTfs9Oh44S": {
    "active": true,
@@ -3812,10 +3858,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T12:33:22Z",
-     55
-    ],
-    [
      "2026-11-13T18:46:10Z",
      54
     ],
@@ -3890,9 +3932,13 @@
     [
      "2026-11-23T15:06:59Z",
      51
+    ],
+    [
+     "2026-11-23T21:54:11Z",
+     50
     ]
    ],
-   "slots": 51,
+   "slots": 50,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -8520,9 +8566,13 @@
     [
      "2026-11-21T17:13:18Z",
      4
+    ],
+    [
+     "2026-11-23T21:54:11Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "title": "Enterprise Sales Manager – AI Training Specialist"
   },
   "list_AAABodwhFg-ByligFaNMTbdJ": {
