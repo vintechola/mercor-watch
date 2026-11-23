@@ -5468,9 +5468,13 @@
     [
      "2026-11-20T14:43:49Z",
      38
+    ],
+    [
+     "2026-11-23T07:06:12Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -7035,7 +7039,13 @@
    "rate_max": 118.0,
    "rate_min": 69.0,
    "reopen_count": 0,
-   "slots": 10,
+   "slot_hist": [
+    [
+     "2026-11-23T07:06:12Z",
+     9
+    ]
+   ],
+   "slots": 9,
    "title": "Insurance Agency Software Survey – 10 Minutes, Paid"
   },
   "list_AAABod-dElqtLbA4E_dJTov0": {
@@ -7069,9 +7079,13 @@
     [
      "2026-11-22T05:33:09Z",
      3
+    ],
+    [
+     "2026-11-23T07:06:12Z",
+     2
     ]
    ],
-   "slots": 3,
+   "slots": 2,
    "title": "Independent Insurance Agency Owner / Principal – Paid Research Interview"
   },
   "list_AAABod-dMPPOOMe1VJBKc7YT": {
