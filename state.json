@@ -3857,9 +3857,13 @@
     [
      "2026-11-22T23:07:13Z",
      55
+    ],
+    [
+     "2026-11-23T01:51:30Z",
+     52
     ]
    ],
-   "slots": 55,
+   "slots": 52,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -5016,9 +5020,13 @@
     [
      "2026-11-21T04:19:53Z",
      39
+    ],
+    [
+     "2026-11-23T01:51:30Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -8159,10 +8167,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T23:13:36Z",
-     58
-    ],
-    [
      "2026-11-18T00:59:12Z",
      60
     ],
@@ -8237,9 +8241,13 @@
     [
      "2026-11-22T19:29:17Z",
      44
+    ],
+    [
+     "2026-11-23T01:51:30Z",
+     42
     ]
    ],
-   "slots": 44,
+   "slots": 42,
    "title": "FP&A Expert"
   },
   "list_AAABoddbQUy7LCQO6PFLPLqP": {
