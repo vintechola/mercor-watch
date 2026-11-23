@@ -923,6 +923,23 @@
    "slots": 2,
    "title": "Customer Success Engineer (India)"
   },
+  "list_AAABnQw10KNPyjduO8lAFo-e": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-23T21:03:30Z",
+   "id": "list_AAABnQw10KNPyjduO8lAFo-e",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-03-20T17:05:47",
+   "rate_freq": "hourly",
+   "rate_max": 200.0,
+   "rate_min": 50.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Voice Actor: CX Agent Voice Cloning (USA)"
+  },
   "list_AAABn_Iz3TRXq5o1-J5Gdot8": {
    "active": true,
    "category": "Finance",
@@ -1304,14 +1321,14 @@
    "title": "Clinicians Survey – Ambulatory & Community Care Insights"
   },
   "list_AAABnoQC-dC2MUckZJBC9oHw": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-23T21:03:30Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoQC-dC2MUckZJBC9oHw",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-06-01T16:27:28",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -1321,14 +1338,14 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Spanish - Mexico)"
   },
   "list_AAABnoQC2bLQ9YaeK3JHzIPK": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-23T21:03:30Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoQC2bLQ9YaeK3JHzIPK",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-06-01T16:27:20",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -1338,14 +1355,14 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Spanish - Latin America)"
   },
   "list_AAABnoQDCpLznP-zEwhOsZTH": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-23T21:03:30Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoQDCpLznP-zEwhOsZTH",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-06-01T16:27:32",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -1423,14 +1440,14 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Standard French)"
   },
   "list_AAABnuqXOR2GIV_EIudP54sj": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-23T21:03:30Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnuqXOR2GIV_EIudP54sj",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-06-21T14:30:40",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -3990,7 +4007,13 @@
    "rate_max": 170.0,
    "rate_min": 170.0,
    "reopen_count": 0,
-   "slots": 2,
+   "slot_hist": [
+    [
+     "2026-11-23T21:03:30Z",
+     3
+    ]
+   ],
+   "slots": 3,
    "title": "Primary Care Physician (MD) -  Clinical Documentation & AI Evaluation"
   },
   "list_AAABoSrPUxxXD7fJaeFCSrmf": {
@@ -5264,9 +5287,13 @@
     [
      "2026-11-22T16:28:28Z",
      27
+    ],
+    [
+     "2026-11-23T21:03:30Z",
+     26
     ]
    ],
-   "slots": 27,
+   "slots": 26,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
