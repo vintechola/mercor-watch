@@ -3872,10 +3872,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T20:30:24Z",
-     53
-    ],
-    [
      "2026-11-13T21:24:27Z",
      54
     ],
@@ -3950,9 +3946,13 @@
     [
      "2026-11-24T09:10:54Z",
      49
+    ],
+    [
+     "2026-11-24T12:18:03Z",
+     48
     ]
    ],
-   "slots": 49,
+   "slots": 48,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -6695,9 +6695,13 @@
     [
      "2026-11-18T08:07:17Z",
      14
+    ],
+    [
+     "2026-11-24T12:18:03Z",
+     13
     ]
    ],
-   "slots": 14,
+   "slots": 13,
    "title": "Fab Safety and Emergency Response Expert (Japanese)"
   },
   "list_AAABocI-OkrOixS81NNDVrWt": {
