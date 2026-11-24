@@ -340,7 +340,7 @@
    "first_seen": "2026-11-23T21:54:11Z",
    "id": "list_AAABn7QE-IGAlH7zJwpKN6uM",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-30T17:14:12",
    "rate_freq": "hourly",
    "rate_max": 100.0,
@@ -958,7 +958,7 @@
    "first_seen": "2026-11-23T21:03:30Z",
    "id": "list_AAABnQw10KNPyjduO8lAFo-e",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-03-20T17:05:47",
    "rate_freq": "hourly",
    "rate_max": 200.0,
@@ -1960,7 +1960,7 @@
    "first_seen": "2026-11-23T21:54:11Z",
    "id": "list_AAABoCWaT-Nn5YtIt9tNC7Hh",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-21T18:34:25",
    "rate_freq": "hourly",
    "rate_max": 120.0,
@@ -3801,14 +3801,14 @@
    "title": "Systems & Integration Engineering Experts"
   },
   "list_AAABoNEASAHvBkQQfdJC0ar3": {
-   "active": true,
+   "active": false,
    "category": "Finance",
-   "closed_at": null,
+   "closed_at": "2026-11-24T17:36:22Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoNEASAHvBkQQfdJC0ar3",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-09-24T01:20:51",
    "rate_freq": "hourly",
    "rate_max": 110.0,
@@ -4014,19 +4014,20 @@
    "title": "Infrastructure / Site Reliability Engineer (SRE)"
   },
   "list_AAABoRnCSK6MhF7a8UVK85GA": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoRnCSK6MhF7a8UVK85GA",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-08T04:25:25",
    "rate_freq": "hourly",
    "rate_max": 150.0,
    "rate_min": 150.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-14T19:36:44Z",
@@ -4077,7 +4078,7 @@
      20
     ]
    ],
-   "slots": 20,
+   "slots": 21,
    "title": "General Physician"
   },
   "list_AAABoSaogGy2NBr71LpJgrqO": {
@@ -4813,19 +4814,20 @@
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtv330pzH8496dGyKTt",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:16",
    "rate_freq": "hourly",
    "rate_max": 150.0,
    "rate_min": 150.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-14T18:12:15Z",
@@ -4868,19 +4870,20 @@
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtv69DhD_Gd84dDAocK",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:19",
    "rate_freq": "hourly",
    "rate_max": 150.0,
    "rate_min": 150.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-13T22:08:52Z",
@@ -4903,19 +4906,20 @@
    "title": "Geriatrician"
   },
   "list_AAABoWtv9pI6MJtsV35ELp_E": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtv9pI6MJtsV35ELp_E",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:22",
    "rate_freq": "hourly",
    "rate_max": 150.0,
    "rate_min": 150.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T19:39:29Z",
@@ -4946,19 +4950,20 @@
    "title": "Otolaryngologist (ENT)"
   },
   "list_AAABoWtwCj4E5CDOjQ1KxL5m": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwCj4E5CDOjQ1KxL5m",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:27",
    "rate_freq": "hourly",
    "rate_max": 175.0,
    "rate_min": 175.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T19:39:29Z",
@@ -4997,19 +5002,20 @@
    "title": "Ophthalmologist"
   },
   "list_AAABoWtwGWHBJHEIwBFOP4OG": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwGWHBJHEIwBFOP4OG",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:31",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-18T23:34:03Z",
@@ -5036,19 +5042,20 @@
    "title": "Endocrinologist"
   },
   "list_AAABoWtwJGwIgnnW9BdOwaZX": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwJGwIgnnW9BdOwaZX",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:33",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T02:17:07Z",
@@ -5071,19 +5078,20 @@
    "title": "Infectious Disease Physician"
   },
   "list_AAABoWtwOLHV8_xCHd5M26Cl": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwOLHV8_xCHd5M26Cl",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:39",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-18T02:12:47Z",
@@ -5106,19 +5114,20 @@
    "title": "Nephrologist"
   },
   "list_AAABoWtwTAuXPK49ZE5BY6j1": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwTAuXPK49ZE5BY6j1",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:44",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-14T23:13:25Z",
@@ -5149,19 +5158,20 @@
    "title": "Rheumatologist"
   },
   "list_AAABoWtwVok0kLHc4h5Gp7qo": {
-   "active": false,
+   "active": true,
    "category": null,
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwVok0kLHc4h5Gp7qo",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:46",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-14T20:13:56Z",
@@ -5184,19 +5194,20 @@
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwYkSInwja94FDHa0o",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:49",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-14T20:13:56Z",
@@ -5243,19 +5254,20 @@
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwdnkg16LT79ZPDawT",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:54",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T16:39:16Z",
@@ -5286,19 +5298,20 @@
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwgexs-u2gvjVJi7wH",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:04:57",
    "rate_freq": "hourly",
    "rate_max": 200.0,
    "rate_min": 200.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T19:39:29Z",
@@ -5329,19 +5342,20 @@
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwjZ8YPP1X8zpPf7U3",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:05:00",
    "rate_freq": "hourly",
    "rate_max": 275.0,
    "rate_min": 275.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T20:28:24Z",
@@ -5404,19 +5418,20 @@
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwmMBbLnGYAPFKNLAQ",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:05:03",
    "rate_freq": "hourly",
    "rate_max": 350.0,
    "rate_min": 350.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-13T16:16:56Z",
@@ -5463,19 +5478,20 @@
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwpFEaRuHYqcNK6KyX",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:05:06",
    "rate_freq": "hourly",
    "rate_max": 350.0,
    "rate_min": 350.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-16T23:22:11Z",
@@ -5518,19 +5534,20 @@
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwvCp5G7Swt0JDu7wl",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:05:12",
    "rate_freq": "hourly",
    "rate_max": 350.0,
    "rate_min": 350.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-13T13:47:49Z",
@@ -5597,19 +5614,20 @@
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
-   "active": false,
+   "active": true,
    "category": "Medicine",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwzY78zzncm-FELrjZ",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-10-24T01:05:17",
    "rate_freq": "hourly",
    "rate_max": 350.0,
    "rate_min": 350.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-16T14:43:27Z",
@@ -5632,7 +5650,7 @@
      37
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -6173,9 +6191,13 @@
     [
      "2026-11-18T03:04:00Z",
      29
+    ],
+    [
+     "2026-11-24T17:36:22Z",
+     30
     ]
    ],
-   "slots": 29,
+   "slots": 30,
    "title": "Civil Engineering Writer"
   },
   "list_AAABoa1JdtVScGh5y5ZBYqSo": {
@@ -8390,7 +8412,7 @@
    "id": "list_AAABoddaxN8U-VxGZ5BD-Y_n",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": false,
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-11-14T00:00:13",
    "rate_freq": "hourly",
    "rate_max": 100.0,
