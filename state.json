@@ -1344,7 +1344,13 @@
    "rate_max": 90.0,
    "rate_min": 90.0,
    "reopen_count": 0,
-   "slots": 298,
+   "slot_hist": [
+    [
+     "2026-11-24T11:18:05Z",
+     299
+    ]
+   ],
+   "slots": 299,
    "title": "Clinicians Survey – Ambulatory & Community Care Insights"
   },
   "list_AAABnoQC-dC2MUckZJBC9oHw": {
