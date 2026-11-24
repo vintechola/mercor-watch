@@ -554,9 +554,13 @@
     [
      "2026-11-23T21:54:11Z",
      10
+    ],
+    [
+     "2026-11-24T19:28:28Z",
+     9
     ]
    ],
-   "slots": 10,
+   "slots": 9,
    "title": "Voice Actor: CX Agent Voice Cloning (UK English)"
   },
   "list_AAABn9frMRn_uyjbOmxIjp8i": {
@@ -2000,7 +2004,7 @@
    "first_seen": "2026-11-24T13:38:05Z",
    "id": "list_AAABoDT_548oyfsZk-FIq7-W",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-08-24T18:19:41",
    "rate_freq": "hourly",
    "rate_max": 110.0,
@@ -3895,10 +3899,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-13T21:24:27Z",
-     54
-    ],
-    [
      "2026-11-16T16:26:17Z",
      53
     ],
@@ -3973,9 +3973,13 @@
     [
      "2026-11-24T12:18:03Z",
      48
+    ],
+    [
+     "2026-11-24T19:28:28Z",
+     47
     ]
    ],
-   "slots": 48,
+   "slots": 47,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -4729,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T02:33:35Z",
-     1688
-    ],
-    [
      "2026-11-20T04:22:47Z",
      1682
     ],
@@ -4807,9 +4807,13 @@
     [
      "2026-11-21T05:17:39Z",
      1648
+    ],
+    [
+     "2026-11-24T19:28:28Z",
+     5581
     ]
    ],
-   "slots": 5589,
+   "slots": 5581,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -8658,7 +8662,7 @@
   },
   "list_AAABodjkhcin__KeNFZHg54O": {
    "active": true,
-   "category": null,
+   "category": "Business Operations",
    "closed_at": null,
    "commitment": "part-time",
    "first_seen": "2026-11-14T07:49:59Z",
@@ -9138,7 +9142,7 @@
   },
   "list_AAABofvfl94SAaye36JOwo-t": {
    "active": true,
-   "category": "Business Operations",
+   "category": "Life, Physical, and Social Science",
    "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-24T18:27:13Z",
