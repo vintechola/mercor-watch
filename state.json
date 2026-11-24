@@ -333,14 +333,14 @@
    "title": "Data Scientist Talent Network"
   },
   "list_AAABn7QE-IGAlH7zJwpKN6uM": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-24T18:27:13Z",
    "commitment": "hourly",
    "first_seen": "2026-11-23T21:54:11Z",
    "id": "list_AAABn7QE-IGAlH7zJwpKN6uM",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-07-30T17:14:12",
    "rate_freq": "hourly",
    "rate_max": 100.0,
@@ -951,14 +951,14 @@
    "title": "Customer Success Engineer (India)"
   },
   "list_AAABnQw10KNPyjduO8lAFo-e": {
-   "active": true,
+   "active": false,
    "category": "Language and Audio",
-   "closed_at": null,
+   "closed_at": "2026-11-24T18:27:13Z",
    "commitment": "hourly",
    "first_seen": "2026-11-23T21:03:30Z",
    "id": "list_AAABnQw10KNPyjduO8lAFo-e",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-03-20T17:05:47",
    "rate_freq": "hourly",
    "rate_max": 200.0,
@@ -1953,14 +1953,14 @@
    "title": "Clinicians"
   },
   "list_AAABoCWaT-Nn5YtIt9tNC7Hh": {
-   "active": true,
+   "active": false,
    "category": "Business Operations",
-   "closed_at": null,
+   "closed_at": "2026-11-24T18:27:13Z",
    "commitment": "hourly",
    "first_seen": "2026-11-23T21:54:11Z",
    "id": "list_AAABoCWaT-Nn5YtIt9tNC7Hh",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-21T18:34:25",
    "rate_freq": "hourly",
    "rate_max": 120.0,
@@ -4713,20 +4713,20 @@
    "title": "US Contract Attorney — Litigation"
   },
   "list_AAABoWsjEohggV1F8gdLEoVO": {
-   "active": false,
+   "active": true,
    "category": "Finance",
-   "closed_at": "2026-11-21T09:10:38Z",
+   "closed_at": null,
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWsjEohggV1F8gdLEoVO",
    "location": "United States (remote)",
    "low_alerted": false,
-   "misses": 2,
+   "misses": 0,
    "posted": "2026-10-23T23:40:23",
    "rate_freq": "per-task",
    "rate_max": 400.0,
    "rate_min": 400.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-20T02:33:35Z",
@@ -4809,7 +4809,7 @@
      1648
     ]
    ],
-   "slots": 1648,
+   "slots": 5589,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5336,9 +5336,13 @@
     [
      "2026-11-22T16:28:28Z",
      29
+    ],
+    [
+     "2026-11-24T18:27:13Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -8404,15 +8408,15 @@
    "title": "Accounting Expert"
   },
   "list_AAABoddaxN8U-VxGZ5BD-Y_n": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-24T18:27:13Z",
    "commitment": "hourly",
    "first_seen": "2026-11-14T19:36:44Z",
    "id": "list_AAABoddaxN8U-VxGZ5BD-Y_n",
    "location": "Remote (US preferred, open worldwide)",
    "low_alerted": false,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-11-14T00:00:13",
    "rate_freq": "hourly",
    "rate_max": 100.0,
@@ -9131,6 +9135,23 @@
    ],
    "slots": 29,
    "title": "Generalist for Queries Testing Vision"
+  },
+  "list_AAABofvfl94SAaye36JOwo-t": {
+   "active": true,
+   "category": "Business Operations",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-24T18:27:13Z",
+   "id": "list_AAABofvfl94SAaye36JOwo-t",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-21T02:11:37",
+   "rate_freq": "hourly",
+   "rate_max": 130.0,
+   "rate_min": 130.0,
+   "reopen_count": 0,
+   "slots": 220,
+   "title": "Higher Education Experts"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
    "active": true,
