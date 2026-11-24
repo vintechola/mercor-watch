@@ -1986,6 +1986,23 @@
    "slots": null,
    "title": "Legacy Codebase Migration Expert"
   },
+  "list_AAABoDT_548oyfsZk-FIq7-W": {
+   "active": true,
+   "category": "Business Operations",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-24T13:38:05Z",
+   "id": "list_AAABoDT_548oyfsZk-FIq7-W",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-24T18:19:41",
+   "rate_freq": "hourly",
+   "rate_max": 110.0,
+   "rate_min": 70.0,
+   "reopen_count": 0,
+   "slots": 1,
+   "title": "Computer and Information Systems Managers"
+  },
   "list_AAABoDrL07CqmjVBGadLDIZ6": {
    "active": true,
    "category": "Software Engineering",
