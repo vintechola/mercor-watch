@@ -4038,9 +4038,13 @@
     [
      "2026-11-23T02:45:55Z",
      21
+    ],
+    [
+     "2026-11-24T04:47:38Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "General Physician"
   },
   "list_AAABoSaogGy2NBr71LpJgrqO": {
@@ -6074,7 +6078,7 @@
    "active": true,
    "category": "Business Operations",
    "closed_at": null,
-   "commitment": "hourly",
+   "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoZp0wzuyh1qXnV5ADJMG",
    "location": "Remote",
@@ -6084,7 +6088,13 @@
    "rate_max": 120.0,
    "rate_min": 120.0,
    "reopen_count": 0,
-   "slots": 10,
+   "slot_hist": [
+    [
+     "2026-11-24T04:47:38Z",
+     6
+    ]
+   ],
+   "slots": 6,
    "title": "Market Research & Insights Experts"
   },
   "list_AAABoa1GFaJczza3I9dJKalo": {
