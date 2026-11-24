@@ -4856,9 +4856,13 @@
     [
      "2026-11-23T15:06:59Z",
      33
+    ],
+    [
+     "2026-11-24T03:40:39Z",
+     32
     ]
    ],
-   "slots": 33,
+   "slots": 32,
    "title": "Geriatrician"
   },
   "list_AAABoWtv9pI6MJtsV35ELp_E": {
@@ -6216,9 +6220,13 @@
     [
      "2026-11-23T04:54:57Z",
      25
+    ],
+    [
+     "2026-11-24T03:40:39Z",
+     24
     ]
    ],
-   "slots": 25,
+   "slots": 24,
    "title": "Electrical Engineering Writer"
   },
   "list_AAABoa1JnHFUNfFP2nVJtLt9": {
@@ -6301,7 +6309,13 @@
    "rate_max": 90.0,
    "rate_min": 90.0,
    "reopen_count": 0,
-   "slots": 7,
+   "slot_hist": [
+    [
+     "2026-11-24T03:40:39Z",
+     6
+    ]
+   ],
+   "slots": 6,
    "title": "Mechanical Engineer Reviewer"
   },
   "list_AAABoa1gUkpcGLZXlqdBXK5J": {
