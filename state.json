@@ -8743,20 +8743,20 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Dutch)"
   },
   "list_AAABoeIksoinQkS__UxOZ7G1": {
-   "active": false,
+   "active": true,
    "category": "Data Analysis",
-   "closed_at": "2026-11-18T09:06:40Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-16T09:23:58Z",
    "id": "list_AAABoeIksoinQkS__UxOZ7G1",
    "location": "Remote",
-   "low_alerted": true,
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-11-16T02:16:58",
    "rate_freq": "hourly",
    "rate_max": 75.0,
    "rate_min": 40.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-17T09:00:27Z",
@@ -9083,7 +9083,7 @@
    "rate_min": 175.0,
    "reopen_count": 0,
    "slots": 5,
-   "title": "Palliative Care Physician"
+   "title": "Palliative Care Physician - Canada"
   }
  }
 }
