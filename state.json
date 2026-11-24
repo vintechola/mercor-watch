@@ -1997,14 +1997,14 @@
    "title": "Legacy Codebase Migration Expert"
   },
   "list_AAABoDT_548oyfsZk-FIq7-W": {
-   "active": true,
+   "active": false,
    "category": "Business Operations",
-   "closed_at": null,
+   "closed_at": "2026-11-24T20:21:38Z",
    "commitment": "hourly",
    "first_seen": "2026-11-24T13:38:05Z",
    "id": "list_AAABoDT_548oyfsZk-FIq7-W",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-08-24T18:19:41",
    "rate_freq": "hourly",
    "rate_max": 110.0,
@@ -4733,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T04:22:47Z",
-     1682
-    ],
-    [
      "2026-11-20T06:29:00Z",
      1684
     ],
@@ -4811,9 +4807,13 @@
     [
      "2026-11-24T19:28:28Z",
      5581
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     5577
     ]
    ],
-   "slots": 5581,
+   "slots": 5577,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5040,9 +5040,13 @@
     [
      "2026-11-22T20:59:10Z",
      35
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     34
     ]
    ],
-   "slots": 35,
+   "slots": 34,
    "title": "Endocrinologist"
   },
   "list_AAABoWtwJGwIgnnW9BdOwaZX": {
@@ -5192,9 +5196,13 @@
     [
      "2026-11-23T01:51:30Z",
      38
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     37
     ]
    ],
-   "slots": 38,
+   "slots": 37,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -5252,9 +5260,13 @@
     [
      "2026-11-23T16:10:17Z",
      31
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -5344,9 +5356,13 @@
     [
      "2026-11-24T18:27:13Z",
      28
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     27
     ]
    ],
-   "slots": 28,
+   "slots": 27,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -5536,9 +5552,13 @@
     [
      "2026-11-21T00:24:08Z",
      17
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     16
     ]
    ],
-   "slots": 17,
+   "slots": 16,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -5616,9 +5636,13 @@
     [
      "2026-11-22T22:23:09Z",
      7
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     6
     ]
    ],
-   "slots": 7,
+   "slots": 6,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7313,9 +7337,13 @@
     [
      "2026-11-23T07:06:12Z",
      2
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Independent Insurance Agency Owner / Principal – Paid Research Interview"
   },
   "list_AAABod-dMPPOOMe1VJBKc7YT": {
@@ -7336,9 +7364,13 @@
     [
      "2026-11-20T20:24:50Z",
      2
+    ],
+    [
+     "2026-11-24T20:21:38Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Agency Management System Administrator / Technology Lead – Paid Research Interview"
   },
   "list_AAABod-dVhq8uhqw5KVE3ZQJ": {
