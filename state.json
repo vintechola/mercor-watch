@@ -305,9 +305,13 @@
     [
      "2026-11-23T11:43:02Z",
      7910
+    ],
+    [
+     "2026-11-24T06:41:02Z",
+     7911
     ]
    ],
-   "slots": 7910,
+   "slots": 7911,
    "slots_before": 7898,
    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)"
   },
@@ -5361,9 +5365,13 @@
     [
      "2026-11-23T21:03:30Z",
      26
+    ],
+    [
+     "2026-11-24T06:41:02Z",
+     25
     ]
    ],
-   "slots": 26,
+   "slots": 25,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
