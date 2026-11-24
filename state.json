@@ -4733,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T10:43:36Z",
-     1679
-    ],
-    [
      "2026-11-20T11:39:23Z",
      1678
     ],
@@ -4811,9 +4807,13 @@
     [
      "2026-11-24T22:22:43Z",
      5565
+    ],
+    [
+     "2026-11-24T23:17:00Z",
+     5558
     ]
    ],
-   "slots": 5565,
+   "slots": 5558,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5124,9 +5124,13 @@
     [
      "2026-11-24T00:24:35Z",
      31
+    ],
+    [
+     "2026-11-24T23:17:00Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Nephrologist"
   },
   "list_AAABoWtwTAuXPK49ZE5BY6j1": {
@@ -5272,9 +5276,13 @@
     [
      "2026-11-24T20:21:38Z",
      30
+    ],
+    [
+     "2026-11-24T23:17:00Z",
+     29
     ]
    ],
-   "slots": 30,
+   "slots": 29,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
