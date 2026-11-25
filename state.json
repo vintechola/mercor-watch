@@ -4733,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T12:37:12Z",
-     1675
-    ],
-    [
      "2026-11-20T13:51:46Z",
      1674
     ],
@@ -4811,9 +4807,13 @@
     [
      "2026-11-25T00:00:47Z",
      5554
+    ],
+    [
+     "2026-11-25T01:13:52Z",
+     5549
     ]
    ],
-   "slots": 5554,
+   "slots": 5549,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5324,9 +5324,13 @@
     [
      "2026-11-21T22:06:04Z",
      33
+    ],
+    [
+     "2026-11-25T01:13:52Z",
+     31
     ]
    ],
-   "slots": 33,
+   "slots": 31,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -5456,9 +5460,13 @@
     [
      "2026-11-25T00:00:47Z",
      24
+    ],
+    [
+     "2026-11-25T01:13:52Z",
+     23
     ]
    ],
-   "slots": 24,
+   "slots": 23,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -5580,9 +5588,13 @@
     [
      "2026-11-24T22:22:43Z",
      14
+    ],
+    [
+     "2026-11-25T01:13:52Z",
+     13
     ]
    ],
-   "slots": 14,
+   "slots": 13,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -5593,7 +5605,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwvCp5G7Swt0JDu7wl",
    "location": "Remote",
-   "low_alerted": false,
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-10-24T01:05:12",
    "rate_freq": "hourly",
@@ -5664,9 +5676,13 @@
     [
      "2026-11-24T20:21:38Z",
      6
+    ],
+    [
+     "2026-11-25T01:13:52Z",
+     5
     ]
    ],
-   "slots": 6,
+   "slots": 5,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -7253,7 +7269,13 @@
    "rate_max": 400.0,
    "rate_min": 400.0,
    "reopen_count": 0,
-   "slots": 4,
+   "slot_hist": [
+    [
+     "2026-11-25T01:13:52Z",
+     5
+    ]
+   ],
+   "slots": 5,
    "title": "Cyber Engineer (3+ Years Experience)"
   },
   "list_AAABod-cG2BzHQBcUBVBZ73W": {
@@ -8762,9 +8784,13 @@
     [
      "2026-11-23T21:54:11Z",
      3
+    ],
+    [
+     "2026-11-25T01:13:52Z",
+     2
     ]
    ],
-   "slots": 3,
+   "slots": 2,
    "title": "Enterprise Sales Manager – AI Training Specialist"
   },
   "list_AAABodwhFg-ByligFaNMTbdJ": {
