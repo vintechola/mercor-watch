@@ -981,6 +981,91 @@
    "slots": 1,
    "title": "Voice Actor: CX Agent Voice Cloning (USA)"
   },
+  "list_AAABn_IS83KS6RwpBCpHdZCh": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABn_IS83KS6RwpBCpHdZCh",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-11T18:25:56",
+   "rate_freq": "hourly",
+   "rate_max": 36.0,
+   "rate_min": 20.0,
+   "reopen_count": 0,
+   "slots": 41,
+   "title": "Music Production Expert - Slovak"
+  },
+  "list_AAABn_IWXYBfWQtjGGNLXYj6": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABn_IWXYBfWQtjGGNLXYj6",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-11T18:29:39",
+   "rate_freq": "hourly",
+   "rate_max": 36.0,
+   "rate_min": 20.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Hungarian"
+  },
+  "list_AAABn_IWbN3bC6hnJ7BAKJz6": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABn_IWbN3bC6hnJ7BAKJz6",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-11T18:29:43",
+   "rate_freq": "hourly",
+   "rate_max": 78.0,
+   "rate_min": 42.0,
+   "reopen_count": 0,
+   "slots": 39,
+   "title": "Music Production Expert - Norwegian"
+  },
+  "list_AAABn_IWhgBaGeRGAOtDhalT": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABn_IWhgBaGeRGAOtDhalT",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-11T18:29:50",
+   "rate_freq": "hourly",
+   "rate_max": 19.0,
+   "rate_min": 11.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Urdu"
+  },
+  "list_AAABn_IWofn3FqA7EqdBN5aX": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABn_IWofn3FqA7EqdBN5aX",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-08-11T18:29:57",
+   "rate_freq": "hourly",
+   "rate_max": 54.0,
+   "rate_min": 23.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Hebrew"
+  },
   "list_AAABn_Iz3TRXq5o1-J5Gdot8": {
    "active": true,
    "category": "Finance",
@@ -1528,21 +1613,39 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Southern USA)"
   },
   "list_AAABnzh0-n7dhIrcl7ZCpq5r": {
-   "active": false,
+   "active": true,
    "category": "Language and Audio",
-   "closed_at": "2026-11-17T03:55:14Z",
+   "closed_at": null,
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnzh0-n7dhIrcl7ZCpq5r",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-07-06T17:23:38",
    "rate_freq": "per-task",
    "rate_max": 4.56,
    "rate_min": 4.56,
-   "reopen_count": 0,
-   "slots": 8,
+   "reopen_count": 1,
+   "slots": 29,
    "title": "Music Production Expert - Thai"
+  },
+  "list_AAABnzh09OL93kfqjFpLCpJs": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABnzh09OL93kfqjFpLCpJs",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-06T17:23:36",
+   "rate_freq": "hourly",
+   "rate_max": 19.0,
+   "rate_min": 11.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Telugu"
   },
   "list_AAABnzh0CO9UhmGtnTRMz50Y": {
    "active": false,
@@ -1560,6 +1663,74 @@
    "reopen_count": 0,
    "slots": 6,
    "title": "Music Production Expert - Korean"
+  },
+  "list_AAABnzh0PbOj2G-v5ntPep8T": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABnzh0PbOj2G-v5ntPep8T",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-06T17:22:50",
+   "rate_freq": "hourly",
+   "rate_max": 54.0,
+   "rate_min": 18.0,
+   "reopen_count": 0,
+   "slots": 32,
+   "title": "Music Production Expert - Mandarin Chinese"
+  },
+  "list_AAABnzh0kP34kYOzBF1JTaIA": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABnzh0kP34kYOzBF1JTaIA",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-06T17:23:11",
+   "rate_freq": "hourly",
+   "rate_max": 19.0,
+   "rate_min": 11.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Punjabi"
+  },
+  "list_AAABnzh0lIymACKXZE9D4Jo7": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABnzh0lIymACKXZE9D4Jo7",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-06T17:23:12",
+   "rate_freq": "hourly",
+   "rate_max": 49.0,
+   "rate_min": 35.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Russian"
+  },
+  "list_AAABnzh1FRUcYXCLZIRGx4nJ": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABnzh1FRUcYXCLZIRGx4nJ",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-06T17:23:45",
+   "rate_freq": "hourly",
+   "rate_max": 18.0,
+   "rate_min": 18.0,
+   "reopen_count": 0,
+   "slots": 36,
+   "title": "Music Production Expert - Vietnamese"
   },
   "list_AAABnzhzfDIFHoCRDwJJYYes": {
    "active": false,
@@ -1610,6 +1781,23 @@
    ],
    "slots": 5,
    "title": "Music Production Expert - German"
+  },
+  "list_AAABnzhzlfwG8j7sNAZH7aHL": {
+   "active": true,
+   "category": "Language and Audio",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-25T23:18:04Z",
+   "id": "list_AAABnzhzlfwG8j7sNAZH7aHL",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-07-06T17:22:06",
+   "rate_freq": "hourly",
+   "rate_max": 42.0,
+   "rate_min": 17.0,
+   "reopen_count": 0,
+   "slots": 34,
+   "title": "Music Production Expert - Greek"
   },
   "list_AAABnzhzpTRykCmGaJ9Nta1s": {
    "active": false,
@@ -3911,10 +4099,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T02:12:47Z",
-     58
-    ],
-    [
      "2026-11-18T03:56:30Z",
      57
     ],
@@ -3989,9 +4173,13 @@
     [
      "2026-11-25T17:40:32Z",
      44
+    ],
+    [
+     "2026-11-25T23:18:04Z",
+     42
     ]
    ],
-   "slots": 44,
+   "slots": 42,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -4749,10 +4937,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T02:26:50Z",
-     5545
-    ],
-    [
      "2026-11-25T03:28:46Z",
      5541
     ],
@@ -4827,9 +5011,13 @@
     [
      "2026-11-25T22:24:01Z",
      5476
+    ],
+    [
+     "2026-11-25T23:18:04Z",
+     5469
     ]
    ],
-   "slots": 5476,
+   "slots": 5469,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5605,7 +5793,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwpFEaRuHYqcNK6KyX",
    "location": "Remote",
-   "low_alerted": false,
+   "low_alerted": true,
    "misses": 0,
    "posted": "2026-10-24T01:05:06",
    "rate_freq": "hourly",
@@ -5684,9 +5872,13 @@
     [
      "2026-11-25T21:26:57Z",
      7
+    ],
+    [
+     "2026-11-25T23:18:04Z",
+     5
     ]
    ],
-   "slots": 7,
+   "slots": 5,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
