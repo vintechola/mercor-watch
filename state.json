@@ -195,9 +195,13 @@
     [
      "2026-11-20T18:32:32Z",
      30
+    ],
+    [
+     "2026-11-25T17:40:32Z",
+     31
     ]
    ],
-   "slots": 30,
+   "slots": 31,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -3899,10 +3903,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-17T17:39:38Z",
-     57
-    ],
-    [
      "2026-11-18T02:12:47Z",
      58
     ],
@@ -3977,9 +3977,13 @@
     [
      "2026-11-25T15:52:02Z",
      43
+    ],
+    [
+     "2026-11-25T17:40:32Z",
+     44
     ]
    ],
-   "slots": 43,
+   "slots": 44,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -4737,10 +4741,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-24T20:21:38Z",
-     5577
-    ],
-    [
      "2026-11-24T21:20:42Z",
      5572
     ],
@@ -4815,9 +4815,13 @@
     [
      "2026-11-25T16:54:32Z",
      5495
+    ],
+    [
+     "2026-11-25T17:40:32Z",
+     5490
     ]
    ],
-   "slots": 5495,
+   "slots": 5490,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5360,9 +5364,13 @@
     [
      "2026-11-25T04:37:33Z",
      28
+    ],
+    [
+     "2026-11-25T17:40:32Z",
+     27
     ]
    ],
-   "slots": 28,
+   "slots": 27,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -5776,9 +5784,13 @@
     [
      "2026-11-24T21:20:42Z",
      35
+    ],
+    [
+     "2026-11-25T17:40:32Z",
+     34
     ]
    ],
-   "slots": 35,
+   "slots": 34,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -9256,19 +9268,20 @@
    "title": "Practising Lawyer (Korea, Spain, Germany, France, Japan) — AI Legal Writing Survey"
   },
   "list_AAABofNxJ_IwaVsIsCJL0pyn": {
-   "active": false,
+   "active": true,
    "category": "Miscellaneous",
-   "closed_at": "2026-11-19T19:41:28Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-19T12:46:34Z",
    "id": "list_AAABofNxJ_IwaVsIsCJL0pyn",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-11-19T10:54:02",
    "rate_freq": "hourly",
    "rate_max": 35.0,
    "rate_min": 35.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slot_hist": [
     [
      "2026-11-19T14:00:16Z",
@@ -9291,7 +9304,7 @@
      29
     ]
    ],
-   "slots": 29,
+   "slots": 9,
    "title": "Generalist for Queries Testing Vision"
   },
   "list_AAABofvfl94SAaye36JOwo-t": {
