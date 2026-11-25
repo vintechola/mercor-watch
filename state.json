@@ -4733,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T13:51:46Z",
-     1674
-    ],
-    [
      "2026-11-20T14:43:49Z",
      1670
     ],
@@ -4811,9 +4807,13 @@
     [
      "2026-11-25T01:13:52Z",
      5549
+    ],
+    [
+     "2026-11-25T02:26:50Z",
+     5545
     ]
    ],
-   "slots": 5549,
+   "slots": 5545,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5592,9 +5592,13 @@
     [
      "2026-11-25T01:13:52Z",
      13
+    ],
+    [
+     "2026-11-25T02:26:50Z",
+     12
     ]
    ],
-   "slots": 13,
+   "slots": 12,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -6452,9 +6456,13 @@
     [
      "2026-11-18T20:12:44Z",
      32
+    ],
+    [
+     "2026-11-25T02:26:50Z",
+     31
     ]
    ],
-   "slots": 32,
+   "slots": 31,
    "title": "Mechanical Engineering Writer"
   },
   "list_AAABoa1JzxXUAzyb5dJAnooH": {
