@@ -4741,10 +4741,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-24T21:20:42Z",
-     5572
-    ],
-    [
      "2026-11-24T22:22:43Z",
      5565
     ],
@@ -4819,10 +4815,14 @@
     [
      "2026-11-25T17:40:32Z",
      5490
+    ],
+    [
+     "2026-11-25T18:31:26Z",
+     5498
     ]
    ],
-   "slots": 5490,
-   "slots_before": 1691,
+   "slots": 5498,
+   "slots_before": 5490,
    "title": "Retail Trader"
   },
   "list_AAABoWtv330pzH8496dGyKTt": {
@@ -5652,9 +5652,13 @@
     [
      "2026-11-25T12:28:11Z",
      10
+    ],
+    [
+     "2026-11-25T18:31:26Z",
+     9
     ]
    ],
-   "slots": 10,
+   "slots": 9,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
