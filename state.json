@@ -371,19 +371,20 @@
    "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)"
   },
   "list_AAABn7sbKWVBevHeOepIpIpu": {
-   "active": false,
+   "active": true,
    "category": "Software Engineering",
-   "closed_at": "2026-11-22T09:23:26Z",
+   "closed_at": null,
    "commitment": "task-based",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn7sbKWVBevHeOepIpIpu",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-08-01T02:15:47",
    "rate_freq": "per-task",
    "rate_max": 150.0,
    "rate_min": 80.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slots": 10,
    "title": "Software Engineer — Agentic Search Systems"
   },
@@ -942,19 +943,20 @@
    "title": "Physicist Talent Network"
   },
   "list_AAABnOP9NgGZSJmIf4dF5rx2": {
-   "active": false,
+   "active": true,
    "category": "Software Engineering",
-   "closed_at": "2026-11-22T09:23:26Z",
+   "closed_at": null,
    "commitment": "full-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnOP9NgGZSJmIf4dF5rx2",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-03-12T21:39:08",
    "rate_freq": "yearly",
    "rate_max": 45000.0,
    "rate_min": 30000.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slots": 2,
    "title": "Customer Success Engineer (India)"
   },
@@ -1322,19 +1324,20 @@
    "title": "Applied Health & Medicine Benchmark Specialist"
   },
   "list_AAABnfiedfZUWZxgc0lLT79a": {
-   "active": false,
+   "active": true,
    "category": "Software Engineering",
-   "closed_at": "2026-11-22T09:23:26Z",
+   "closed_at": null,
    "commitment": "full-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnfiedfZUWZxgc0lLT79a",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-05-05T14:50:27",
    "rate_freq": "yearly",
    "rate_max": 50000.0,
    "rate_min": 35000.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slots": 1,
    "title": "Customer Success Engineer (LatAm)"
   },
@@ -2086,19 +2089,20 @@
    "title": "Expert Interviewer"
   },
   "list_AAABoEkE3Fx5nN65LndAloi6": {
-   "active": false,
+   "active": true,
    "category": "Humanities",
-   "closed_at": "2026-11-21T09:10:38Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoEkE3Fx5nN65LndAloi6",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-08-28T15:37:30",
    "rate_freq": "hourly",
    "rate_max": 65.0,
    "rate_min": 60.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slots": 3,
    "title": "Spanish Tutors"
   },
@@ -4741,10 +4745,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T00:00:47Z",
-     5554
-    ],
-    [
      "2026-11-25T01:13:52Z",
      5549
     ],
@@ -4819,9 +4819,13 @@
     [
      "2026-11-25T20:27:54Z",
      5485
+    ],
+    [
+     "2026-11-25T21:26:57Z",
+     5478
     ]
    ],
-   "slots": 5485,
+   "slots": 5478,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5236,9 +5240,13 @@
     [
      "2026-11-25T04:37:33Z",
      36
+    ],
+    [
+     "2026-11-25T21:26:57Z",
+     35
     ]
    ],
-   "slots": 36,
+   "slots": 35,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -5508,9 +5516,13 @@
     [
      "2026-11-25T06:31:50Z",
      22
+    ],
+    [
+     "2026-11-25T21:26:57Z",
+     21
     ]
    ],
-   "slots": 22,
+   "slots": 21,
    "title": "Dermatologist"
   },
   "list_AAABoWtwmMBbLnGYAPFKNLAQ": {
@@ -5660,9 +5672,13 @@
     [
      "2026-11-25T20:27:54Z",
      8
+    ],
+    [
+     "2026-11-25T21:26:57Z",
+     7
     ]
    ],
-   "slots": 8,
+   "slots": 7,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -5748,9 +5764,13 @@
     [
      "2026-11-25T01:13:52Z",
      5
+    ],
+    [
+     "2026-11-25T21:26:57Z",
+     4
     ]
    ],
-   "slots": 5,
+   "slots": 4,
    "title": "Cardiologist"
   },
   "list_AAABoWtwzY78zzncm-FELrjZ": {
@@ -6859,19 +6879,20 @@
    "title": "Chip Design Expert (RTL Design & Verification)"
   },
   "list_AAABoc3i1VY8MNT4obtJuJhY": {
-   "active": false,
+   "active": true,
    "category": "Business Operations",
-   "closed_at": "2026-11-21T09:10:38Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
    "location": "Remote (US)",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-11-12T03:52:37",
    "rate_freq": "hourly",
    "rate_max": 70.0,
    "rate_min": 50.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slots": 45,
    "title": "Enterprise Sales Expert (AE / Sales Leader)"
   },
@@ -6923,19 +6944,20 @@
    "title": "Fab Safety and Emergency Response Expert (Japanese)"
   },
   "list_AAABocI-OkrOixS81NNDVrWt": {
-   "active": false,
+   "active": true,
    "category": "Arts & Design",
-   "closed_at": "2026-11-24T09:10:54Z",
+   "closed_at": null,
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABocI-OkrOixS81NNDVrWt",
    "location": "Remote",
-   "misses": 2,
+   "low_alerted": false,
+   "misses": 0,
    "posted": "2026-11-09T21:37:00",
    "rate_freq": "hourly",
    "rate_max": 90.0,
    "rate_min": 80.0,
-   "reopen_count": 0,
+   "reopen_count": 1,
    "slots": 10,
    "title": "Creative & Media Expert"
   },
