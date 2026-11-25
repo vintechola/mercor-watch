@@ -4741,10 +4741,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-24T23:17:00Z",
-     5558
-    ],
-    [
      "2026-11-25T00:00:47Z",
      5554
     ],
@@ -4819,9 +4815,13 @@
     [
      "2026-11-25T19:32:08Z",
      5493
+    ],
+    [
+     "2026-11-25T20:27:54Z",
+     5485
     ]
    ],
-   "slots": 5493,
+   "slots": 5485,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5656,9 +5656,13 @@
     [
      "2026-11-25T18:31:26Z",
      9
+    ],
+    [
+     "2026-11-25T20:27:54Z",
+     8
     ]
    ],
-   "slots": 9,
+   "slots": 8,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -9306,9 +9310,13 @@
     [
      "2026-11-19T17:42:27Z",
      29
+    ],
+    [
+     "2026-11-25T20:27:54Z",
+     7
     ]
    ],
-   "slots": 9,
+   "slots": 7,
    "title": "Generalist for Queries Testing Vision"
   },
   "list_AAABofvfl94SAaye36JOwo-t": {
@@ -9344,6 +9352,40 @@
    "reopen_count": 0,
    "slots": 5,
    "title": "Palliative Care Physician - Canada"
+  },
+  "list_AAABohP5Jqaj1-rfqpJFXrRD": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "full-time",
+   "first_seen": "2026-11-25T20:27:54Z",
+   "id": "list_AAABohP5Jqaj1-rfqpJFXrRD",
+   "location": "United States",
+   "misses": 0,
+   "posted": "2026-11-25T18:30:25",
+   "rate_freq": "hourly",
+   "rate_max": 110.0,
+   "rate_min": 80.0,
+   "reopen_count": 0,
+   "slots": 20,
+   "title": "Senior 3D Creative Technologist (Real-time 3D and Web)"
+  },
+  "list_AAABohP5LZ6aNkRjkl1FMIMu": {
+   "active": true,
+   "category": "Arts & Design",
+   "closed_at": null,
+   "commitment": "full-time",
+   "first_seen": "2026-11-25T20:27:54Z",
+   "id": "list_AAABohP5LZ6aNkRjkl1FMIMu",
+   "location": "United States",
+   "misses": 0,
+   "posted": "2026-11-25T18:30:26",
+   "rate_freq": "hourly",
+   "rate_max": 110.0,
+   "rate_min": 80.0,
+   "reopen_count": 0,
+   "slots": 20,
+   "title": "Senior Game Designer (AI Prototyping)"
   }
  }
 }
