@@ -4252,7 +4252,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBl9Qiee5DoU-hGapwb",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:03:41",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4269,7 +4269,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmAZXakCzG0MFPpbKC",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:03:44",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4286,7 +4286,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmFZ_RhmSVwadDBrXW",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:03:49",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4303,7 +4303,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmIvUp8Kr6Fy9H6b0i",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:03:53",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4320,7 +4320,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmLAccb_kWwapPDpVL",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:03:55",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4337,7 +4337,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmP03TuNxFesRNHYQl",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:04:00",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4354,7 +4354,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmUnuxLt2htNZFaofM",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:04:05",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4371,7 +4371,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmX0ZP9cQMwYZIa4th",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:04:08",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4388,7 +4388,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBmcJCOy6nGBz9FpJre",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:04:13",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4405,7 +4405,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoVBme63yIgVpzitF4Y_k",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-18T19:04:16",
    "rate_freq": "hourly",
    "rate_max": 60.0,
@@ -4733,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T16:36:36Z",
-     1668
-    ],
-    [
      "2026-11-20T17:33:46Z",
      1662
     ],
@@ -4811,9 +4807,13 @@
     [
      "2026-11-25T03:28:46Z",
      5541
+    ],
+    [
+     "2026-11-25T04:37:33Z",
+     5534
     ]
    ],
-   "slots": 5541,
+   "slots": 5534,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5212,9 +5212,13 @@
     [
      "2026-11-24T20:21:38Z",
      37
+    ],
+    [
+     "2026-11-25T04:37:33Z",
+     36
     ]
    ],
-   "slots": 37,
+   "slots": 36,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -5336,9 +5340,13 @@
     [
      "2026-11-25T03:28:46Z",
      30
+    ],
+    [
+     "2026-11-25T04:37:33Z",
+     28
     ]
    ],
-   "slots": 30,
+   "slots": 28,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
