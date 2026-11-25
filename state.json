@@ -4733,10 +4733,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-20T14:43:49Z",
-     1670
-    ],
-    [
      "2026-11-20T16:36:36Z",
      1668
     ],
@@ -4811,9 +4807,13 @@
     [
      "2026-11-25T02:26:50Z",
      5545
+    ],
+    [
+     "2026-11-25T03:28:46Z",
+     5541
     ]
    ],
-   "slots": 5545,
+   "slots": 5541,
    "slots_before": 1691,
    "title": "Retail Trader"
   },
@@ -5280,9 +5280,13 @@
     [
      "2026-11-24T23:17:00Z",
      29
+    ],
+    [
+     "2026-11-25T03:28:46Z",
+     28
     ]
    ],
-   "slots": 29,
+   "slots": 28,
    "title": "Obstetrician-Gynecologist (OB/GYN)"
   },
   "list_AAABoWtwdnkg16LT79ZPDawT": {
@@ -5328,9 +5332,13 @@
     [
      "2026-11-25T01:13:52Z",
      31
+    ],
+    [
+     "2026-11-25T03:28:46Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -5524,9 +5532,13 @@
     [
      "2026-11-21T20:07:17Z",
      21
+    ],
+    [
+     "2026-11-25T03:28:46Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -5596,9 +5608,13 @@
     [
      "2026-11-25T02:26:50Z",
      12
+    ],
+    [
+     "2026-11-25T03:28:46Z",
+     11
     ]
    ],
-   "slots": 12,
+   "slots": 11,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
