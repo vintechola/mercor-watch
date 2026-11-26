@@ -5172,10 +5172,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T21:26:57Z",
-     5478
-    ],
-    [
      "2026-11-25T22:24:01Z",
      5476
     ],
@@ -5250,9 +5246,13 @@
     [
      "2026-11-26T18:59:36Z",
      5429
+    ],
+    [
+     "2026-11-26T19:59:04Z",
+     5428
     ]
    ],
-   "slots": 5429,
+   "slots": 5428,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -6059,9 +6059,13 @@
     [
      "2026-11-26T15:08:12Z",
      18
+    ],
+    [
+     "2026-11-26T19:59:04Z",
+     17
     ]
    ],
-   "slots": 18,
+   "slots": 17,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -6080,10 +6084,6 @@
    "rate_min": 350.0,
    "reopen_count": 1,
    "slot_hist": [
-    [
-     "2026-11-17T19:39:29Z",
-     23
-    ],
     [
      "2026-11-17T20:28:24Z",
      22
@@ -6159,9 +6159,13 @@
     [
      "2026-11-26T18:59:36Z",
      2
+    ],
+    [
+     "2026-11-26T19:59:04Z",
+     1
     ]
    ],
-   "slots": 2,
+   "slots": 1,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -9851,9 +9855,13 @@
     [
      "2026-11-26T14:08:33Z",
      99
+    ],
+    [
+     "2026-11-26T19:59:04Z",
+     98
     ]
    ],
-   "slots": 99,
+   "slots": 98,
    "slots_before": 13,
    "title": "Generalist for Queries Testing Vision"
   },
