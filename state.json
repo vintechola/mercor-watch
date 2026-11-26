@@ -5172,10 +5172,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-26T00:05:23Z",
-     5462
-    ],
-    [
      "2026-11-26T01:15:13Z",
      5461
     ],
@@ -5250,9 +5246,13 @@
     [
      "2026-11-26T21:37:58Z",
      5425
+    ],
+    [
+     "2026-11-26T22:32:40Z",
+     5424
     ]
    ],
-   "slots": 5425,
+   "slots": 5424,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5899,9 +5899,13 @@
     [
      "2026-11-26T09:58:03Z",
      22
+    ],
+    [
+     "2026-11-26T22:32:40Z",
+     21
     ]
    ],
-   "slots": 22,
+   "slots": 21,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -6073,15 +6077,15 @@
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
-   "active": true,
+   "active": false,
    "category": "Medicine",
-   "closed_at": null,
+   "closed_at": "2026-11-26T22:32:40Z",
    "commitment": "hourly",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoWtwpFEaRuHYqcNK6KyX",
    "location": "Remote",
    "low_alerted": true,
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-10-24T01:05:06",
    "rate_freq": "hourly",
    "rate_max": 350.0,
