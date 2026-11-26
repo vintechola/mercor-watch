@@ -1025,9 +1025,13 @@
     [
      "2026-11-26T02:25:52Z",
      59
+    ],
+    [
+     "2026-11-26T08:56:58Z",
+     58
     ]
    ],
-   "slots": 59,
+   "slots": 58,
    "slots_before": 36,
    "title": "Music Production Expert - Hungarian"
   },
@@ -1865,9 +1869,13 @@
     [
      "2026-11-26T06:31:31Z",
      54
+    ],
+    [
+     "2026-11-26T08:56:58Z",
+     53
     ]
    ],
-   "slots": 54,
+   "slots": 53,
    "slots_before": 35,
    "title": "Music Production Expert - Vietnamese"
   },
@@ -1944,9 +1952,13 @@
     [
      "2026-11-26T02:25:52Z",
      56
+    ],
+    [
+     "2026-11-26T08:56:58Z",
+     55
     ]
    ],
-   "slots": 56,
+   "slots": 55,
    "slots_before": 33,
    "title": "Music Production Expert - Greek"
   },
@@ -5088,10 +5100,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T11:23:43Z",
-     5519
-    ],
-    [
      "2026-11-25T12:28:11Z",
      5514
     ],
@@ -5166,9 +5174,13 @@
     [
      "2026-11-26T07:59:05Z",
      5445
+    ],
+    [
+     "2026-11-26T08:56:58Z",
+     5444
     ]
    ],
-   "slots": 5445,
+   "slots": 5444,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
