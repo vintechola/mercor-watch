@@ -1644,7 +1644,13 @@
    "rate_max": 19.0,
    "rate_min": 11.0,
    "reopen_count": 0,
-   "slots": 36,
+   "slot_hist": [
+    [
+     "2026-11-26T00:05:23Z",
+     34
+    ]
+   ],
+   "slots": 34,
    "title": "Music Production Expert - Telugu"
   },
   "list_AAABnzh0CO9UhmGtnTRMz50Y": {
@@ -1678,7 +1684,13 @@
    "rate_max": 54.0,
    "rate_min": 18.0,
    "reopen_count": 0,
-   "slots": 32,
+   "slot_hist": [
+    [
+     "2026-11-26T00:05:23Z",
+     30
+    ]
+   ],
+   "slots": 30,
    "title": "Music Production Expert - Mandarin Chinese"
   },
   "list_AAABnzh0kP34kYOzBF1JTaIA": {
@@ -4937,10 +4949,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T03:28:46Z",
-     5541
-    ],
-    [
      "2026-11-25T04:37:33Z",
      5534
     ],
@@ -5015,9 +5023,13 @@
     [
      "2026-11-25T23:18:04Z",
      5469
+    ],
+    [
+     "2026-11-26T00:05:23Z",
+     5462
     ]
    ],
-   "slots": 5469,
+   "slots": 5462,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5080,9 +5092,13 @@
     [
      "2026-11-25T16:54:32Z",
      33
+    ],
+    [
+     "2026-11-26T00:05:23Z",
+     32
     ]
    ],
-   "slots": 33,
+   "slots": 32,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -5300,9 +5316,13 @@
     [
      "2026-11-25T15:52:02Z",
      27
+    ],
+    [
+     "2026-11-26T00:05:23Z",
+     26
     ]
    ],
-   "slots": 27,
+   "slots": 26,
    "title": "Infectious Disease Physician"
   },
   "list_AAABoWtwOLHV8_xCHd5M26Cl": {
@@ -5876,9 +5896,13 @@
     [
      "2026-11-25T23:18:04Z",
      5
+    ],
+    [
+     "2026-11-26T00:05:23Z",
+     4
     ]
    ],
-   "slots": 5,
+   "slots": 4,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
