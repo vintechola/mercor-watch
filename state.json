@@ -1058,9 +1058,13 @@
     [
      "2026-11-26T02:25:52Z",
      62
+    ],
+    [
+     "2026-11-26T16:09:29Z",
+     61
     ]
    ],
-   "slots": 62,
+   "slots": 61,
    "slots_before": 39,
    "title": "Music Production Expert - Norwegian"
   },
@@ -1794,9 +1798,13 @@
     [
      "2026-11-26T04:33:33Z",
      52
+    ],
+    [
+     "2026-11-26T16:09:29Z",
+     51
     ]
    ],
-   "slots": 52,
+   "slots": 51,
    "slots_before": 30,
    "title": "Music Production Expert - Mandarin Chinese"
   },
@@ -5152,10 +5160,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T18:31:26Z",
-     5498
-    ],
-    [
      "2026-11-25T19:32:08Z",
      5493
     ],
@@ -5230,9 +5234,13 @@
     [
      "2026-11-26T15:08:12Z",
      5437
+    ],
+    [
+     "2026-11-26T16:09:29Z",
+     5432
     ]
    ],
-   "slots": 5437,
+   "slots": 5432,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
