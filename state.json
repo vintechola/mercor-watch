@@ -1120,9 +1120,13 @@
     [
      "2026-11-26T11:47:20Z",
      56
+    ],
+    [
+     "2026-11-26T14:08:33Z",
+     55
     ]
    ],
-   "slots": 56,
+   "slots": 55,
    "slots_before": 36,
    "title": "Music Production Expert - Hebrew"
   },
@@ -1831,9 +1835,13 @@
     [
      "2026-11-26T11:47:20Z",
      55
+    ],
+    [
+     "2026-11-26T14:08:33Z",
+     54
     ]
    ],
-   "slots": 55,
+   "slots": 54,
    "slots_before": 36,
    "title": "Music Production Expert - Punjabi"
   },
@@ -1864,9 +1872,13 @@
     [
      "2026-11-26T11:47:20Z",
      57
+    ],
+    [
+     "2026-11-26T14:08:33Z",
+     55
     ]
    ],
-   "slots": 57,
+   "slots": 55,
    "slots_before": 36,
    "title": "Music Production Expert - Russian"
   },
@@ -5140,10 +5152,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T16:54:32Z",
-     5495
-    ],
-    [
      "2026-11-25T17:40:32Z",
      5490
     ],
@@ -5218,9 +5226,13 @@
     [
      "2026-11-26T12:50:33Z",
      5441
+    ],
+    [
+     "2026-11-26T14:08:33Z",
+     5439
     ]
    ],
-   "slots": 5441,
+   "slots": 5439,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -6041,10 +6053,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-16T23:22:11Z",
-     25
-    ],
-    [
      "2026-11-17T18:30:31Z",
      24
     ],
@@ -6119,9 +6127,13 @@
     [
      "2026-11-26T00:05:23Z",
      4
+    ],
+    [
+     "2026-11-26T14:08:33Z",
+     3
     ]
    ],
-   "slots": 4,
+   "slots": 3,
    "title": "Anesthesiologist"
   },
   "list_AAABoWtwvCp5G7Swt0JDu7wl": {
@@ -9803,10 +9815,14 @@
     [
      "2026-11-26T12:50:33Z",
      13
+    ],
+    [
+     "2026-11-26T14:08:33Z",
+     99
     ]
    ],
-   "slots": 13,
-   "slots_before": 10,
+   "slots": 99,
+   "slots_before": 13,
    "title": "Generalist for Queries Testing Vision"
   },
   "list_AAABofvfl94SAaye36JOwo-t": {
