@@ -1779,9 +1779,13 @@
     [
      "2026-11-26T02:25:52Z",
      59
+    ],
+    [
+     "2026-11-26T05:35:48Z",
+     58
     ]
    ],
-   "slots": 59,
+   "slots": 58,
    "slots_before": 36,
    "title": "Music Production Expert - Punjabi"
   },
@@ -1841,9 +1845,13 @@
     [
      "2026-11-26T04:33:33Z",
      56
+    ],
+    [
+     "2026-11-26T05:35:48Z",
+     55
     ]
    ],
-   "slots": 56,
+   "slots": 55,
    "slots_before": 35,
    "title": "Music Production Expert - Vietnamese"
   },
@@ -5064,10 +5072,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T08:00:14Z",
-     5524
-    ],
-    [
      "2026-11-25T09:10:41Z",
      5521
     ],
@@ -5142,9 +5146,13 @@
     [
      "2026-11-26T03:25:19Z",
      5450
+    ],
+    [
+     "2026-11-26T05:35:48Z",
+     5447
     ]
    ],
-   "slots": 5450,
+   "slots": 5447,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
