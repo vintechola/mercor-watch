@@ -1671,9 +1671,13 @@
     [
      "2026-11-26T02:25:52Z",
      52
+    ],
+    [
+     "2026-11-26T03:25:19Z",
+     51
     ]
    ],
-   "slots": 52,
+   "slots": 51,
    "slots_before": 29,
    "title": "Music Production Expert - Thai"
   },
@@ -5048,10 +5052,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T06:31:50Z",
-     5528
-    ],
-    [
      "2026-11-25T08:00:14Z",
      5524
     ],
@@ -5126,9 +5126,13 @@
     [
      "2026-11-26T02:25:52Z",
      5458
+    ],
+    [
+     "2026-11-26T03:25:19Z",
+     5450
     ]
    ],
-   "slots": 5458,
+   "slots": 5450,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5747,9 +5751,13 @@
     [
      "2026-11-25T22:24:01Z",
      25
+    ],
+    [
+     "2026-11-26T03:25:19Z",
+     24
     ]
    ],
-   "slots": 25,
+   "slots": 24,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -6151,9 +6159,13 @@
     [
      "2026-11-26T01:15:13Z",
      33
+    ],
+    [
+     "2026-11-26T03:25:19Z",
+     32
     ]
    ],
-   "slots": 33,
+   "slots": 32,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
