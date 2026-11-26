@@ -1741,7 +1741,13 @@
    "rate_max": 18.0,
    "rate_min": 18.0,
    "reopen_count": 0,
-   "slots": 36,
+   "slot_hist": [
+    [
+     "2026-11-26T01:15:13Z",
+     35
+    ]
+   ],
+   "slots": 35,
    "title": "Music Production Expert - Vietnamese"
   },
   "list_AAABnzhzfDIFHoCRDwJJYYes": {
@@ -1808,7 +1814,13 @@
    "rate_max": 42.0,
    "rate_min": 17.0,
    "reopen_count": 0,
-   "slots": 34,
+   "slot_hist": [
+    [
+     "2026-11-26T01:15:13Z",
+     33
+    ]
+   ],
+   "slots": 33,
    "title": "Music Production Expert - Greek"
   },
   "list_AAABnzhzpTRykCmGaJ9Nta1s": {
@@ -4111,10 +4123,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T03:56:30Z",
-     57
-    ],
-    [
      "2026-11-18T11:05:55Z",
      56
     ],
@@ -4189,9 +4197,13 @@
     [
      "2026-11-25T23:18:04Z",
      42
+    ],
+    [
+     "2026-11-26T01:15:13Z",
+     41
     ]
    ],
-   "slots": 42,
+   "slots": 41,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -4949,10 +4961,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-25T04:37:33Z",
-     5534
-    ],
-    [
      "2026-11-25T05:36:56Z",
      5532
     ],
@@ -5027,9 +5035,13 @@
     [
      "2026-11-26T00:05:23Z",
      5462
+    ],
+    [
+     "2026-11-26T01:15:13Z",
+     5461
     ]
    ],
-   "slots": 5462,
+   "slots": 5461,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5800,9 +5812,13 @@
     [
      "2026-11-25T03:28:46Z",
      20
+    ],
+    [
+     "2026-11-26T01:15:13Z",
+     19
     ]
    ],
-   "slots": 20,
+   "slots": 19,
    "title": "Orthopedic Surgeon"
   },
   "list_AAABoWtwpFEaRuHYqcNK6KyX": {
@@ -6040,9 +6056,13 @@
     [
      "2026-11-25T17:40:32Z",
      34
+    ],
+    [
+     "2026-11-26T01:15:13Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
