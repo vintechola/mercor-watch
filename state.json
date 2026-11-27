@@ -1815,9 +1815,13 @@
     [
      "2026-11-26T12:50:33Z",
      54
+    ],
+    [
+     "2026-11-27T13:33:09Z",
+     53
     ]
    ],
-   "slots": 54,
+   "slots": 53,
    "slots_before": 34,
    "title": "Music Production Expert - Telugu"
   },
@@ -5251,10 +5255,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-26T09:58:03Z",
-     5441
-    ],
-    [
      "2026-11-26T10:53:14Z",
      5443
     ],
@@ -5329,9 +5329,13 @@
     [
      "2026-11-27T12:15:23Z",
      5415
+    ],
+    [
+     "2026-11-27T13:33:09Z",
+     5414
     ]
    ],
-   "slots": 5415,
+   "slots": 5414,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5918,9 +5922,13 @@
     [
      "2026-11-26T20:48:52Z",
      24
+    ],
+    [
+     "2026-11-27T13:33:09Z",
+     23
     ]
    ],
-   "slots": 24,
+   "slots": 23,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -9966,10 +9974,14 @@
     [
      "2026-11-26T19:59:04Z",
      98
+    ],
+    [
+     "2026-11-27T13:33:09Z",
+     114
     ]
    ],
-   "slots": 98,
-   "slots_before": 13,
+   "slots": 114,
+   "slots_before": 98,
    "title": "Generalist for Queries Testing Vision"
   },
   "list_AAABofvfl94SAaye36JOwo-t": {
