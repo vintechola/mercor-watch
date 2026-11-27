@@ -1885,9 +1885,13 @@
     [
      "2026-11-27T17:38:33Z",
      49
+    ],
+    [
+     "2026-11-27T21:23:03Z",
+     48
     ]
    ],
-   "slots": 49,
+   "slots": 48,
    "slots_before": 30,
    "title": "Music Production Expert - Mandarin Chinese"
   },
@@ -4429,10 +4433,6 @@
    "reopen_count": 0,
    "slot_hist": [
     [
-     "2026-11-18T17:27:50Z",
-     56
-    ],
-    [
      "2026-11-18T20:12:44Z",
      57
     ],
@@ -4507,9 +4507,13 @@
     [
      "2026-11-27T19:28:14Z",
      39
+    ],
+    [
+     "2026-11-27T21:23:03Z",
+     38
     ]
    ],
-   "slots": 39,
+   "slots": 38,
    "slots_before": 53,
    "title": "Economics Research Expert"
   },
@@ -5271,10 +5275,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-26T18:04:04Z",
-     5431
-    ],
-    [
      "2026-11-26T18:59:36Z",
      5429
     ],
@@ -5349,9 +5349,13 @@
     [
      "2026-11-27T20:24:35Z",
      5408
+    ],
+    [
+     "2026-11-27T21:23:03Z",
+     5405
     ]
    ],
-   "slots": 5408,
+   "slots": 5405,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -5654,9 +5658,13 @@
     [
      "2026-11-26T00:05:23Z",
      26
+    ],
+    [
+     "2026-11-27T21:23:03Z",
+     25
     ]
    ],
-   "slots": 26,
+   "slots": 25,
    "title": "Infectious Disease Physician"
   },
   "list_AAABoWtwOLHV8_xCHd5M26Cl": {
@@ -5798,9 +5806,13 @@
     [
      "2026-11-27T00:25:42Z",
      34
+    ],
+    [
+     "2026-11-27T21:23:03Z",
+     33
     ]
    ],
-   "slots": 34,
+   "slots": 33,
    "title": "Neurologist"
   },
   "list_AAABoWtwYkSInwja94FDHa0o": {
@@ -5950,9 +5962,13 @@
     [
      "2026-11-27T13:33:09Z",
      23
+    ],
+    [
+     "2026-11-27T21:23:03Z",
+     22
     ]
    ],
-   "slots": 23,
+   "slots": 22,
    "title": "Critical Care Physician"
   },
   "list_AAABoWtwgexs-u2gvjVJi7wH": {
@@ -10032,6 +10048,23 @@
    "reopen_count": 0,
    "slots": 220,
    "title": "Higher Education Experts"
+  },
+  "list_AAABog7vaaMr5nj4ulxCxpG4": {
+   "active": true,
+   "category": "Miscellaneous",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-27T21:23:03Z",
+   "id": "list_AAABog7vaaMr5nj4ulxCxpG4",
+   "location": null,
+   "misses": 0,
+   "posted": "2026-11-24T19:01:41",
+   "rate_freq": "hourly",
+   "rate_max": 60.0,
+   "rate_min": 50.0,
+   "reopen_count": 0,
+   "slots": 258,
+   "title": "Paid Opinion Survey Participant (2 Short Surveys)"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
    "active": true,
