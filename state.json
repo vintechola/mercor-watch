@@ -5255,10 +5255,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-26T10:53:14Z",
-     5443
-    ],
-    [
      "2026-11-26T11:47:20Z",
      5442
     ],
@@ -5333,9 +5329,13 @@
     [
      "2026-11-27T13:33:09Z",
      5414
+    ],
+    [
+     "2026-11-27T15:33:48Z",
+     5413
     ]
    ],
-   "slots": 5414,
+   "slots": 5413,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -6466,14 +6466,14 @@
    "title": "French Linguistic Experts"
   },
   "list_AAABoXlxJUZCaSZmMttJ6IMb": {
-   "active": true,
+   "active": false,
    "category": null,
-   "closed_at": null,
+   "closed_at": "2026-11-27T15:33:48Z",
    "commitment": "part-time",
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoXlxJUZCaSZmMttJ6IMb",
    "location": "Remote",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-10-26T18:20:21",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -8410,7 +8410,7 @@
   },
   "list_AAABodU_GsvB95piXJZKNrs0": {
    "active": true,
-   "category": null,
+   "category": "Language and Audio",
    "closed_at": null,
    "commitment": "part-time",
    "first_seen": "2026-11-13T14:37:54Z",
@@ -8427,7 +8427,7 @@
   },
   "list_AAABodU_MnCKJjLcP6BGGIxU": {
    "active": true,
-   "category": null,
+   "category": "Data Analysis",
    "closed_at": null,
    "commitment": "part-time",
    "first_seen": "2026-11-13T14:37:54Z",
@@ -8444,7 +8444,7 @@
   },
   "list_AAABodU_StwmvCOcOiBPvrtV": {
    "active": true,
-   "category": null,
+   "category": "Language and Audio",
    "closed_at": null,
    "commitment": "part-time",
    "first_seen": "2026-11-13T14:37:54Z",
@@ -8461,7 +8461,7 @@
   },
   "list_AAABodU_YtLjYl1xEhZAt7MR": {
    "active": true,
-   "category": null,
+   "category": "Language and Audio",
    "closed_at": null,
    "commitment": "part-time",
    "first_seen": "2026-11-13T14:37:54Z",
