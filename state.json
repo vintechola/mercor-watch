@@ -144,7 +144,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn2445JJgOdUpk4dC65kk",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-17T03:57:30",
    "rate_freq": "hourly",
    "rate_max": 100.0,
@@ -369,7 +369,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABn7QFFl-KZetwbZ5BB6R1",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-07-30T17:14:20",
    "rate_freq": "hourly",
    "rate_max": 150.0,
@@ -1647,7 +1647,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnoRPKUEJGDN6gxtK-Z3q",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-06-01T17:50:41",
    "rate_freq": "hourly",
    "rate_max": 100.0,
@@ -1738,7 +1738,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABnxIY9_U0wUIMB3JBp7IO",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-06-29T06:37:34",
    "rate_freq": "hourly",
    "rate_max": 100.0,
@@ -5267,10 +5267,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-26T14:08:33Z",
-     5439
-    ],
-    [
      "2026-11-26T15:08:12Z",
      5437
     ],
@@ -5345,9 +5341,13 @@
     [
      "2026-11-27T17:38:33Z",
      5411
+    ],
+    [
+     "2026-11-27T18:27:06Z",
+     5407
     ]
    ],
-   "slots": 5411,
+   "slots": 5407,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
