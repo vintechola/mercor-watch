@@ -6473,7 +6473,7 @@
    "first_seen": "2026-11-13T05:40:12Z",
    "id": "list_AAABoXlxJUZCaSZmMttJ6IMb",
    "location": "Remote",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-26T18:20:21",
    "rate_freq": "hourly",
    "rate_max": 50.0,
@@ -9978,9 +9978,13 @@
     [
      "2026-11-27T13:33:09Z",
      114
+    ],
+    [
+     "2026-11-27T14:35:06Z",
+     116
     ]
    ],
-   "slots": 114,
+   "slots": 116,
    "slots_before": 98,
    "title": "Generalist for Queries Testing Vision"
   },
