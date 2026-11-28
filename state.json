@@ -199,9 +199,13 @@
     [
      "2026-11-25T17:40:32Z",
      31
+    ],
+    [
+     "2026-11-28T00:08:08Z",
+     33
     ]
    ],
-   "slots": 31,
+   "slots": 33,
    "title": "Sales and Marketing Expert"
   },
   "list_AAABn6TCgs826CBSyVRP6L2k": {
@@ -1161,9 +1165,13 @@
     [
      "2026-11-27T16:40:43Z",
      54
+    ],
+    [
+     "2026-11-28T00:08:08Z",
+     53
     ]
    ],
-   "slots": 54,
+   "slots": 53,
    "slots_before": 36,
    "title": "Music Production Expert - Hebrew"
   },
@@ -5662,9 +5670,13 @@
     [
      "2026-11-27T21:23:03Z",
      25
+    ],
+    [
+     "2026-11-28T00:08:08Z",
+     24
     ]
    ],
-   "slots": 25,
+   "slots": 24,
    "title": "Infectious Disease Physician"
   },
   "list_AAABoWtwOLHV8_xCHd5M26Cl": {
@@ -6038,9 +6050,13 @@
     [
      "2026-11-26T22:32:40Z",
      21
+    ],
+    [
+     "2026-11-28T00:08:08Z",
+     20
     ]
    ],
-   "slots": 21,
+   "slots": 20,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -10026,10 +10042,14 @@
     [
      "2026-11-27T16:40:43Z",
      115
+    ],
+    [
+     "2026-11-28T00:08:08Z",
+     125
     ]
    ],
-   "slots": 115,
-   "slots_before": 98,
+   "slots": 125,
+   "slots_before": 115,
    "title": "Generalist for Queries Testing Vision"
   },
   "list_AAABofvfl94SAaye36JOwo-t": {
@@ -10071,9 +10091,13 @@
     [
      "2026-11-27T23:19:35Z",
      229
+    ],
+    [
+     "2026-11-28T00:08:08Z",
+     221
     ]
    ],
-   "slots": 229,
+   "slots": 221,
    "title": "Paid Opinion Survey Participant (2 Short Surveys)"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
