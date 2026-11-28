@@ -5307,10 +5307,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-27T15:33:48Z",
-     5413
-    ],
-    [
      "2026-11-27T16:40:43Z",
      5412
     ],
@@ -5385,9 +5381,13 @@
     [
      "2026-11-28T15:24:19Z",
      5389
+    ],
+    [
+     "2026-11-28T16:15:26Z",
+     5387
     ]
    ],
-   "slots": 5389,
+   "slots": 5387,
    "slots_before": 5390,
    "title": "Retail Trader"
   },
@@ -5458,9 +5458,13 @@
     [
      "2026-11-27T19:28:14Z",
      31
+    ],
+    [
+     "2026-11-28T16:15:26Z",
+     32
     ]
    ],
-   "slots": 31,
+   "slots": 32,
    "title": "Psychiatrist"
   },
   "list_AAABoWtv69DhD_Gd84dDAocK": {
@@ -6082,9 +6086,13 @@
     [
      "2026-11-28T00:08:08Z",
      20
+    ],
+    [
+     "2026-11-28T16:15:26Z",
+     19
     ]
    ],
-   "slots": 20,
+   "slots": 19,
    "title": "General Surgeon"
   },
   "list_AAABoWtwjZ8YPP1X8zpPf7U3": {
@@ -10179,9 +10187,13 @@
     [
      "2026-11-28T15:24:19Z",
      186
+    ],
+    [
+     "2026-11-28T16:15:26Z",
+     182
     ]
    ],
-   "slots": 186,
+   "slots": 182,
    "title": "Paid Opinion Survey Participant (2 Short Surveys)"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
