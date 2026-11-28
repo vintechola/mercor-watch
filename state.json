@@ -5307,10 +5307,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-27T16:40:43Z",
-     5412
-    ],
-    [
      "2026-11-27T17:38:33Z",
      5411
     ],
@@ -5385,9 +5381,13 @@
     [
      "2026-11-28T16:15:26Z",
      5387
+    ],
+    [
+     "2026-11-28T17:03:08Z",
+     5386
     ]
    ],
-   "slots": 5387,
+   "slots": 5386,
    "slots_before": 5390,
    "title": "Retail Trader"
   },
@@ -6522,9 +6522,13 @@
     [
      "2026-11-26T17:15:21Z",
      31
+    ],
+    [
+     "2026-11-28T17:03:08Z",
+     30
     ]
    ],
-   "slots": 31,
+   "slots": 30,
    "title": "Radiologist"
   },
   "list_AAABoX8yFU3zRlBRS-lJBaPO": {
@@ -10191,9 +10195,13 @@
     [
      "2026-11-28T16:15:26Z",
      182
+    ],
+    [
+     "2026-11-28T17:03:08Z",
+     177
     ]
    ],
-   "slots": 182,
+   "slots": 177,
    "title": "Paid Opinion Survey Participant (2 Short Surveys)"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
