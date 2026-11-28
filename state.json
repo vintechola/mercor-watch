@@ -5307,10 +5307,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-27T13:33:09Z",
-     5414
-    ],
-    [
      "2026-11-27T15:33:48Z",
      5413
     ],
@@ -5385,9 +5381,13 @@
     [
      "2026-11-28T14:36:43Z",
      5390
+    ],
+    [
+     "2026-11-28T15:24:19Z",
+     5389
     ]
    ],
-   "slots": 5390,
+   "slots": 5389,
    "slots_before": 5390,
    "title": "Retail Trader"
   },
@@ -10175,9 +10175,13 @@
     [
      "2026-11-28T14:36:43Z",
      187
+    ],
+    [
+     "2026-11-28T15:24:19Z",
+     186
     ]
    ],
-   "slots": 187,
+   "slots": 186,
    "title": "Paid Opinion Survey Participant (2 Short Surveys)"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
