@@ -5291,10 +5291,6 @@
    "reopen_count": 1,
    "slot_hist": [
     [
-     "2026-11-26T22:32:40Z",
-     5424
-    ],
-    [
      "2026-11-26T23:30:01Z",
      5423
     ],
@@ -5369,9 +5365,13 @@
     [
      "2026-11-28T03:19:15Z",
      5396
+    ],
+    [
+     "2026-11-28T05:26:30Z",
+     5395
     ]
    ],
-   "slots": 5396,
+   "slots": 5395,
    "slots_before": 5490,
    "title": "Retail Trader"
   },
@@ -10131,9 +10131,13 @@
     [
      "2026-11-28T04:21:26Z",
      200
+    ],
+    [
+     "2026-11-28T05:26:30Z",
+     197
     ]
    ],
-   "slots": 200,
+   "slots": 197,
    "title": "Paid Opinion Survey Participant (2 Short Surveys)"
   },
   "list_AAABogy6TN30omdL54pBvZGn": {
@@ -10186,6 +10190,91 @@
    "reopen_count": 0,
    "slots": 20,
    "title": "Senior Game Designer (AI Prototyping)"
+  },
+  "list_AAABoh_4WjDD4dn2ePFCorY-": {
+   "active": true,
+   "category": "Medicine",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-28T05:26:30Z",
+   "id": "list_AAABoh_4WjDD4dn2ePFCorY-",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-28T02:24:59",
+   "rate_freq": "hourly",
+   "rate_max": 180.0,
+   "rate_min": 115.0,
+   "reopen_count": 0,
+   "slots": 14,
+   "title": "Rubrics Expert - Healthcare"
+  },
+  "list_AAABoh_4fP6K-S6bZ1lJTrc3": {
+   "active": true,
+   "category": "Finance",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-28T05:26:30Z",
+   "id": "list_AAABoh_4fP6K-S6bZ1lJTrc3",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-28T02:25:08",
+   "rate_freq": "hourly",
+   "rate_max": 120.0,
+   "rate_min": 90.0,
+   "reopen_count": 0,
+   "slots": 14,
+   "title": "Rubrics Expert - Financial Services"
+  },
+  "list_AAABoh_4zcXSVbrFJSFOmKTv": {
+   "active": true,
+   "category": "Law",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-28T05:26:30Z",
+   "id": "list_AAABoh_4zcXSVbrFJSFOmKTv",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-28T02:25:29",
+   "rate_freq": "hourly",
+   "rate_max": 140.0,
+   "rate_min": 100.0,
+   "reopen_count": 0,
+   "slots": 6,
+   "title": "Rubrics Expert - Legal"
+  },
+  "list_AAABoh_5IzK-FjrYsTBDUpmc": {
+   "active": true,
+   "category": "Miscellaneous",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-28T05:26:30Z",
+   "id": "list_AAABoh_5IzK-FjrYsTBDUpmc",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-28T02:25:51",
+   "rate_freq": "hourly",
+   "rate_max": 110.0,
+   "rate_min": 85.0,
+   "reopen_count": 0,
+   "slots": 54,
+   "title": "Rubrics Expert - Generalist"
+  },
+  "list_AAABoh_5Qv09iivLH2lAzYaF": {
+   "active": true,
+   "category": "Software Engineering",
+   "closed_at": null,
+   "commitment": "hourly",
+   "first_seen": "2026-11-28T05:26:30Z",
+   "id": "list_AAABoh_5Qv09iivLH2lAzYaF",
+   "location": "Remote",
+   "misses": 0,
+   "posted": "2026-11-28T02:25:59",
+   "rate_freq": "hourly",
+   "rate_max": 120.0,
+   "rate_min": 80.0,
+   "reopen_count": 0,
+   "slots": 8,
+   "title": "Rubrics Expert - Technology & Software"
   },
   "list_AAABohqRvG_8qkyx0blHU7zI": {
    "active": true,
